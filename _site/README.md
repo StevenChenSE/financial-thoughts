@@ -25,6 +25,8 @@ video_url: "youtube_video_id"
 video_duration: "12:34"
 ---
 
+**Note:** `video_url` should be just the YouTube video ID (e.g., `dQw4w9WgXcQ`), not the full URL. The HTML template automatically constructs the full YouTube link.
+
 Your article content here...
 ```
 
