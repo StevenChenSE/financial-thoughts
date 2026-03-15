@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financial Thoughts</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5/dist/reset.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: #f5f5f5;
+      min-height: 100vh;
+    }
+    .header {
+      background: #001529;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .header-title {
+      color: #fff;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .header-nav {
+      display: flex;
+      gap: 16px;
+    }
+    .header-nav a {
+      color: rgba(255,255,255,0.85);
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+    .header-nav a:hover {
+      color: #fff;
+    }
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+    .hero-section {
+      background: #fff;
+      border-radius: 8px;
+      padding: 48px 24px;
+      text-align: center;
+      margin-bottom: 24px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .hero-title {
+      font-size: 32px;
+      font-weight: 700;
+      color: #262626;
+      margin-bottom: 16px;
+    }
+    .hero-subtitle {
+      font-size: 16px;
+      color: #8c8c8c;
+      margin-bottom: 24px;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .stat-card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 24px 16px;
+      text-align: center;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #1890ff;
+    }
+    .stat-label {
+      font-size: 14px;
+      color: #8c8c8c;
+      margin-top: 8px;
+    }
+    .articles-section {
+      background: #fff;
+      border-radius: 8px;
+      padding: 24px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .section-title {
+      font-size: 20px;
+      font-weight: 600;
+      color: #262626;
+      margin-bottom: 20px;
+    }
+    .article-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .article-card {
+      padding: 20px;
+      border: 1px solid #f0f0f0;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    .article-card:hover {
+      border-color: #1890ff;
+      box-shadow: 0 2px 8px rgba(24,144,255,0.15);
+    }
+    .article-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: #262626;
+      margin-bottom: 8px;
+    }
+    .article-excerpt {
+      font-size: 14px;
+      color: #8c8c8c;
+      line-height: 1.6;
+    }
+    .article-meta {
+      display: flex;
+      gap: 16px;
+      margin-top: 12px;
+      font-size: 12px;
+      color: #bfbfbf;
+    }
+    .footer {
+      background: #001529;
+      padding: 24px 16px;
+      text-align: center;
+      margin-top: 24px;
+    }
+    .footer-text {
+      color: rgba(255,255,255,0.65);
+      font-size: 14px;
+    }
+    @media (max-width: 768px) {
+      .header {
+        padding: 12px 16px;
+      }
+      .header-title {
+        font-size: 18px;
+      }
+      .header-nav {
+        display: none;
+      }
+      .hero-section {
+        padding: 32px 16px;
+      }
+      .hero-title {
+        font-size: 24px;
+      }
+      .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .stat-card {
+        padding: 16px;
+      }
+      .stat-value {
+        font-size: 24px;
+      }
+      .main-content {
+        padding: 16px;
+      }
+    }
+    @media (max-width: 480px) {
+      .stats-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-title">Financial Thoughts</div>
+    <div class="header-nav">
+      <a href="#">Home</a>
+      <a href="#">Articles</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </div>
+  </div>
+
+  <div class="main-content">
+    <div class="hero-section">
+      <h1 class="hero-title">Financial Thoughts</h1>
+      <p class="hero-subtitle">Insights and perspectives on personal finance, investing, and wealth building</p>
+    </div>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-value">50+</div>
+        <div class="stat-label">Articles</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">10K+</div>
+        <div class="stat-label">Readers</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">5K+</div>
+        <div class="stat-label">Subscribers</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">4.9</div>
+        <div class="stat-label">Rating</div>
+      </div>
+    </div>
+
+    <div class="articles-section">
+      <h2 class="section-title">Latest Articles</h2>
+      <div class="article-list">
+        <div class="article-card">
+          <h3 class="article-title">Getting Started with Personal Finance</h3>
+          <p class="article-excerpt">Learn the fundamentals of personal finance and how to take control of your financial future with these essential tips and strategies.</p>
+          <div class="article-meta">
+            <span>Jan 15, 2026</span>
+            <span>5 min read</span>
+            <span>Personal Finance</span>
+          </div>
+        </div>
+        <div class="article-card">
+          <h3 class="article-title">Investment Strategies for Beginners</h3>
+          <p class="article-excerpt">A comprehensive guide to understanding different investment options and building a diversified portfolio that matches your risk tolerance.</p>
+          <div class="article-meta">
+            <span>Jan 10, 2026</span>
+            <span>7 min read</span>
+            <span>Investing</span>
+          </div>
+        </div>
+        <div class="article-card">
+          <h3 class="article-title">Building Wealth in Your 30s</h3>
+          <p class="article-excerpt">Key financial milestones to achieve in your 30s and actionable steps to accelerate your wealth building journey.</p>
+          <div class="article-meta">
+            <span>Jan 5, 2026</span>
+            <span>6 min read</span>
+            <span>Wealth Building</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p class="footer-text">© 2026 Financial Thoughts. All rights reserved.</p>
+  </div>
+</body>
+</html>
