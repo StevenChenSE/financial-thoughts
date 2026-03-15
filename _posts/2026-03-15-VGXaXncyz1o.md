@@ -5,7 +5,7 @@ date: 2026-03-15
 category: Finance
 excerpt: "For over a century, the security of the Middle East’s oil-rich kingdoms rested on the power of a global protector. First, it was the British who, for more than a hundred years, “promised and delivered..."
 word_count: 332
-video_url: "https://youtu.be/VGXaXncyz1o"
+video_url: "VGXaXncyz1o"
 ---
 
 For over a century, the security of the Middle East’s oil-rich kingdoms rested on the power of a global protector. First, it was the British who, for more than a hundred years, “promised and delivered on protection for these little oil kingdoms, including Saudi Arabia.” That mantle later passed to the United States, which “agreed privately in the 1930s to protect the Saudi oil resources.”

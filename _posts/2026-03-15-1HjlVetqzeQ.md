@@ -5,7 +5,7 @@ date: 2026-03-15
 category: Finance
 excerpt: "In the complex theater of Middle Eastern geopolitics, one retired U.S. military officer, Daryl, offers a blunt and sobering diagnosis of American policy toward Iran: a failure rooted in the absence of..."
 word_count: 474
-video_url: "https://youtu.be/1HjlVetqzeQ"
+video_url: "1HjlVetqzeQ"
 ---
 
 In the complex theater of Middle Eastern geopolitics, one retired U.S. military officer, Daryl, offers a blunt and sobering diagnosis of American policy toward Iran: a failure rooted in the absence of a coherent strategy. His analysis points to a toxic blend of ignorance and arrogance in Washington that has led the United States into a protracted, unwinnable position.

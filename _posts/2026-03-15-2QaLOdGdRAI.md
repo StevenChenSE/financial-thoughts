@@ -5,7 +5,7 @@ date: 2026-03-15
 category: Finance
 excerpt: "The standoff in the Gulf has reached a critical juncture, with energy supplies grinding to a halt and diplomatic off-ramps appearing increasingly elusive. At the heart of the crisis is a fundamental d..."
 word_count: 306
-video_url: "https://youtu.be/2QaLOdGdRAI"
+video_url: "2QaLOdGdRAI"
 ---
 
 The standoff in the Gulf has reached a critical juncture, with energy supplies grinding to a halt and diplomatic off-ramps appearing increasingly elusive. At the heart of the crisis is a fundamental disconnect: one side may be ready to de-escalate, but the other has signaled a clear intent to press forward.
