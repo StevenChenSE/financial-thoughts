@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - Financial Thoughts</title>
-  <link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}/favicon.svg">
+  <title> - Financial Thoughts</title>
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5/dist/reset.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
   <style>
@@ -58,16 +58,45 @@
 </head>
 <body>
   <div class="header">
-    <div class="header-title"><a href="{{ site.baseurl }}/">Financial Thoughts</a></div>
+    <div class="header-title"><a href="/financial-thoughts/">Financial Thoughts</a></div>
     <div class="header-nav">
-      <a href="{{ site.baseurl }}/">Home</a>
-      <a href="{{ site.baseurl }}/#articles">Articles</a>
+      <a href="/financial-thoughts/">Home</a>
+      <a href="/financial-thoughts/#articles">Articles</a>
       <a href="#">About</a>
     </div>
   </div>
 
   <div class="main-content">
-    {{ content }}
+    <div class="hero-section">
+  <h1 class="hero-title">Financial Thoughts</h1>
+  <p class="hero-subtitle">Insights and perspectives on personal finance, investing, and wealth building</p>
+</div>
+
+<div class="articles-section" id="articles">
+  <h2 class="section-title">Latest Articles</h2>
+  <div class="article-list">
+    
+      <a href="/financial-thoughts/personal%20finance/2026/01/15/personal-finance-basics.html" class="article-card">
+        <h3 class="article-title">Getting Started with Personal Finance</h3>
+        <p class="article-excerpt">Learn the fundamentals of personal finance and how to take control of your financial future.</p>
+        <div class="article-meta">
+          <span>Jan 15, 2026</span>
+          <span>Personal Finance</span>
+        </div>
+      </a>
+    
+      <a href="/financial-thoughts/investing/2026/01/10/investing-for-beginners.html" class="article-card">
+        <h3 class="article-title">Investment Strategies for Beginners</h3>
+        <p class="article-excerpt">A comprehensive guide to understanding different investment options.</p>
+        <div class="article-meta">
+          <span>Jan 10, 2026</span>
+          <span>Investing</span>
+        </div>
+      </a>
+    
+  </div>
+</div>
+
   </div>
 
   <div class="footer">
