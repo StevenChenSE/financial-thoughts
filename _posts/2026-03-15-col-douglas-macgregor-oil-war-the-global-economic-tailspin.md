@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Col. Douglas Macgregor: Oil, War & The Global Economic Tailspin"
+date: 2026-03-15
+category: Finance
+excerpt: "*An interview transcript from the Vancouver Resource Investment Conference, featuring Colonel Douglas Macgregor, former senior adviser to the Secretary of Defense, has been edited for clarity and narr..."
+word_count: 1290
+video_url: "https://youtu.be/ZWGN-2WaODU"
+---
+
+*An interview transcript from the Vancouver Resource Investment Conference, featuring Colonel Douglas Macgregor, former senior adviser to the Secretary of Defense, has been edited for clarity and narrative flow.*
+
+---
+
+**Host Daryl Thomas:** Colonel, welcome. Given the extreme conflict underway, with lives lost and economies impacted, I want to start with a recent Reuters article stating Iran’s military command is calling for $200-a-barrel oil. They clearly see oil as a pressure point. What’s your perspective?
+
+**Col. Douglas Macgregor:** Roughly 20 to 25% of the world’s oil supply passes through the Straits of Hormuz. Any disruption causes immense discomfort. The Iranian Revolutionary Guard Corps controls the straits—we do not. With precision-guided missiles linked to space-based surveillance, we’re in a very vulnerable position.
+
+We need to understand: Israel struck Iran while Iran was, at least in theory, negotiating with us. Our two real estate billionaires, [Jared] Kushner and [probably a reference to an envoy], were representing the president. In response, President Trump seems to have said, “Okay, they’ve started, we need to join the fight.” That decision has put the whole world in an economic tailspin.
+
+It’s not just 25% of the oil. Over 50% of China’s oil comes through the Straits of Hormuz, 72-73% of Japan’s, 65-68% of South Korea’s, and more than 50% of India’s. These are the engines of global economic productivity. What happens there affects billions.
+
+**Thomas:** What’s the current military situation?
+
+**Macgregor:** The Iranians struck back at us. They hit all our bases in the region. They destroyed all the early warning radars, which means warning time is now just three or four minutes. Israel itself has been virtually destroyed, sustaining damage far beyond the earlier conflict.
+
+We’ve killed some of Iran’s top leadership, adopting an Israeli-style assassination approach. But the Iranians were prepared with clearly delineated chains of succession. Everyone who was killed likely knew it and had designated replacements.
+
+Iran knew it couldn’t stand up to our air force—they didn’t have much of one to begin with. So, for 20 years, they invested in huge underground facilities and missiles. Before the war, the best estimate was 45,000 missiles. They’re not going to run out. Initially, they used older technology. Now, they’ve started using hypersonic precision-guided weapons that are devastating, accurate, and cannot be stopped.
+
+Listening to General [Kenneth] McKenzie talk about striking 5,000 targets reminded me of 1967 in Vietnam—dropping bomb counts as an indicator of victory. It never was. The Iranians were waiting. They were ready to accept damage because they had the means to strike back.
+
+**Thomas:** What does this mean for the region and U.S. presence?
+
+**Macgregor:** The first lesson for all the Gulf States is: we must leave. When this war ends, we’re leaving and we won’t be allowed back. Bringing us in is a magnet for war. We are a catalyst for conflict.
+
+Israel’s air and missile defense has effectively collapsed. The new missiles mean they can fire 10 instead of 100 to do more damage, with payloads of thousands of pounds of explosive. And large numbers of missiles and facilities in eastern Iran haven’t even been touched.
+
+**Thomas:** Is there a political off-ramp?
+
+**Macgregor:** I hear from people in Washington, and it’s been hinted on Fox News, that Donald Trump wants to get out. He’s figured out there’s nothing to win. Dropping bombs won’t change the region; it will only send the world into a recession or depression. He’s being told, “You’ve got to stop this soon, or we’ll be in a state of poverty with the rest of the world.”
+
+The rest of the world is already headed down the tubes. Gas prices in Europe are three to four times higher. In Asia, the situation is dire. And we don’t have a strong financial position, given our sovereign debt and currency debasement.
+
+The whole idea underpinning the American economy is the petrodollar: we buy your oil, you reinvest the dollars in our treasuries, enabling economic expansion. Well, that’s over. How rich are we going to remain without the petrodollar? Not terribly.
+
+I think we’ve effectively lost this war. The Iranians know it. We’ve likely sent feelers for a ceasefire, but the Iranian government has spoken with one voice: there will be no ceasefire. The real question is: can Israel survive several more days or weeks of this? Our missile stocks are dropping precipitously.
+
+**Thomas:** There’s talk of Gulf nations reassessing investments. Saudi Arabia pledged trillions. How does this impact relations and the petrodollar system?
+
+**Macgregor:** When there is no strategy in war, there is no end. We never had a strategy—just a combination of ignorance and arrogance. We didn’t understand Iran, a civilizational state that’s been around for 2,700 years. All of President Trump’s demands were Israeli demands. We’ve been acting as Israel’s enforcer, demanding Iran surrender its missile arsenal and submit to Israeli hegemony. That’s an impossibility.
+
+Now, effectively, the region’s oil and natural gas are offline. It’s not just stopped; it’s over for at least six months to a year. There’s talk of destroying Iran’s oil terminal at Kharg Island. Iran has said if we do that, they will destroy all oil infrastructure in the Persian Gulf. They will do it. Look at what they’ve done already. We can’t prevent it.
+
+The world is breathing down our necks, saying if we don’t stop, we’re headed for a catastrophic global economic reset. The GCC has little flexibility. We promised protection to these oil kingdoms for decades, but we can’t deliver. We couldn’t even defeat the Houthis in Yemen. How did we think we could take on a nation of 93 million people?
+
+We’re going to have to find a mediator, and the terms will be very humiliating for the United States.
+
+**Thomas:** What about the risk of nuclear escalation?
+
+**Macgregor:** The alternative is that Mr. Netanyahu, the real cause of all this trouble, could turn to nuclear weapons. If Israel used a nuclear weapon against Iran, the world changes profoundly. I don’t even want to consider the possibilities, which could include a nuclear catastrophe for Israel. Many in the world will not tolerate it. It looks to me like Mr. Netanyahu is in charge of President Trump.
+
+**Thomas:** The constant narrative is regime change. What happens with that?
+
+**Macgregor:** That’s a 99% probability of being just a narrative. We didn’t change the regime in Venezuela; we just engaged in piracy, stealing their oil. In Iran, regime change never had much chance. We forced cohesion on Iranian society by attacking. Everyone there is now a nationalist determined to defend their country.
+
+Had we stayed out of Iran’s internal affairs, we might have seen a new government there sooner. But now, any change won’t produce a friendly regime for a very long time. That’s tragic because we have more strategic reasons to cooperate than to fight.
+
+This war is a function of Israel and the enormous amounts of money wealthy Zionist billionaires in the United States have poured into President Trump and Congress for years. Did you see President Trump’s State of the Union? When he said, “Iran must never have a nuclear weapon,” he got a standing ovation from everyone, including his opponents. Why? Because all those people have benefited. Our Congress was purchased, along with the White House.
+
+That makes it incredibly difficult for President Trump, who I understand genuinely wants an off-ramp. But how can he disengage, especially with Israel in very bad condition and possibly facing survival issues?
+
+---
+
+*Colonel Douglas Macgregor’s analysis paints a stark picture of a conflict with no clear exit, profound economic consequences, and a recalibration of global power dynamics centered on energy security and military reality.*
