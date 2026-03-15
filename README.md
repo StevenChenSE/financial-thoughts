@@ -2,14 +2,12 @@
 
 A personal finance blog built with GitHub Pages and Jekyll.
 
-## dummy trigger
-
 ## Adding Articles
 
-Create new markdown files in the `_posts/` folder with this naming convention:
+Create new markdown files in the `_posts/` folder. Filename format:
 
 ```
-YYYY-MM-DD-article-title.md
+YYYY-MM-DD-{youtube_video_id}.md
 ```
 
 Example frontmatter:
@@ -21,14 +19,16 @@ title: "Your Article Title"
 date: 2026-01-20
 category: Personal Finance
 excerpt: "A short description of your article."
+word_count: 500
+channel_name: "Channel Name"
+video_url: "youtube_video_id"
+video_duration: "12:34"
 ---
 
-Your content here...
+Your article content here...
 ```
 
 ## Local Development
-
-To preview locally, install Jekyll:
 
 ```bash
 gem install jekyll bundler
