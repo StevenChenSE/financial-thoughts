@@ -10,7 +10,7 @@ layout: default
 <div class="articles-section" id="articles">
   <h2 class="section-title">Latest Articles</h2>
   <div class="article-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <a href="{{ site.baseurl }}{{ post.url }}" class="article-card">
         <h3 class="article-title">{{ post.title }}</h3>
         <p class="article-excerpt">{{ post.excerpt }}</p>
@@ -21,4 +21,26 @@ layout: default
       </a>
     {% endfor %}
   </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination" style="margin-top: 32px; display: flex; justify-content: center; gap: 8px;">
+    {% if paginator.previous_page %}
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="page-link" style="padding: 8px 16px; background: #1890ff; color: #fff; border-radius: 4px; text-decoration: none;">Previous</a>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span style="padding: 8px 16px; background: #001529; color: #fff; border-radius: 4px;">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ site.baseurl }}/" style="padding: 8px 16px; color: #1890ff; text-decoration: none;">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.baseurl }}/page{{ page }}/" style="padding: 8px 16px; color: #1890ff; text-decoration: none;">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="page-link" style="padding: 8px 16px; background: #1890ff; color: #fff; border-radius: 4px; text-decoration: none;">Next</a>
+    {% endif %}
+  </div>
+  {% endif %}
 </div>

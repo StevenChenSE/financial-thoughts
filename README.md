@@ -2,6 +2,8 @@
 
 A personal finance blog built with GitHub Pages and Jekyll.
 
+## dummy trigger
+
 ## Adding Articles
 
 Create new markdown files in the `_posts/` folder with this naming convention:

@@ -2,3 +2,9 @@ title: Financial Thoughts
 description: Insights and perspectives on personal finance
 baseurl: /financial-thoughts
 url: https://yourusername.github.io
+
+plugins:
+  - jekyll-paginate
+
+paginate: 20
+paginate_path: "/page:num/"
