@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Interview: Why U.S. Bases Are a "Catalyst for Conflict" in the Gulf"
+title: "Interview: Why U.S. Bases Are a Catalyst for Conflict in the Gulf"
 date: 2026-03-15
 category: Finance
-excerpt: "A stark warning has emerged from the ongoing tensions in the Middle East: the presence of American military bases in Gulf states is not a stabilizing force, but a "catalyst for conflict." This perspec..."
+excerpt: "A stark warning has emerged from the ongoing tensions in the Middle East: the presence of American military bases in Gulf states is not a stabilizing force, but a catalyst for conflict."
 word_count: 309
 video_url: "https://youtu.be/eY_tvbaaUWQ"
 ---
