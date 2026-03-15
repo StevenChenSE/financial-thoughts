@@ -1,82 +1,96 @@
 ---
 layout: post
-title: "Don Hansen: Trade Deficits, Gold & The Hidden Cost of Cheap Goods"
+title: "Don Hansen: Trade Deficits, Gold & the Hidden Cost of Cheap Goods"
 date: 2026-03-15
 category: Finance
-excerpt: "*An interview with private investor Don Hansen, unpacking the complex history of trade, currency, and the real price of globalization.*"
-word_count: 1249
+excerpt: "*An interview with private investor Don Hansen, edited for clarity and flow.*"
+word_count: 1240
 video_url: "cnROqqkTLJ0"
 ---
 
-*An interview with private investor Don Hansen, unpacking the complex history of trade, currency, and the real price of globalization.*
+*An interview with private investor Don Hansen, edited for clarity and flow.*
 
 ---
 
-In a world where cheap imported goods are often taken for granted, private investor and researcher Don Hansen urges a deeper look at the systems underpinning global trade. In a recent discussion, Hansen traced the intricate connections between persistent trade deficits, the role of gold, historical tariff policies, and the often-overlooked societal costs of inexpensive products.
+I sat down with private investor Don Hansen, well-known for his research on gold and silver, to discuss his recent work on trade settlement. What began as a history lesson unfolded into a compelling narrative about trade deficits, currency manipulation, and the often-overlooked consequences of globalization.
 
-“Why does a large and persistent goods trade deficit matter?” Hansen begins. “I believe it very much is a bad thing. Not everybody agrees, primarily because they're not aware of how all this works.”
+“One of the reasons I got interested in this,” Hansen began, “is that the whole business of trade and tariffs is front-page news these days. I wanted to educate myself and realized there probably aren’t very many people who knew much more about it than I did when I started.”
 
-### The Mechanics and Consequences of Deficits
+## Why Persistent Trade Deficits Matter
 
-A trade deficit means a country is importing more goods than it exports. The immediate financial transaction may balance—goods for currency—but the long-term implications are profound.
+Hansen posed a fundamental question: Why do large and persistent goods trade deficits matter? “I believe it very much is a bad thing. Not everybody I talk to believes that, primarily because they’re not aware of how all this works.”
 
-“The deficit country is basically giving up assets to get whatever those goods are,” Hansen explains. Initially, this asset is currency, like the US dollar. The critical question becomes: what does the surplus country do with that accumulating currency?
+He broke it down simply: A deficit country gives up assets—initially its currency—in exchange for goods. “The issue is what the surplus country does with that currency. Over the last 25 years, what has China done with those U.S. dollars?”
 
-Over the last 25 years, a key issue has been capital flows. “What has China done with those US dollars?” Hansen asks. This financial dynamic is paired with a tangible human cost: the offshoring of manufacturing.
+The consequences are multifaceted:
 
-“When a deficit country is importing a whole lot of things, those goods are then not produced in the home country, which means those manufacturing jobs go to the surplus country. We've seen in the United States a devastation of manufacturing jobs... those were good union jobs that paid for families to live reasonably well. Those are gone.”
+1.  **Job and Industry Loss:** “When a deficit country is importing a lot, those goods are not produced at home. Manufacturing jobs go to the surplus country. We’ve seen in the United States a devastation of manufacturing jobs… those were good union jobs that paid for families to live reasonably well. Those are gone.”
+2.  **Reduced Standard of Living:** “You’re reducing the standard of living in order to buy cheaper goods from China.”
+3.  **Strategic Vulnerability:** “Manufacturing dominance yields political, geopolitical power. In the case of China, they’ve focused on getting monopolies in critical things… our medicines are almost totally dependent on Chinese imports. We learned about that in the COVID years.”
 
-He argues this amounts to “reducing the standard of living in order to buy cheaper goods.” Furthermore, lost manufacturing capacity creates strategic vulnerability. “It creates a monopoly in manufacturing of a lot of things... our medicines are almost totally dependent on Chinese imports. We learned about that in the COVID years.” This manufacturing dominance, he notes, translates into geopolitical power.
+## From "Comparative Advantage" to "Competitive Advantage"
 
-### Free Trade vs. Fair Trade: A Historical Perspective
+The conversation turned to economic theory. Hansen referenced David Ricardo’s principle of **comparative advantage**, where trade benefits all parties through efficiency. “That’s free trade. That’s *fair* trade.”
 
-Hansen distinguishes between the economic theories of “comparative advantage” and “competitive advantage.”
+The problem, he argues, is what we have today: **competitive advantage**. “That’s where you get a price advantage, not necessarily an efficiency advantage. That price advantage could be government subsidies by China. It could be a depressed currency value, or that labor is just cheaper.”
 
-“David Ricardo was well known for talking about how free trade was such a good thing because of comparative advantage... if you traded both, it was a win-win. That's free trade. That's *fair* trade.” The difficulty, he says, is what we have now: “competitive advantage,” where a price advantage comes from government subsidies, currency manipulation, or cheaper labor, not pure efficiency.
+While acknowledging the desire for better lives in developing nations, Hansen noted, “The problem is it happened too fast. And it would never have happened under the exchange system we had between 1820 and 1930. That system was based on gold.”
 
-“So you would say that would be a good thing to allow [developing nations to have a better life]. The problem is it happened too fast. And it would never have happened under the exchange system that we had between 1820 and 1930. And that system was based on gold.”
+## The Golden Anchor: A Self-Correcting System
 
-Under a gold-backed system, persistent imbalances were self-correcting. Surplus countries could redeem paper currency for gold, preventing endless deficits. “It tended to equilibrate,” Hansen states. The other tool for balance was tariffs.
+Under the classical gold standard and later the Bretton Woods system (1944-1971), trade imbalances had a natural correction mechanism. “If you started accumulating a lot of another country’s gold certificates, you could go to that country and say, ‘I think I’d like my gold.’ It tended to equilibrate.”
 
-### A History Written in Tariffs and Gold
+Without this anchor, surplus countries can manipulate their currencies. “If you want to keep your currency cheap, all you have to do is print a bunch of it and sell it into the market. The supply goes up, so the price goes down. That’s how currency manipulation works.”
 
-Hansen presents a striking history of US tariff use:
-*   **1792-1812:** 12.5%
-*   **1812-1820:** 25%
-*   **1820-1860:** ~40%
-*   **1860-1914:** ~60%
+“So what we’re looking at is understanding that people say free trade is good. Well, it is *only* if it’s fair trade.”
 
-“The reason is that the United States was industrializing... they wanted to protect themselves from companies in Europe. People now talk about, ‘gee, we're doing 25%.’ That’s great. It went for 54 years at 60% as an average rate. This is not new.”
+## A Historical View: Tariffs and Trade Balances
 
-This system was upended in the 20th century. The Bretton Woods agreement (1944) created a gold-exchange standard for international settlements, but it collapsed in 1971 when President Nixon suspended dollar convertibility. “The Europeans... were taking a look at how this is working and saying, ‘wait a minute, this arrangement with the system based on the dollar which is now being inflated all the time isn't going to... work.’” The US gold stock fell from roughly 16,000 tons to 8,000.
+Hansen provided crucial historical context from his research:
 
-The dollar remained dominant due to a pivotal deal. “Henry Kissinger... and Nixon went to the Saudis... and said, ‘Okay, you sell all your oil in dollars... and we will promise to defend you.’ Because oil was such a huge part of international trade, everybody said, ‘Oh, okay. We'll just use dollars.’ And that system lasted for a long time.”
+*   **U.S. Trade Balances:**
+    *   **1800-1870:** Deficit in all but three years (~ -2.2% of GDP).
+    *   **1870-1970:** Persistent surplus (~ +1.1% of GDP).
+    *   **1970-Present:** Consistent deficit (~ -2.5% of GDP on average, now ~$1 trillion annually).
 
-### The Unraveling of Dollar Hegemony and the Return of Gold
+“1970, guess what happened? That was the end of the Bretton Woods system,” he noted, drawing a direct line between the end of gold-backed trade settlement and the era of persistent deficits.
 
-Hansen identifies 2014 as a turning point for the dollar’s role as a store of value. Following the 2008 financial crisis, “gold went from $300 an ounce to $1,800... And everybody said, ‘Gee, we're holding US treasuries... and we didn't get six times. Okay? So maybe gold's a better store of value now.’” Central banks shifted from net sellers to net buyers of gold, purchasing 500 tons annually by 2014 and 1,000 tons by 2022.
+*   **U.S. Tariff History:** Contrary to modern perception, high tariffs were long-standing U.S. policy to protect developing industries.
+    *   **1792-1812:** 12.5%
+    *   **1820-1860:** ~40%
+    *   **1860-1914:** ~60% (“For 54 years at 60%. People now talk about 25% as high.”)
 
-He sees a fundamental, mathematical driver for gold: “The supply of money goes up 7% a year but the supply of gold goes up less than 1%... it's just a constant tailwind for the price of gold.”
+Furthermore, tariffs were a primary revenue source: “Between 1800 and 1865, **95% of the government’s revenue was from tariffs.** After the Civil War to 1914, it was still 50%.”
 
-### The Dangerous Dual Deficit and a Warning from Japan
+## The Dollar’s Privilege and Its Perils
 
-A critical economic rule, Hansen emphasizes, is that “countries cannot run both a trade deficit and a budget deficit simultaneously for very long... The US got away with it because they had the world's reserve currency. But now it's getting to the point where people don't want our dollars so much anymore.”
+Hansen highlighted a critical economic rule often broken by the U.S.: “It’s well known that countries cannot run both a trade deficit and a budget deficit simultaneously for very long… The U.S. got away with it because they had the world’s reserve currency.”
 
-He uses Japan as a cautionary *exception*. Japan sustains a massive public debt (250% of GDP) alongside government deficits because it has always been a **trade surplus** country with high domestic savings. “When people say, ‘Well, gee, you shouldn't have to worry about getting the debt too high.’ Yeah, but you're not Japan... they were unique.”
+This privilege stemmed from the 1970s “petrodollar” deal with Saudi Arabia, brokered by Henry Kissinger. But faith in the dollar as a **store of value** has waned. “By 2014, people were starting to lose faith… gold went from $300 to $1,800 an ounce. Maybe gold’s a better store of value now.”
 
-### The New Factor: Residential Real Estate
+This explains a major shift: Central banks, which were net *sellers* of gold during the 2000-2012 bull market, became net *buyers* around 2014. “In 2022 they went up to buying a thousand tons a year, and that’s when the current bull market really took off.”
 
-Beyond central bank buying and money supply, Hansen highlights a new variable influencing gold: the residential real estate market. The key metric is the ratio of median home price to median income.
+## Cautionary Tales: Japan and the Plaza Accord
 
-“Between 1965 and 2000, that ratio was 4.0, plus or minus 0.5... quite stable.” Post-2000, government policy aimed at expanding homeownership drove the ratio to 6.8 by 2006. “Then the whole thing unraveled... you saw all this money coming out of real estate.” This capital flight coincided with gold’s major bull run. With the stock market at high valuations and real estate showing signs of strain again, Hansen suggests similar dynamics could provide a tailwind for gold.
+Hansen pointed to Japan as a critical case study. In 1985, the U.S. orchestrated the **Plaza Accord** to devalue the dollar against the yen and Deutschemark. While Germany adjusted, Japan could not.
 
-### Conclusion: Relearning the Lessons of Balance
+“The Japanese economy was devastated… For two decades, the Japanese economy was stuck.” The country avoided a currency crisis despite massive debt (250% of GDP) only because it was “consistently a surplus country” funded by high domestic savings. “That’s a bad example to say, ‘Why worry about high debt?’ Well, you’re not Japan.”
 
-Hansen’s analysis paints a picture of an international monetary system that lost its built-in stabilizers—first gold, then meaningful tariffs—leading to extreme and persistent imbalances. The result has been deindustrialization, strategic vulnerability, and a declining faith in the dollar’s ultimate value.
+This history, he argues, is why China will never agree to a similar accord today. “They think that ain’t going to happen.”
 
-“What we're looking at here is understanding that people are saying that well free trade is good. Well, it is only if it's fair trade... It's only fair trade if there's basically a comparative advantage where you're more efficient in terms of labor hours.”
+## The New Factor: Real Estate and Gold
 
-The hidden cost of cheap goods, therefore, may be measured not just in dollars, but in lost jobs, geopolitical leverage, and the long-term stability of the currency used to buy them. As the world quietly moves back towards gold, the lessons of history suggest a return to balance is not just possible, but perhaps inevitable.
+Hansen identified a new, underappreciated driver for gold demand: the residential real estate market.
+
+“The key to affordability is the ratio between median home price and median income. Between 1965 and 2000, that ratio was 4.0, plus or minus 0.5.” Government policies in the early 2000s distorted this. “By 2006, that ratio had gone all the way up to **6.8**. Then the whole thing unraveled.”
+
+Money flowed out of real estate, some into stocks, and some into gold. “We’re at a peak in the stock market… But with real estate, it’s starting to roll over.” A downturn in this massive asset class could provide a significant tailwind for gold, just as it did after 2006.
+
+## The Bottom Line
+
+Don Hansen’s analysis weaves together history, economics, and geopolitics to argue that today’s trade imbalances are neither natural nor sustainable. They are the result of a system unmoored from the discipline of gold, characterized by currency manipulation and strategic industrial policy.
+
+The hidden cost of cheap goods, in his view, is measured in lost jobs, diminished national security, and a creeping erosion of faith in the dollar. As that faith continues to shift toward gold, and as major asset classes like real estate waver, the historical role of tariffs and the timeless role of gold may reassert themselves in the global economic order.
 
 ---
-*This article is based on an interview with Don Hansen conducted by Charlotte Mloud for Investing News.*
+*This article is based on an interview with Don Hansen. It has been condensed and edited for clarity from the original transcript.*
