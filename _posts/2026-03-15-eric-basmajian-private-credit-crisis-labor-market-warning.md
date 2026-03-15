@@ -3,53 +3,64 @@ layout: post
 title: "Eric Basmajian: Private Credit Crisis & Labor Market Warning"
 date: 2026-03-15
 category: Finance
-excerpt: "A wave of redemption requests and valuation markdowns has swept through Wall Street’s massive $2 trillion private credit market, raising alarms about financial stability. Simultaneously, the labor mar..."
-word_count: 880
+excerpt: "A wave of redemption requests and valuation markdowns has swept through Wall Street’s massive $2 trillion private credit market, raising alarms about financial stability. At the same time, the labor m..."
+word_count: 912
 video_url: "https://youtu.be/p-9rjdU5X08"
 ---
 
-A wave of redemption requests and valuation markdowns has swept through Wall Street’s massive $2 trillion private credit market, raising alarms about financial stability. Simultaneously, the labor market shows subtle but persistent signs of cooling. Are these connected? Are we on the brink of a crisis?
+A wave of redemption requests and valuation markdowns has swept through Wall Street’s massive $2 trillion private credit market, raising alarms about financial stability. At the same time, the labor market shows clear signs of a slowdown, yet remains in a puzzling state of equilibrium. Are these tremors a precursor to a crisis, or just noise in a cooling economy?
 
-In a recent interview, Eric Basmajian, founder of EPB Research, provided a nuanced analysis, arguing that while warning signs are flashing, the current economic buffers may prevent a systemic meltdown—for now.
+To unpack these questions, we spoke with **Eric Basmajian**, founder of EPB Research, who provided a detailed analysis connecting credit market stress, labor dynamics, and the underlying health of the U.S. economy.
 
-### The Private Credit Tremors
-Recent weeks have seen major financial institutions like Morgan Stanley, Cliffwater, and JPMorgan restrict redemptions or mark down loans in their private credit funds. This has drawn fresh scrutiny to a market that flourished in a low-rate era but is now stressed by higher borrowing costs.
+## The Private Credit Stress: Déjà Vu?
 
-Basmajian contextualized these events, drawing a parallel to the real estate fund turmoil of 2022-2023. “Where all of this sort of comes together is through the labor market,” he explained. Isolated credit issues can be contained when employment is strong, but they risk spiraling “when the labor market starts to really deteriorate and people start to redeem money because they need liquidity.”
+Recent weeks have seen major institutions like Morgan Stanley, Cliffwater, and JPMorgan restrict redemptions or mark down loans in private credit funds. For Basmajian, this pattern echoes the real estate fund stresses of 2022-2023, which were triggered by the Federal Reserve’s rapid interest rate hikes.
 
-### Decoding the Labor Market Slowdown
-The latest jobs data confirms a loss of momentum. Payroll growth has slowed, with losses concentrated in the cyclical sectors Basmajian watches most closely: construction and manufacturing.
+> “Where all of this sort of comes together is through the labor market,” Basmajian explains. “Whenever the labor market is relatively strong or somewhat stable, you can get a flurry of these headlines and they don't generally spiral into systemic events. But when the labor market starts to really deteriorate… that's when it becomes much more of a problem.”
 
-“We have about 120-130,000 job losses in those sectors… but that started back in 2023-2024. So it's been a very, very slow decline,” he noted. This is a clear sign that restrictive monetary policy is biting the interest-rate-sensitive parts of the economy.
+The current stress appears concentrated in sectors like software. The critical factor, according to Basmajian, is whether a deteriorating job market forces widespread redemptions for liquidity. So far, he doesn’t see that trigger.
 
-However, the unemployment rate has remained stubbornly stable, hovering around 4.4%. This creates a puzzling “no hire, no fire” economy. Basmajian attributes this dynamic to a key buffer: **historically high corporate profit margins.**
+## Decoding the Labor Market Slowdown
 
-“Today in the corporate sector across the whole economy we're up at 16%,” he said. With such a large cushion, companies facing a slowdown are opting to freeze hiring rather than conduct mass layoffs to protect margins nearing zero. This explains low initial jobless claims alongside stagnant payroll growth.
+The latest jobs data confirms a loss of momentum. Non-farm payrolls have weakened, with losses concentrated in the most **cyclical sectors: construction and manufacturing**.
 
-### The Long-Term Squeeze on Real Incomes
-Beyond the business cycle, Basmajian highlighted a deeper, more structural problem: the stagnation of real income growth tied to falling productivity.
+> “We have about 120-130,000 job losses in those sectors… but that started back in 2023-2024. So it's been a very, very slow decline,” says Basmajian.
 
-“The longer-term trend is not very optimistic for the average person's real income or real wage because ultimately real income is tied to productivity,” he stated.
+This is a classic warning sign that restrictive monetary policy is biting. However, the unemployment rate has remained stubbornly stable, hovering around 4.4%—the second-highest level of this cycle but not yet accelerating upward. This stability is partly due to slowing labor force growth, creating a mixed signal.
 
-He detailed a concerning shift: from 1960 to 2007, real per capita income grew at a 1.8% annual trend. Since the 2008 financial crisis, compounded by declining private investment, that trend has dropped to 1.3%.
+## The "No Hire, No Fire" Economy
 
-“That doesn't sound like a lot… but when you compound that over 10, 12, 15 years, the average person ends up 10-15% worse off than they would have been.” His calculation is stark: **“On a per capita basis, people are missing about $5,000 of real income had we stayed on that trend. So for a family of four, that's $20,000.”** This gap, he argues, has been plugged by debt.
+A paradox emerges: payroll growth is weak, but layoffs (as measured by initial jobless claims) remain remarkably low. Basmajian frames this as a **“no hire, no fire” economy**, driven by two key factors:
 
-### Sectoral Spotlight: Tech Layoffs and Auto Distress
-Recent headlines about large tech layoffs, like Jack Dorsey’s Block cutting 4,000 employees, reflect a correction from pandemic-era overhiring and AI-driven efficiencies. Basmajian is less concerned about tech job losses sparking a broader downturn, as the sector is less interest-rate sensitive and its workers are more easily re-employed.
+1.  **Restrictive Policy Curbing Hiring:** High interest rates have dampened activity in interest-sensitive sectors like housing, so companies there simply aren’t hiring.
+2.  **Historic Corporate Profit Margins Providing a Buffer:** “Corporate profit margins are at the highest level we've ever seen going back many decades,” Basmajian notes.
 
-A more telling canary in the coal mine, he says, is the auto industry. Companies from BMW to Ford are reporting plunging earnings. As one of the most cyclical and interest-rate-sensitive durable goods sectors, autos have the lowest profit margins in the economy.
+With margins near 16% across the corporate sector, businesses can absorb a slowdown without the immediate pressure to conduct mass layoffs to survive. They stop hiring but don’t start firing en masse.
 
-“They're really close to zero already on their profit margins,” Basmajian explained. Squeezed between higher costs and consumers unable to absorb price hikes, the auto sector is seeing job losses that could foreshadow broader trouble if the slowdown deepens.
+> “In previous economic cycles… you don't have a lot of room before those profit margins get really close to zero and you have to do a lot of layoffs. Today… we're up at 16%. So if corporations saw a 200, 300, 400 basis point drop in margin… that's not concerning to them.”
 
-### Geopolitical and Policy Wildcards: Tariffs
-The conversation turned to tariffs, which Basmajian framed simply as a tax on the economy. “From a very high level, tariffs are a tax. So the higher the tariff level, the more tax basically you're pushing in the economy.”
+## The Canary in the Coal Mine: The Auto Sector
 
-He was clear on the economic impact: maintaining or increasing tariffs is a net negative for growth, while lowering them would be a positive. The outcome of this policy debate remains a significant variable for corporate margins and consumer prices in the year ahead.
+Not all sectors enjoy such buffers. Basmajian highlights **automotive manufacturing** as a critical weak spot. As a durable good industry, it’s highly cyclical and interest-rate sensitive on both the producer and consumer side.
 
-### The Bottom Line: A Slow Burn, Not an Implosion
-Basmajian’s synthesis is that the economy is in a gradual slowdown, not a freefall. The labor market is weakening in a controlled manner, and systemic risks from private credit are muted so long as the “no fire” dynamic holds.
+> “Autos have the lowest profit margin of all the sectors that we can look at,” he states. With little room to absorb cost increases or sales drops, the sector is already seeing job losses and plunging earnings. This makes it a leading indicator for broader manufacturing health.
 
-The critical watchpoint is corporate profit margins. If they compress significantly from their historic highs—potentially accelerated by rising oil prices or sustained high tariffs—the buffer protecting jobs could vanish, turning a slow burn into a more rapid downturn.
+## The Long-Term Squeeze on Real Incomes
 
-For now, the economy is navigating a narrow path, with its resilience resting on the very high profits that followed the pandemic. But as Basmajian’s analysis makes clear, beneath the surface, long-term pressures on real incomes and acute stresses in cyclical sectors like autos reveal significant vulnerabilities.
+Beyond the business cycle, Basmajian points to a deeper, more structural problem: stagnating real income growth. The long-term trend for real income growth has fallen from about 1.8% annually (pre-2008) to roughly 1.3% afterward—a consequence of declining private investment in productivity-enhancing infrastructure.
+
+The compounding effect is massive.
+> “On a per capita basis, people are missing about $5,000 of real income had we stayed on that trend. So for a family of four, that's $20,000,” Basmajian calculates. This shortfall, he argues, has been “plugged with debt for the most part.”
+
+## External Shocks: The Role of Tariffs
+
+On the topic of tariffs, which are impacting industries like autos, Basmajian is clear on the economic impact.
+> “From a very high level, tariffs are a tax. So the higher the tariff level, the more tax basically you're pushing in the economy.”
+
+He concludes that maintaining or increasing tariffs is a net negative for economic growth, while removing them would provide a benefit, regardless of whether the cost is initially absorbed by companies or consumers.
+
+## Outlook: A Slow Burn, Not a Meltdown
+
+For now, Basmajian sees an economy in a slow, managed deceleration rather than on the precipice of a crisis. The high-profit-margin buffer is allowing a “low hire, low fire” environment to persist. The key risks ahead are whether profit margins compress further—potentially accelerated by geopolitical shocks like higher oil prices—forcing companies’ hands toward layoffs.
+
+The tremors in private credit and the clear weakness in cyclical labor sectors are undeniable warning signs. But without a catalyst that rapidly deteriorates the broad labor market, these stresses may remain contained—a slow burn that continues to test the resilience of an economy running on the extraordinary buffers of the past cycle.
