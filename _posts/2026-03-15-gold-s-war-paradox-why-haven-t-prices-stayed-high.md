@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Gold's War Paradox: Why Haven't Prices Stayed High?"
+date: 2026-03-15
+category: Finance
+excerpt: "Gold and silver are classic safe havens—assets investors traditionally flock to during times of geopolitical turmoil. So when tensions flared in the Middle East in early March, with attacks on Iran fr..."
+word_count: 761
+video_url: "https://youtu.be/twaHbpWAk-4"
+---
+
+Gold and silver are classic safe havens—assets investors traditionally flock to during times of geopolitical turmoil. So when tensions flared in the Middle East in early March, with attacks on Iran from the U.S. and Israel, both metals did exactly what was expected: they spiked.
+
+Gold briefly broke $5,400 per ounce, and silver jumped past $96. Yet, in the weeks that followed, both prices trended lower. This raises a critical question: if precious metals are supposed to thrive in crisis, why haven’t their gains held?
+
+## The Short-Lived Nature of Geopolitical Spikes
+
+This pattern isn’t new. According to experts speaking at the recent PDAC convention, the initial surge in gold and silver during conflicts is often temporary.
+
+Adrian Day of Adrian Day Asset Management highlighted this trend, pointing to a recent example:
+
+> “Geopolitical events typically have a very short-lived spike. The classic case would be the Russian invasion of Ukraine where the gold price moved up meaningfully in the two, three, four weeks ahead as Russia was massing troops on the border. But the day those tanks crossed the border, gold peaked, and within three weeks it was back to where it was before it started.”
+
+Beyond this pattern, another powerful force is at work: the U.S. dollar.
+
+## The Dollar’s Dominant Role
+
+This week, the U.S. dollar reached its highest level so far in 2026. Its strength appears tied closely to oil, for two key reasons:
+1. The vast majority of global oil trade is conducted in U.S. dollars.
+2. The United States is the world’s top oil producer.
+
+As Middle East tensions escalated, oil prices surged past $100 per barrel. Analysis from Bloomberg indicates that the correlation between the dollar and oil has strengthened since the conflict began, creating a headwind for dollar-denominated assets like gold.
+
+## Oil Markets on Edge
+
+The stability of oil supply is now a major global concern. Iran’s new supreme leader stated in his first public address that the Strait of Hormuz must remain closed as a tool to pressure enemy nations. With approximately 50% of the world’s exported crude oil transiting this chokepoint, the implications are severe.
+
+Rick Rule of Rule Investment Media explained the potential ripple effect at PDAC:
+
+> “The fact that oil can’t transit the Strait of Hormuz is a problem. If the Iranians are able to continue to manage a closure in the straits, the world oil markets will feel that, and they’ll feel it in spades. There’s plenty of oil around for the next three weeks, but the anticipation of what might happen four weeks out, provided that the closure holds, is a very different story.”
+
+Some Iranian officials have even suggested that $200 per barrel oil could be possible—a figure that would shatter the 2008 record of about $147.
+
+In response to the volatility, the International Energy Agency announced that its 32 member countries agreed to release 400 million barrels from strategic reserves—the largest such release in the organization’s history.
+
+## Inflation and the Fed’s Next Move
+
+The conflict’s impact extends beyond commodity markets. The latest U.S. Consumer Price Index (CPI) data showed a 2.4% year-over-year increase in February, with core CPI (excluding food and energy) up 2.5%. However, the Federal Reserve’s preferred inflation gauge—the Personal Consumption Expenditures (PCE) index—is anticipated to come in higher when released on March 13.
+
+Rising oil prices threaten to push inflation higher in the coming months, reviving concerns about **stagflation**: a combination of high prices, high unemployment, and slow economic growth.
+
+The Fed is scheduled to meet March 17–18. Currently, the CME Group’s FedWatch Tool indicates the central bank is widely expected to hold interest rates steady, but its calculus may change depending on the evolving economic landscape.
+
+## The Bottom Line
+
+While gold and silver may see immediate bursts from geopolitical shocks, sustaining those highs depends on a complex interplay of factors: the duration of the conflict, the strength of the U.S. dollar, oil market dynamics, and the subsequent influence on inflation and monetary policy.
+
+For now, the war paradox for gold remains intact—a sharp initial reaction, followed by a retreat as broader market forces reassert themselves. Investors will be watching closely to see if a prolonged crisis or a stagflationary environment can finally provide the sustained momentum precious metals bulls have been waiting for.
+
+---
+*This analysis is based on reporting from the PDAC convention and market data available in early March. Follow developments in central bank policy and Middle East tensions for the latest impacts on resource markets.*
