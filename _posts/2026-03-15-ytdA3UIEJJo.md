@@ -1,71 +1,62 @@
 ---
 layout: post
-title: "Eric Jung: Why War Might Not Boost Metals Prices"
+title: "Eric Jung: Why War Might Not Boost Gold & Silver Prices"
 date: 2026-03-15
 category: Finance
-excerpt: "The outbreak of war in the Middle East often triggers a reflexive assumption: metals prices will surge. However, analyst Eric Jung argues the reality is far more nuanced. In a recent interview, he lai..."
-word_count: 900
+excerpt: "*March 13, 2026 – Capital Cosm Interview*"
+word_count: 881
 video_url: "ytdA3UIEJJo"
 ---
 
-The outbreak of war in the Middle East often triggers a reflexive assumption: metals prices will surge. However, analyst Eric Jung argues the reality is far more nuanced. In a recent interview, he laid out a multi-phase thesis explaining why the current conflict might not deliver the expected bid for gold, silver, and copper, and could even lead to a surprising crash in industrial demand.
+*March 13, 2026 – Capital Cosm Interview*
 
-## Phase One: The Dollar Dash for Oil
+In a recent interview on Capital Cosm, metals analyst Eric Jung presented a counterintuitive and layered explanation for why the ongoing war in the Middle East may not lead to the surge in gold and silver prices that many investors expect. His analysis, based on a multi-phase framework, reveals a complex web of second- and third-order effects that could initially suppress precious metals before a potential long-term rally.
 
-The initial market reaction, which Jung believes we are currently in, is driven by a scramble for U.S. dollars, not metals.
+### The Current Phase: A Rush for Dollars, Not Metals
 
-"The bigger participants, the oil importing countries, they might try to sell a lot of their assets for US dollars," Jung explains. The goal? To buy whatever marginal oil is still exiting the Strait of Hormuz, which remains denominated in dollars.
+Jung’s thesis begins with a critical observation about the war’s impact on oil flows. Contrary to the common assumption that the Strait of Hormuz would be completely closed, he notes evidence that Iran is still shipping significant oil to China, Russia, and India.
 
-This theory is supported by market data. "Look at the DXY charts," Jung notes, referring to the U.S. Dollar Index. "I believe it just hit 100 recently." This dollar strength comes as other assets are sold off. "Everything including bonds... to get US dollars to buy the marginal oil."
+“If that’s the case,” Jung explains, “I just don’t think the oil coming out from the strait is going to be zero. It might be 25%, 30%, 50% of whatever it was pre-war.”
 
-Crucially, this phase involves selling dollar-denominated assets—which includes gold and silver. This creates downward pressure on precious metals, contrary to the classic "safe-haven" narrative.
+This partial flow triggers what Jung calls **Phase One**. Major oil-importing nations are compelled to sell dollar-denominated assets—including gold, silver, and bonds—to raise U.S. dollars. They need those dollars to buy whatever marginal oil is still exiting the strait and priced in USD.
 
-## The Flawed Assumption: A Total Oil Blockade
+“Sell US dollar assets that includes gold and silver, get US dollars, and buy as much of the marginal oil denominated in US dollars,” he says. This dynamic, he argues, is supported by a strong U.S. Dollar Index (DXY) hovering around 100 and rising bond yields, indicating a broad sell-off of dollar assets for cash.
 
-Jung's entire thesis hinges on a critical observation that challenges mainstream analysis. Many experts assume the Strait of Hormuz will be completely closed, halting oil flows.
+### Phase Two: The Grind and a Shift to Gold
 
-"But in reality, we [see] that Iran is actually shipping a lot of oil to China and apparently they are now shipping stuff to Russia and also to India," he states. Satellite imagery confirms ongoing shipments.
+If the conflict settles into a grinding war of attrition with reduced but persistent oil flows, Jung envisions a **Phase Two**. Here, the geopolitical calculus changes for oil-exporting U.S. allies like Saudi Arabia and other Gulf states.
 
-"If that's the case... I just don't think the oil coming out from the strait is going to be zero. It might be 25, 30%, 50% of whatever it was pre-war."
+“The petro dollar deal is that… when the poo poo hits the fan, you got to protect us,” Jung states. “Apparently… the US tried but like it’s not really successful.”
 
-This partial flow changes everything, setting the stage for a grinding war of attrition and a more complex economic chain reaction.
+With U.S. military credibility dented, these nations may begin diversifying their dollar oil proceeds into physical gold as a hedge. This could create a “physical gold price ramp up,” potentially pulling silver and base metals like copper higher with it.
 
-## Phase Two: The Gold Pivot and Sulfuric Acid Squeeze
+### The Critical Wildcard: Sulfuric Acid and Industrial Collapse
 
-If the war grinds on with reduced—but not zero—oil flow, Jung envisions a second phase. Oil-producing Gulf states, witnessing a potential failure of U.S. security guarantees, may begin diversifying their dollar proceeds into physical gold.
+Jung’s analysis introduces a crucial, overlooked variable: **sulfuric acid**. Most of the world’s sulfuric acid is a byproduct of refining sour crude oil from the Middle East. A severe reduction in this oil flow cuts sulfuric acid production.
 
-"Maybe the US tried but like it's not really successful... So in the second phase... a part of that US dollar proceeds they're going to put it in physical gold."
+“Why is that important? Because sulfuric acid is a very important agent that… metals refiners, mostly base metals… use to extract the metals out of the ore,” Jung clarifies.
 
-Simultaneously, a severe second-order effect emerges: a sulfuric acid shortage. Most of the world's sulfuric acid is a byproduct of refining "sour crude" oil from the Middle East.
+This sets up a complex chain reaction:
+1.  **Phase Two (Continued):** With sulfuric acid supplies reduced but not eliminated, and with large above-ground copper stockpiles available, nations might engage in a “race” to produce critical electronics, solar panels, and weapons. This could support silver demand, as silver is a key industrial metal and a byproduct of copper and zinc mining.
+2.  **Phase Three (The Crisis Point):** If the situation deteriorates and less than 20% of pre-war oil flows exit the strait, a “severe supply crunch of the sulfuric acid” occurs. Base metals extraction and refinement face “serious trouble.” Once global copper stockpiles are exhausted, industrial production could crash.
+    This is where the thesis turns bearish for silver in the medium term: **“It might crash the price of silver because if you can’t make solar panels or like EVs because you don’t have the copper, then you don’t need the silver even if the silver is available.”**
 
-"If the amount of oil coming out... is slashed in half or more... your sulfuric acid is going to be cut in half," Jung says.
+### The Long-Term Outlook: A New Monetary Equilibrium
 
-This matters immensely because sulfuric acid is a crucial agent for extracting base metals like copper, zinc, and uranium from ore. A shortage could constrain metal supply just as nations race to stockpile critical materials for electronics, solar panels, and weapons. This could initially boost metals prices, including silver (often a copper/zinc byproduct), and benefit primary silver miners.
+Jung’s **Phase Four** looks to a distant future where supply chains reconfigure, possibly bypassing the Strait of Hormuz. In this new equilibrium, the loss of faith in U.S. security guarantees becomes entrenched.
 
-## Phase Three: The Industrial Demand Collapse
+“At that stage I think gold and silver would… accelerate their rise in prices,” he predicts. “US dollars may simply become a trade token like a hot potato. Once they get the US dollar, they convert it into physical gold, physical silver, and other precious commodities.”
 
-Here’s where Jung’s analysis delivers its most counterintuitive warning. If the conflict worsens and oil flow drops below a critical threshold (e.g., 10-20%), the sulfuric acid crunch becomes catastrophic.
+### Investment Implications: Hold, Don’t Trade
 
-"Then you have a severe supply crunch of the sulfuric acid and then your base metals refinement is in serious trouble, right? Extraction and refinement in serious trouble."
+Given this unpredictable, multi-phase outlook, Jung’s personal strategy is straightforward: hold physical gold and silver. He cautions against trying to trade the volatile headlines.
 
-Nations would burn through above-ground copper stockpiles for months. "Once you run out of that," Jung posits, "then it might crash the price of silver because if you can't make solar panels or like EVs because you don't have the copper, then you don't need the silver even if the silver is available."
+“It’s extremely difficult to trade this stuff… every day it’s just like the news coming out is completely different… It’s pure gambling at this point,” he told host Danny.
 
-In this scenario, the collapse of industrial manufacturing destroys demand for the very metals meant to benefit from war-driven scarcity.
+For those under-allocated to precious metals, he suggests dollar-cost averaging. For himself, he’s holding firm: “I’m holding on to all my gold and silver… I think it’s extremely difficult to trade this stuff.”
 
-## Phase Four & The Base Case: A New Equilibrium
+### The Bottom Line
 
-Eventually, Jung believes supply chains would reconfigure—bypassing the Strait via rail, or other producers like Russia increasing output. In this new equilibrium, with U.S. credibility damaged, the long-term trend would favor gold and silver as nations permanently diversify away from U.S. Treasuries.
+Eric Jung’s framework moves beyond the simplistic “war = inflation = higher gold” narrative. It paints a picture where immediate liquidity needs and collapsing industrial supply chains could first cap or even depress precious metals prices, before a final, powerful rally driven by a fundamental shift away from dollar hegemony. The path between now and then, however, is fraught with complexity and uncertainty.
 
-"US dollars may simply become a trade token like a hot potato. Once they get the US dollar, they convert it into physical gold, physical silver, and other precious commodities."
-
-Given the ongoing stalemate, Jung considers this multi-phase "bear case" to be the actual base case. "It's already happening... I think my thesis... is happening in real time."
-
-## Navigating the Uncertainty
-
-For investors, Jung emphasizes extreme caution. "It's extremely difficult to trade this stuff... every day the news coming out is completely different." His personal strategy is to hold physical gold and silver, not trade them.
-
-For those under-allocated, "it might be worth it to start dollar cost averaging... because who's to say this is not the bottom? Nobody knows."
-
-The key takeaway is that simple narratives fail in complex global systems. A war in the Middle East doesn't automatically mean higher metals prices; it can trigger a domino effect—from a dollar liquidity scramble to an industrial acid shortage—that ultimately undermines the very demand it was supposed to create.
-
-*Eric Jung shares his analysis on his Substack and X (formerly Twitter) @kingkong9888.*
+*Eric Jung shares his analysis on his Substack and X (formerly Twitter) @KingKong9888.*
