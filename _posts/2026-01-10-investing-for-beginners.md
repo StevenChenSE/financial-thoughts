@@ -4,6 +4,10 @@ title: "Investment Strategies for Beginners"
 date: 2026-01-10
 category: Investing
 excerpt: "A comprehensive guide to understanding different investment options."
+word_count: 150
+channel_name: "Two Cents"
+video_url: "efgh5678"
+video_duration: "15:20"
 ---
 
 ## Understanding Investments

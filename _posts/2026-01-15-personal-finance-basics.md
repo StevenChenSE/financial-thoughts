@@ -4,6 +4,10 @@ title: "Getting Started with Personal Finance"
 date: 2026-01-15
 category: Personal Finance
 excerpt: "Learn the fundamentals of personal finance and how to take control of your financial future."
+word_count: 180
+channel_name: "The Financial Diet"
+video_url: "abcd1234"
+video_duration: "12:34"
 ---
 
 ## Why Personal Finance Matters

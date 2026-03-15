@@ -6,9 +6,25 @@ layout: default
   <a href="{{ site.baseurl }}/" class="back-link">← Back to Articles</a>
   <h1>{{ page.title }}</h1>
   <div class="meta">
-    {{ page.date | date: "%B %d, %Y" }} · {{ page.category }}
+    {{ page.date | date: "%B %d, %Y" }} · {{ page.category }} · {{ page.word_count }} words
   </div>
   <div class="content markdown-body">
     {{ content }}
   </div>
+  {% if page.video_url %}
+  <div class="video-section" style="margin-top: 32px; padding-top: 24px; border-top: 1px solid #f0f0f0;">
+    <h3 style="font-size: 16px; margin-bottom: 16px; color: #262626;">Recommended Video</h3>
+    <p style="font-size: 14px; color: #8c8c8c; margin-bottom: 12px;">
+      Channel: {{ page.channel_name }} · Duration: {{ page.video_duration }}
+    </p>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://www.youtube.com/embed/{{ page.video_url }}" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  {% endif %}
 </article>
