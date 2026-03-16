@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Video Transcription - Financial Thoughts</title>
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5/dist/reset.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; min-height: 100vh; color: #262626; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #141414; color: #e8e8e8; }
+      .hero-section, .articles-section, .article-detail, .article-card { background: #1f1f1f; color: #e8e8e8; }
+      .hero-title, .section-title, .article-title, .article-detail h1, .article-detail h2, .article-detail h3 { color: #fff; }
+      .hero-subtitle, .article-excerpt, .article-detail .content, .article-detail .meta { color: #a0a0a0; }
+      .article-card { border-color: #303030; }
+      .article-meta { color: #606060; }
+      .article-detail .meta { border-color: #303030; }
+      .article-detail .content code, .article-detail .content pre { background: #2d2d2d; }
+    }
+    .header { background: #001529; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
+    .header { background: #001529; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
+    .header-title { color: #fff; font-size: 20px; font-weight: 600; }
+    .header-title a { color: #fff; text-decoration: none; }
+    .header-nav { display: flex; gap: 16px; }
+    .header-nav a { color: rgba(255,255,255,0.85); text-decoration: none; transition: color 0.3s; }
+    .header-nav a:hover { color: #fff; }
+    .main-content { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
+    .hero-section { background: #fff; border-radius: 8px; padding: 48px 24px; text-align: center; margin-bottom: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
+    .hero-title { font-size: 32px; font-weight: 700; color: #262626; margin-bottom: 16px; }
+    .hero-subtitle { font-size: 16px; color: #8c8c8c; margin-bottom: 24px; }
+    .articles-section { background: #fff; border-radius: 8px; padding: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
+    .section-title { font-size: 20px; font-weight: 600; color: #262626; margin-bottom: 20px; }
+    .article-list { display: flex; flex-direction: column; gap: 16px; }
+    .article-card { padding: 20px; border: 1px solid #f0f0f0; border-radius: 8px; cursor: pointer; transition: all 0.3s; text-decoration: none; display: block; }
+    .article-card:hover { border-color: #1890ff; box-shadow: 0 2px 8px rgba(24,144,255,0.15); }
+    .article-title { font-size: 16px; font-weight: 600; color: #262626; margin-bottom: 8px; }
+    .article-excerpt { font-size: 14px; color: #8c8c8c; line-height: 1.6; }
+    .article-meta { display: flex; gap: 16px; margin-top: 12px; font-size: 12px; color: #bfbfbf; }
+    .article-detail { background: #fff; border-radius: 8px; padding: 40px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
+    .article-detail h1 { font-size: 28px; font-weight: 700; color: #262626; margin-bottom: 16px; }
+    .article-detail .meta { color: #8c8c8c; font-size: 14px; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #f0f0f0; }
+    .article-detail .content { line-height: 1.8; color: #262626; }
+    .article-detail .content h2 { font-size: 22px; margin: 32px 0 16px; color: #262626; }
+    .article-detail .content h3 { font-size: 18px; margin: 24px 0 12px; color: #262626; }
+    .article-detail .content p { margin-bottom: 16px; }
+    .article-detail .content ul, .article-detail .content ol { margin-bottom: 16px; padding-left: 24px; }
+    .article-detail .content li { margin-bottom: 8px; }
+    .article-detail .content strong { color: #1890ff; }
+    .article-detail .content code { background: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-size: 14px; }
+    .article-detail .content pre { background: #f5f5f5; padding: 16px; border-radius: 8px; overflow-x: auto; margin-bottom: 16px; }
+    .back-link { display: inline-block; margin-bottom: 20px; color: #1890ff; text-decoration: none; }
+    .back-link:hover { text-decoration: underline; }
+    .footer { background: #001529; padding: 24px 16px; text-align: center; margin-top: 24px; }
+    .footer-text { color: rgba(255,255,255,0.65); font-size: 14px; }
+    @media (max-width: 768px) {
+      .header { padding: 12px 16px; }
+      .header-title { font-size: 18px; }
+      .header-nav { display: none; }
+      .hero-section { padding: 32px 16px; }
+      .hero-title { font-size: 24px; }
+      .main-content { padding: 16px; }
+      .article-detail { padding: 24px 16px; }
+      .article-detail h1 { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-title"><a href="/financial-thoughts/">Financial Thoughts</a></div>
+    <div class="header-nav">
+      <a href="/financial-thoughts/">Home</a>
+      <a href="/financial-thoughts/#articles">Articles</a>
+    </div>
+  </div>
+
+  <div class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">← Back to Articles</a>
+  
+  
+  <div class="video-link" style="margin-bottom: 20px; padding: 12px 16px; background: #f0f5ff; border-radius: 8px; border-left: 4px solid #1890ff;">
+    <span style="color: #1890ff; font-weight: 500;">🎬 Recommended Video</span>
+    <a href="https://www.youtube.com/watch?v=pS2UmvI8ht4" target="_blank" style="color: #1890ff; text-decoration: none; margin-left: 8px;">
+       ()
+    </a>
+  </div>
+  
+  
+  <h1>YouTube Video Transcription</h1>
+  <div class="meta">
+    March 15, 2026 · Finance · 1192 words
+  </div>
+  <div class="content markdown-body">
+    <p><em>An analysis of market signals, geopolitical tensions, and the fragile state of global energy supply.</em></p>
+
+<hr />
+
+<h3 id="introduction-navigating-the-social-media-financial-landscape">Introduction: Navigating the Social Media Financial Landscape</h3>
+
+<p>“Hey everyone, hope you’re having a good day. My name’s Andy.”</p>
+
+<p>So begins a typical dive into the financial discourse on Twitter (now X), where I, Andy from Finding Value, sift through social media to interject my own financial opinions. The focus is usually on wealth building, commodities, and broader financial topics. Today’s exploration, however, converged on a single, pressing theme: energy, and specifically, the startling undervaluation and impending crisis surrounding oil.</p>
+
+<p>The conversation started with a common refrain on financial Twitter—the potential of copper. One user, Lucas, highlighted copper’s historical bull market performance: “Southern copper did a 30-1 return. Antofagasta did 45-to-1. Copper itself did a 5:1 outperformance against the S&amp;P 500.” The conclusion was to avoid the “next shiny thing” like AI and crypto and instead “get rich in a boring sector.”</p>
+
+<p>But here’s my take: <strong>“I don’t really care about the last statement. You want to invest where things are cheap. And you know what the cheapest thing is right now? It’s not copper. It’s oil.”</strong></p>
+
+<h3 id="the-asymmetric-bet-oil-at-98-makes-zero-sense">The Asymmetric Bet: Oil at $98 Makes “Zero Sense”</h3>
+
+<p>Oil presents what I see as the “cheapest, most asymmetric bet” in the market. With the Strait of Hormuz effectively shut due to conflict, I have “absolutely no idea how we are at $95, $96, $97 dollars a barrel. That makes no sense to me. Zero, zero sense.”</p>
+
+<p>The logic is rooted in ratio analysis. When priced against copper, oil is coming off an extreme low. “We’re coming off that extreme low heading higher and oil is going to outperform copper probably for a good chunk of time.” In fact, I believe “it’s possible that crude oil outperforms absolutely everything.” The sectors poised to do well are all energy-related.</p>
+
+<p>This isn’t about claiming “this time is different.” It’s about recognizing that “the structural underpinnings of our current society based off of energy is going to get strangled by energy,” a situation the Strait closure will exacerbate.</p>
+
+<h3 id="the-macro-evidence-currencies-and-the-coming-commodity-supercycle">The Macro Evidence: Currencies and the Coming Commodity Supercycle</h3>
+
+<p>My outlook is built from analyzing “thousands of different charts”—ratio charts, currency exchange rates, and more. Two critical pieces of evidence signal a major commodity bull market:</p>
+
+<ol>
+  <li><strong>The Australian Dollar vs. US Dollar:</strong> This chart shows a classic “three-hump consolidation” pattern that has recently broken out.</li>
+  <li><strong>The Canadian Dollar vs. US Dollar:</strong> Similarly, it broke out of a long-term pattern, just as it did before the last commodity bull market.</li>
+</ol>
+
+<p>“These are the big, major underlying trends of the structural bull market in commodities that’s coming,” I explain. While short-term volatility is inevitable, it doesn’t invalidate these massive structural patterns. “That’s where I think people get confused.”</p>
+
+<p>When I apply this lens to oil charts, the patterns are “so big. They’re so gigantic.” When oil is priced against other asset classes, like the S&amp;P 500, “those other asset classes are about to get dominated. Absolutely dominated.”</p>
+
+<h3 id="the-supply-shock-a-problem-paper-markets-cant-fix">The Supply Shock: A Problem Paper Markets Can’t Fix</h3>
+
+<p>The core of the crisis is a physical supply shock, not weak demand. The closure of the Strait of Hormuz—a chokepoint for about 18.5% of global LNG supply and a vast amount of oil—has created a logistical nightmare.</p>
+
+<ul>
+  <li><strong>Bunker fuel prices</strong> for shipping have soared, with some suppliers halting forward orders. “No fuel, no ships, no ships, no trade.”</li>
+  <li><strong>Gulf exporters</strong> may soon declare <em>force majeure</em>, shutting down production because they have nowhere to send the oil. “That’s not coming back anytime soon. It may take months.”</li>
+  <li><strong>JP Morgan analysts</strong> warn shut-ins could hit 12 million barrels per day. This isn’t traditional demand destruction; it’s a “bidding war” where consumers want fuel but can’t get it.</li>
+</ul>
+
+<p>“We need to price out 12 million barrels per day which is huge… That’s like $500 a barrel of oil if that were to remain that gap,” I note. In that context, “$100 is nothing.”</p>
+
+<h3 id="the-fallacy-of-a-return-to-50">The Fallacy of a “Return to $50”</h3>
+
+<p>A common retort is that high prices will destroy demand and crash oil back to $50. My challenge is simple: <strong>“Tell me how it’s going to go back to $50… Where is this oil going to come from?”</strong></p>
+
+<p>The era of easy oil is over. “We haven’t found anything [major] for like 20 or 30 years.” Projects in places like Guyana are small relative to global demand. Future mines for copper and other metals will be low-grade, deep, and energy-intensive to develop. “Copper is just the conversion of oil into a product.”</p>
+
+<p>The market has been tight for years, drawing down inventories. “In order to get your inventory back, you need to produce more than what demand is.” I see no plausible path for that over the next five years.</p>
+
+<h3 id="the-ripple-effects-and-the-patience-problem">The Ripple Effects and the Patience Problem</h3>
+
+<p>The shockwaves are widespread:</p>
+
+<ul>
+  <li><strong>Mining costs will inflate.</strong> For every 10% rise in oil, copper mining C1 costs rise ~3.5%, and iron ore ~4%.</li>
+  <li><strong>Geopolitical intervention is risky.</strong> The head of the CME Group warned that if the US administration manipulates derivatives markets to lower prices, it would send the wrong signals to producers and create a “biblical disaster.”</li>
+  <li><strong>Global GDP is at risk.</strong> One analysis suggests a one-month Strait closure could cut global GDP by 1%, two months by 2.2% (a standard recession), and three months by 3.5% (a deep 1970s-style recession).</li>
+</ul>
+
+<p>This creates a psychological trap for investors. Markets are pricing in a recession, which is hitting economically-sensitive commodities. “When people are looking at certain sectors like iron ore or base metals, yeah, it’s going to go down… This is the problem.”</p>
+
+<p>This is where the hardest investment skill comes in: <strong>patience.</strong> As I reflect on a quote about investing errors, I conclude: “Patience is like mastering your emotions… Your body’s telling you to do something and you need to learn… to do nothing to sit and wait for it to play out.” It’s the skill that separates good returns from great ones.</p>
+
+<h3 id="conclusion-a-crossroads-for-energy-and-markets">Conclusion: A Crossroads for Energy and Markets</h3>
+
+<p>The evidence, from currency breakouts to physical supply constraints, points to a sustained commodity bull market with oil at its epicenter. The Strait of Hormuz crisis has pulled back the curtain on how fragile the global energy system truly is.</p>
+
+<p>“If this stays shut for, let’s say, a month or two… this is going to be bad bad. I could easily see [oil] doing a couple hundred bucks. Easy.”</p>
+
+<p>The investment implication is clear: “Oil, as cheap as it is, I don’t see why people wouldn’t overweight it. I mean, it’s just… a no-brainer.” For oil exploration and production companies, “the cash flow is exploding. The buyback machine is working full regime.”</p>
+
+<p>In the end, we are witnessing a historic supply shock meeting entrenched structural deficits. Navigating it will require more than analysis; it will require the patience to withstand the volatility and see the long-term trend through.</p>
+
+<hr />
+<p><em>Andy shares deeper sector analysis and investment opportunities at <a href="https://findingvalue.com">findingvalue.com</a>.</em></p>
+
+  </div>
+</article>
+
+  </div>
+
+  <div class="footer">
+    <p class="footer-text">© 2026 Financial Thoughts. All rights reserved.</p>
+  </div>
+</body>
+</html>
