@@ -3,97 +3,65 @@ layout: post
 title: "Richard Haas: Navigating the New World Disorder"
 date: 2026-03-17
 category: Finance
-excerpt: "The global landscape is shifting in profound and unpredictable ways. From Venezuela to Iran, and amid ongoing tensions with China and Russia, the question on many minds is: What is the game plan? To m..."
-word_count: 1172
+excerpt: "The global landscape is shifting in profound and unpredictable ways. From the crisis in Venezuela to the ongoing conflict with Iran, the question on many minds—especially investors and policymakers—is..."
+word_count: 991
 video_url: "ZFIvyqrkycI"
 ---
 
-The global landscape is shifting in profound and unpredictable ways. From Venezuela to Iran, and amid ongoing tensions with China and Russia, the question on many minds is: What is the game plan? To make sense of this new era, we sat down with Richard Haas, former president emeritus of the Council on Foreign Relations and a veteran of four presidential administrations.
+The global landscape is shifting in profound and unpredictable ways. From the crisis in Venezuela to the ongoing conflict with Iran, the question on many minds—especially investors and policymakers—is whether there is a coherent strategy behind these events, or if we are witnessing the emergence of a more chaotic international system.
 
-Haas offered a sobering perspective: we may not be entering a new world order, but rather a **new world disorder**—a period of heightened uncertainty where American leadership is less predictable and global power is more diffuse.
+To help make sense of this moment, we spoke with **Richard Haas**, former president emeritus of the Council on Foreign Relations and a veteran of four presidential administrations. His perspective cuts through the noise, offering a sober assessment of where we are and where we might be headed.
 
-### The End of American Primacy
+## The End of an Era
 
-Haas framed the current moment as a clear departure from recent history.
+Haas frames the current period as a definitive departure from the past. “We’ve come out of four decades of Cold War where the world was highly structured,” he notes, followed by “three and a half decades where the United States enjoyed great advantages.” That era, he argues, is over.
 
-> "We've come out of, you know, four decades of cold war where the world was highly structured. We've now come out of three and a half decades since where the United States for most of that time enjoyed great advantages. And what we're beginning to see is a world in which the degree of American advantage is perhaps less than it was."
+What’s emerging is a world defined by two concurrent trends:
+1.  **The proliferation of power:** More nations and non-state actors possess significant military, economic, and technological capabilities.
+2.  **American unpredictability:** U.S. foreign policy has become less predictable and less consistent, raising questions about its willingness to play its traditional stabilizing role.
 
-This shift is driven by two concurrent forces: the proliferation of power—military, economic, and technological—to actors like China, Iran, and North Korea, and consequential choices made by the United States itself.
+“A lot of what people thought they could assume about American foreign policy may no longer be true,” Haas states. For businesses, this presents a dual challenge: “to see opportunity, but also how to protect yourself against the downside of this.”
 
-> "A lot of what people thought they could assume about American foreign policy may no longer be true."
+## A New World *Disorder*
 
-For businesses and investors, Haas notes, the challenge is dual: to identify opportunity while protecting against the increased downside risk inherent in this volatile environment.
+When asked if we are entering a “new world order,” Haas offers a critical correction: “I’m not sure we’re heading towards a new world order. We might be heading more towards a **new world disorder**.”
 
-### Is This Inevitable? The Role of Leadership
+He is skeptical that this disorder is temporary. “A degree of greater disorder is baked into the cake,” he explains. Global dynamics—China’s rise, the war in Ukraine, Middle Eastern instability—will continue regardless of U.S. politics. Furthermore, restoring past norms will be difficult. “Allies in particular are going to say, ‘Whoa, hold it… How do we know you’re not going to do it again?’”
 
-When asked if this disorder was an inevitable historical turning point, Haas was unequivocal.
+## The Nature of U.S. Leadership
 
-> "Nothing's inevitable in history... The people with the power to make decisions make those decisions and implement those decisions. And for better or worse, they have tremendous impact."
+The current U.S. administration, Haas observes, is active but not necessarily leading. “Leadership suggests followership. And this is an administration that in many ways is quite unilateral.” From tariffs to the Iran conflict, actions have often been taken with limited consultation, even with traditional allies.
 
-He pointed to the ongoing conflict with Iran as a prime example of a war that was "not inevitable" and, in many ways, "wasn't even predictable." He argued that U.S. foreign policy over the last 25 years has oscillated between overreach—such as the 2003 Iraq War—and under-engagement, like the withdrawal from Afghanistan or pulling back from trade agreements. This inconsistency laid the groundwork for today's uncertainty, which the current administration has "qualitatively" accelerated.
+This approach stems from a unique concentration of power within the executive branch. Haas compares President Trump’s dominance to that of Franklin D. Roosevelt, but notes a key difference: “Mr. Trump has become so dominant at a time without a crisis” like WWII or the Great Depression. He attributes this to a compliant Congress and a “hollowed out” policymaking apparatus.
 
-### The "New World Disorder" Is Here to Stay
+“What you see is very much a top-down culture… It doesn’t seem to me to be a bottom-up, carefully organized, orderly, rigorous policy review,” Haas says. The result can be rapid action but also unforeseen consequences, as seen in the Iran conflict.
 
-Is this disorder a temporary blip? Haas believes a greater degree of instability is "baked into the cake," regardless of U.S. election outcomes.
+## Iran: Strategy vs. Action
 
-> "History doesn't stop... I also think it's very hard to restore... if the United States continues to move in ways that this administration has moved."
+Haas points to a striking contradiction in U.S. policy. The administration’s published **National Security Strategy** emphasized reducing involvement in the Middle East and avoiding new entanglements. Yet, the war with Iran represents a major new military commitment.
 
-He explained that even if political will existed in the U.S. to return to a more traditional foreign policy, global trust has been eroded.
+“We are where we are,” Haas says of the current stalemate. He argues that continued military operations offer “diminishing returns” and are unlikely to achieve core objectives. Instead, he advocates focusing on two diplomatic goals:
+1.  Reopening the Strait of Hormuz as an international waterway.
+2.  Establishing a verifiable ceiling on Iran’s nuclear activities.
 
-> "Allies in particular are going to say, 'Whoa, hold it. You you the United States, you did this and you did this and that. How do we know you're not going to do it again?'"
+Achieving these will require partners, but European allies have been reluctant to assist, partly due to frustration over a lack of prior consultation. Haas suggests Europe should see this as a potential bargaining opportunity but stresses, “It’s on the United States to demonstrate that it has a viable operational plan.”
 
-### A New Style of "Leadership"
+## The Geopolitical Winners and Losers
 
-Haas made a critical distinction regarding current U.S. action abroad.
+In Haas’s analysis, one country has benefited most from the Iran conflict: **Russia**. “This has been a really good war for Russia,” he notes, citing higher oil prices, eased sanctions, the diversion of U.S. military resources from Ukraine, and the straining of U.S.-allied relations. “Plus, no one’s talking about Ukraine… So the lack of focus is also something good.”
 
-> "What's interesting about the current American administration, whatever else it is, it's not isolationist. It's quite active. It is however not known for its leadership because leadership suggests followership."
+China also gains, to a lesser extent, by watching the U.S. become entangled elsewhere while insulating itself from regional energy disruptions.
 
-He described the Trump administration's approach as "quite unilateral," citing actions toward Venezuela, tariffs, and the Iran conflict, which seemed coordinated mostly with Israel rather than a broad coalition. This activity, he suggests, lacks the collaborative element of true leadership and carries significant drawbacks.
+## Asia and the China Factor
 
-### Inside the Machinery: A Hollowed-Out System
+Regarding heightened Chinese military activity near Taiwan, Haas sees continuity rather than a new crisis. “China is not a status quo power when it comes to the situation opposite Taiwan,” he says, and such exercises have been ongoing for years.
 
-Haas, drawing on his experience in the National Security Council under President George H.W. Bush, described a stark change in how U.S. foreign policy is made.
+The U.S.-China relationship remains complex. While the U.S. has demonstrated military effectiveness in the Middle East, it has also diverted resources from the Indo-Pacific. “All things being equal, I think this crisis has probably, all in all, served China well,” Haas concludes, though he notes the U.S. could later pressure China to cease importing Iranian oil.
 
-> "What strikes me is how the machinery of government in many cases has been hollowed out."
+## The Path Ahead
 
-He depicted a "top-down culture" where rigorous, bottom-up policy review has been supplanted by a dynamic where "the president tends to set a lot of the goals and then the job of those around him is more to follow up, amplify, implement."
+The overarching theme from Haas is one of enduring uncertainty. History, he reminds us, is not inevitable. “The people with the power to make decisions… have tremendous impact. But a different group of people would come up with very different policies.”
 
-The downside, as seen in the Iran conflict, is the potential for actions based on assumptions that "would not have held up to scrutiny" in a more structured process.
+We are navigating a world where American advantage has diminished, power is more diffuse, and the quality of U.S. leadership is in question. For nations, businesses, and investors, the task is to build resilience and prepare for a future where the only constant may be a greater degree of disorder.
 
-### The Iran Conundrum: Strategy vs. Action
-
-Haas highlighted a striking contradiction between the administration's stated strategy and its actions. The 2017 National Security Strategy emphasized reducing U.S. involvement in the Middle East and avoiding new entanglements.
-
-> "What's so striking about the war in Iran is it is almost entirely at odds with it."
-
-On the path forward, Haas argued that continued military operations offer "diminishing returns." He proposed focusing on two achievable goals: reopening the Strait of Hormuz to international traffic and establishing a verifiable ceiling on Iran's nuclear activities.
-
-> "I don't see how we can get there with military force... So the question is... can we get there with negotiations, with diplomacy? And I think President Trump has to make that choice."
-
-He suggested that European allies, despite being "miffed" by a lack of consultation, have an incentive to help secure the Strait due to their energy needs. The onus, however, is on the U.S. to present a viable, safe operational plan.
-
-### Geopolitical Winners and Losers
-
-In the current crisis, Haas identified a clear beneficiary.
-
-> "Well, those who are winning speak Russian. This has been a really good war for Russia."
-
-He listed the reasons: a ~50% spike in oil prices, eased sanctions, the U.S. burning through munitions that could have gone to Ukraine, and renewed friction between the U.S. and its allies. The conflict has also diverted global attention away from Ukraine.
-
-China, he noted, is a lesser winner, benefiting from similar factors and from seeing U.S. military assets diverted from the Asia-Pacific region.
-
-### The China Factor
-
-On Taiwan, Haas saw no immediate signs of an escalation, but offered a crucial reminder:
-
-> "China is not a status quo power when it comes to the situation opposite Taiwan."
-
-He characterized the increased military activity as part of a years-long pattern of muscle-flexing, driven by Xi Jinping's focus on the issue as central to his legacy.
-
-Regarding the broader U.S.-China relationship, Haas noted a mixed impact from the Iran war. While the U.S. has demonstrated effective force projection, it has also depleted resources and focus from the Pacific theater.
-
-> "All things being equal, I think this crisis has probably all in all served China well."
-
-### Looking Ahead: A Lasting Shift
-
-The conversation concluded with a resonant theme: the world has entered a phase where predictability and U.S. primacy are diminished. For Haas, the "new world disorder" is not an interlude but a lasting condition—one defined by more actors with more capability, rapid technological change, and an America whose role and methods are being fundamentally redefined. Navigating it will require resilience, adaptability, and a clear-eyed view of a world where the old rules no longer apply.
+As Haas puts it: “It’s not chaos or anarchy. I simply don’t think that it’s possible to walk it back to where things were five or 10 or 15 years ago.” The new world disorder is not a temporary condition—it is the landscape we must now learn to navigate.
