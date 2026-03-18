@@ -1,55 +1,65 @@
 ---
 layout: post
-title: "Gareth Soloway: Gold $3500, Oil Pullback & Bitcoin Bullish"
+title: "Gareth Soloway: Gold $3500, Oil's Pullback & Bitcoin's Surge"
 date: 2026-03-18
 category: Finance
-excerpt: "In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his updated outlook on key markets—from oil and gold to Bitcoin and equities. ..."
-word_count: 683
+excerpt: "In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his striking outlook on major assets—from a steep correction in gold to a loom..."
+word_count: 903
 video_url: "oEfO4qOBvgY"
 ---
 
-In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his updated outlook on key markets—from oil and gold to Bitcoin and equities. Soloway, who earlier this year accurately called oil’s breakout, now sees significant moves ahead across multiple asset classes.
+In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his striking outlook on major assets—from a steep correction in gold to a looming pullback in oil, and Bitcoin’s continued strength. Speaking ahead of a critical FOMC meeting, Soloway wove together technical analysis, macroeconomic signals, and market psychology to map out what may lie ahead for investors.
 
-## Oil: From Breakout to Pullback
+## Oil’s Parabolic Rise and Impending Retreat
 
-Soloway highlighted that technical analysis signaled oil’s bullish breakout well before geopolitical tensions escalated. “The charts tend to give you a heads up something’s going to happen,” he explained. “I talked about oil being potentially the first half best performer of any major asset class.”
+Soloway had previously called oil as a top performer for the first half of 2026, citing a bullish chart pattern that foreshadowed a breakout. “The charts tend to give you a heads up,” he noted. That breakout materialized in early January, followed by a spike to $120 per barrel amid escalating Middle East tensions—a move Soloway admits he didn’t predict, but which the charts hinted was coming.
 
-That breakout occurred on January 9th, preceding the spike to $120 per barrel amid Middle East conflicts. However, Soloway believes the top is in. “I think the highs are in on oil at $120. I would expect a drawdown in the next 3 to 6 months back to $70 a barrel.”
+However, he believes the top is in. “I think the highs are in on oil at $120,” Soloway stated, projecting a drawdown to around $70 per barrel within the next three to six months. He pointed to both geopolitical and political factors, including the approaching U.S. midterm elections and the need to curb inflation. “The president needs to get oil down probably within a month or two significantly to curb the inflation that would be hitting around the midterm elections.”
 
-He tied the anticipated decline to political and economic factors, noting, “You have a midterm election coming… the president needs to get oil down probably within a month or two significantly to curb inflation.”
+Soloway also highlighted the eerie similarity between today’s oil spike and the 2008 pattern, which preceded a major market crisis. “You’re seeing oil pop just like ’08 and you’re seeing private credit markets start to have upheaval very, very eerily similar.”
 
-## Trading Parabolic Moves
+## Gold and Silver: A Sharp Reversal Ahead
 
-When asked how he approaches vertical price spikes, Soloway emphasized a counter-trading mindset. “Once I see panic enter the system… my immediate response is usually to counter trade them.” He shared that he shorted oil around $100, exiting as it pulled back toward $75–$80.
+Gold’s recent volatility—including a rare 2.5% single-day drop to around $4,800—has left many questioning its safe-haven status. Soloway argues that gold has become an emotionally driven “get rich quick” trade rather than a true risk-off asset.
 
-He sees similar parabolic patterns today in certain stocks, citing Micron as an example. “I have a small short position on Micron… I could see something very similar to what happened on Oracle.”
+“I think gold by the end of this year is back to $3,500 per ounce,” he predicted, with silver falling to $50–$54. He pointed to clear bearish chart patterns, including a breakdown from a bear flag formation. “The charts are absolutely telling me this.”
 
-## Equities and the Shadow of 2008
+Why would gold fall despite geopolitical tension? Soloway explained that many recent buyers were not traditional safe-haven investors. “When Iran gets bombed, they start to get fearful and they will sell anyway… You have to wipe out the weak hands.” He remains a long-term bull on both metals due to fiat currency concerns but sees a significant near-term correction first.
 
-Soloway is net bearish on the S&P 500, drawing parallels to 2008. “This looks like a rounded top very similar to what happened in 2008,” he said, pointing to a chart where retail buying meets institutional selling. “You’re seeing oil pop just like ’08 and you’re seeing private credit markets start to have upheaval very, very eerily similar.”
+## Bitcoin: The Near-Term Bullish Standout
 
-He also highlighted the rise in the 10-year Treasury yield, suggesting the market may be tightening financial conditions regardless of Fed action. “The market is naturally raising interest rates even though the Federal Reserve is not.”
+Amid the caution on commodities, Soloway was unequivocal about one asset: “Most bullish assets in the near term—absolutely Bitcoin.” While he didn’t elaborate extensively in this segment, his endorsement underscores a continued confidence in cryptocurrency’s momentum despite broader market uncertainties.
 
-## Labor Market Cracks and AI Disruption
+## Equities and the Stagflation Threat
 
-Discussing recent jobs data—which showed a loss of 92,000 non-farm payrolls in February—Soloway expressed broader concerns. “We’re not seeing massive layoffs yet, but you have to wonder if at some point we are going to see a crack.”
+Soloway is net bearish on the S&P 500, describing the current price action as a “rounded top” reminiscent of 2008. He sees institutions quietly distributing shares to retail buyers programmed to “buy the dip.” Adding to his concern is the prospect of stagflation—rising inflation alongside a slowing economy.
 
-He warned that AI-driven layoffs could exacerbate economic weakness. “Imagine if every company lays 20 or 30% of their workforce off. That’s going to create a spike probably north of 10% unemployment.”
+February’ hotter-than-expected PPI reading reinforced this view. “Multiply that by 12, you’re talking about 7 to 10% PPI inflation if it were to stay that way every single month. Those are numbers that you cannot be cutting into.”
 
-## Gold: A Safe Haven No More?
+He also warned of a looming labor market crack, fueled not only by economic softening but by AI-driven layoffs. Companies like Block, Oracle, and Meta have announced significant workforce reductions. “Imagine if every company out there lays 20 or 30% of their workforce off… They no longer can spend like consumers have been spending.”
 
-Gold’s recent volatility—including a 2.5% single-day drop—has challenged its status as a safe haven. Soloway offered a psychological explanation: “It got emotionally attached. All of the retail crowd started to pile in… It now has become a ‘get rich quick’ type asset, which is not a risk-off asset.”
+## The Fed’s Precarious Position
 
-He sees further downside ahead. “I think gold by the end of this year is back to $3,500 per ounce… Silver is going to be back to about $50 to $54 per ounce by year-end.” Despite this near-term bearishness, he remains a long-term buyer of both metals, citing fiat currency debasement as a structural driver.
+With a new Fed Chair arriving in May, the central bank faces a difficult balancing act. Soloway believes the Fed has learned from the 2008 mistake of raising rates into a crisis but notes that the market may be moving ahead anyway. The 10-year yield has risen about 30 basis points since early March, reflecting inflation expectations and effectively tightening financial conditions independently.
 
-## Bitcoin: The Near-Term Bullish Play
+“Does it even matter if the Fed does or does not [raise rates]? Will it just happen naturally?”
 
-When asked about the most bullish asset in the near term, Soloway was clear: “Absolutely Bitcoin.” While he didn’t elaborate extensively in this segment, his endorsement aligns with his view that cryptocurrencies may benefit from market uncertainty and institutional adoption trends.
+## Trading the Emotion: A Technician’s Approach
 
-## Final Thoughts
+Throughout the discussion, Soloway emphasized the value of technical analysis in filtering out market noise and emotion. Whether trading oil’s spike or gold’s decline, he looks for extreme sentiment as a contrarian signal.
 
-Soloway’s analysis blends technical patterns with macroeconomic observations, often highlighting where market psychology diverges from fundamentals. Whether it’s oil pulling back, gold correcting, or equities forming a troubling top, his outlook suggests a period of significant repositioning ahead.
+“A good technician stays very logical and based and ultimately uses and watches others’ emotion to trigger the inverse move.”
 
-As he summarized, “A good technician stays very logical and… watches others’ emotion to trigger the inverse move.”
+He applies the same logic to overheated equities like Micron, which he sees forming a parabolic pattern similar to gold and oil before their corrections. “I have a small short position… I could see something very similar to what happened on Oracle.”
 
-*Source: Interview with Gareth Soloway on David Lin’s YouTube channel.*
+## Final Takeaways
+
+- **Oil**: Expected to pull back toward $70 after its geopolitical spike.
+- **Gold & Silver**: Forecast to correct sharply—gold to $3,500, silver to $50–$54 by year-end.
+- **Bitcoin**: Named the most bullish near-term asset.
+- **Stocks**: Bearish outlook amid stagflation risks and a rounded top formation.
+- **Fed**: Trapped between persistent inflation and emerging economic weakness.
+
+Soloway’s analysis paints a cautious picture for traditional assets while highlighting the power of charts in anticipating moves—and the peril of crowd psychology in distorting even the steadiest safe havens.
+
+*Follow David Lin on YouTube for more expert interviews and market insights.*

@@ -1,94 +1,97 @@
 ---
 layout: post
-title: "Alex Ecarian: Why Gold's Bull Run Is Just Getting Started"
+title: "Alex Ebrahian: Gold's Bull Run & The $5,000 Milestone"
 date: 2026-03-18
 category: Finance
-excerpt: "*An interview with the co-founder of Allegiance Gold on the macro drivers for gold, the threat of stagflation, and why the precious metal’s decade-long bull cycle is only in its middle innings.*"
-word_count: 1485
+excerpt: "*An exclusive interview with Allegiance Gold co-founder Alex Ebrahian on the drivers behind gold’s historic rally, the looming inflation threat, and where prices could head next.*"
+word_count: 1207
 video_url: "dxkHk8LLojU"
 ---
 
-*An interview with the co-founder of Allegiance Gold on the macro drivers for gold, the threat of stagflation, and why the precious metal’s decade-long bull cycle is only in its middle innings.*
+*An exclusive interview with Allegiance Gold co-founder Alex Ebrahian on the drivers behind gold’s historic rally, the looming inflation threat, and where prices could head next.*
 
 ---
 
-**Charlotte Mloud, Investing News:** I’m here today with Alex Ecarian, co-founder at Allegiance Gold. Alex, thank you for joining me.
+**Charlotte Mloud, Investing News:** Today I’m joined by Alex Ebrahian, co-founder of Allegiance Gold. Alex, thank you for being here.
 
-**Alex Ecarian:** Thanks for having me, Charlotte. Great to be here.
+**Alex Ebrahian:** Thanks for having me, Charlotte.
 
-**Charlotte:** To start, could you give us a brief introduction to your background and how you came to the gold industry?
+**Charlotte:** Let’s start with your background. How did you come to the gold industry?
 
-**Alex:** I began my career at Smith Barney, which was acquired by Morgan Stanley. I was a banker for about 12 years, financing publicly traded companies and large real estate projects. Over the last decade, I’ve been building Allegiance Gold.
+**Alex:** I began my career at Smith Barney, which was acquired by Morgan Stanley. I was a banker for about 12 years, financing publicly traded companies, private equity, and large real estate projects. Over the last decade, I’ve been building Allegiance Gold.
 
-My journey into physical assets is personal. I was born and raised in Beirut, Lebanon, and experienced civil war and currency fluctuation at a young age. I remember my parents exchanging a portion of their currency into physical gold. The 2008 financial crisis was a stark reminder that you can’t just depend on the system. Even with a background in finance and statistics, I couldn’t anticipate how bad the economy was or how my parents would be impacted.
+My journey into physical assets is unconventional for someone from finance. I was born and raised in Beirut, Lebanon, and experienced civil war and currency fluctuation at a young age. I remember my parents exchanging currency into physical gold. The 2008 crisis was a stark reminder that you can’t just depend on the system. Even with a background in finance and statistics, I couldn’t anticipate how bad things would get.
 
-That experience led me to ask: what is money, and why isn’t it taught in school? Wall Street doesn’t want you to know much about it—I remember banks discouraging it—and governments don’t want you to own a lot of it. That questioning was the catalyst. Today, Allegiance Gold is a full-service physical precious metals dealer focused on education, relationship, and transparency.
+That led me to ask: *What is money?* It’s not taught well in school, Wall Street doesn’t want you to know much about it, and governments discourage ownership. That questioning became the catalyst for my work today.
 
-**Charlotte:** That’s a powerful perspective. Let’s begin with the big picture. Where do you see gold in its cycle right now?
+Allegiance Gold is a full-service physical precious metals dealer. We’ve been in business almost a decade, focusing on education, relationships, and transparency.
 
-**Alex:** Historically, a gold bull market is a 10- to 12-year cycle. For me, the current cycle started in 2020. That’s when governments engaged in unprecedented money printing to support economies during the pandemic—essentially sacrificing currency to save the economy.
+**Charlotte:** That’s a powerful perspective. Stepping back, where do you see gold in the current cycle?
 
-Then, in 2022, another catalyst emerged when the U.S. and Western banks seized Russian assets. The world took note: if you’re not fully aligned with the U.S., your assets could be at risk. This triggered central banks—the “insiders of the money game”—to accelerate gold buying. They’ve gone from buying 400-600 tons annually on average to over 1,000 tons in recent years. In 2025, it was roughly 900 tons.
+**Alex:** Historically, gold bull markets last 10 to 12 years. I believe this cycle started in 2020. That’s when governments overprinted money to support economies—essentially sacrificing currency to save the system.
 
-A World Gold Council survey last June found that almost 79% of central banks said they are on a path to acquire more gold. Why? It’s a neutral asset that can’t be seized once it’s in their jurisdiction.
+Then in 2022, another catalyst emerged: the U.S. and Western banks seized Russian assets. The world took notice—if you’re not fully aligned with the U.S., your assets could be at risk. Since then, central banks, the “insiders of the money game,” have accelerated gold buying. They went from buying 400–600 tons annually to over 1,000 tons in recent years. In 2025, it was about 900 tons.
 
-If the cycle started in 2020, when gold was around $1,500, and we’re now near $5,000, we’re likely in the fourth or fifth inning of this bull market. The second half of a cycle typically moves faster than the first. The fundamentals remain strong: unprecedented deficit spending, growing debt, pressure to lower interest rates, and central banks quietly accumulating more gold.
+A World Gold Council survey last June found 79% of central banks plan to increase gold reserves because it’s a neutral asset that can’t be seized.
 
-**Charlotte:** That helps situate the current landscape. Now, a question from our audience: with ongoing conflict in the Middle East, why isn’t gold—a classic safe-haven asset—trading even higher?
+If 2020 was the starting point with gold around $1,500, and today we’re near $5,000, we’re likely in the fourth or fifth inning of this bull market. The second half of a cycle typically moves faster than the first. The fundamentals remain strong: unprecedented deficit spending, growing debt, pressure to lower interest rates, and central banks quietly accumulating more gold.
 
-**Alex:** Gold isn’t responding directly to war. It’s responding to the expectation that the Federal Reserve may not lower interest rates as anticipated. Let me explain.
+**Charlotte:** With gold at historic highs, many wonder why it hasn’t spiked further given Middle East conflict. Isn’t gold a safe haven?
 
-We have a trifecta fueling inflation:
-1. **Higher oil prices:** Oil has gone from around $50 a barrel early this year to over $100. While the U.S. has released strategic reserves and eased sanctions to increase supply, oil is a globally priced commodity. Sustained high prices will ripple through the economy.
-2. **Rising food costs:** One-third of the world’s fertilizers transit the Strait of Hormuz. If fertilizer costs rise in February and March—when farmers typically buy—production and food costs will climb.
-3. **War spending:** The conflict was initially forecast to cost $50-255 billion. We are printing money to pay for deficits. The U.S. already has a $2 trillion deficit, with nearly $1 trillion going just to service interest on the debt.
+**Alex:** Gold isn’t responding to war alone—it’s reacting to expectations that the Federal Reserve may not cut interest rates as anticipated. Three factors are driving this:
 
-These factors point to much higher inflation, which would force the Fed’s hand to keep rates higher for longer. That’s why gold has traded between $5,000 and $5,200 recently—it’s pricing in delayed rate cuts.
+1. **Higher oil prices:** Oil went from ~$50/barrel early this year to over $100. Even with strategic releases and eased sanctions, sustained high oil prices feed into inflation.
+2. **Rising food costs:** One-third of fertilizers transit the Strait of Hormuz. Higher fertilizer costs raise production expenses, eventually impacting food prices.
+3. **War spending:** Originally estimated at $50–255 billion, prolonged conflict means more deficit spending. The U.S. already has a $2 trillion deficit, with nearly $1 trillion going toward interest payments.
 
-**Charlotte:** Looking ahead to 2026, with the Fed struggling to hit its 2% target, how high could inflation go?
+These forces could push inflation higher, forcing the Fed to hold rates steady. That’s why gold has traded between $5,000 and $5,200 recently—it’s pricing in delayed rate cuts.
 
-**Alex:** It depends on how long energy prices remain elevated. Estimates suggest a $10 increase per barrel of oil raises inflation by 0.1% to 0.3%. We’ve seen a $50 increase, so a 0.5% to 2% bump is reasonable.
+**Charlotte:** Speaking of inflation, where could it head in 2026?
 
-But I don’t focus solely on reported inflation percentages. The methodology has changed since 1980 and can be manipulated. Look at recent revisions: February job numbers were revised down to 92,000, and Q4 GDP was halved from 1.4% to 0.7%.
+**Alex:** It depends on how long energy prices stay elevated. Estimates suggest a $10 increase per barrel raises inflation 0.1–0.3%. We’ve seen a $50 jump—so a 0.5–2% inflation increase is plausible.
 
-I watch the disconnect between the real economy and the stock market. Higher oil prices hurt corporate earnings, and we’re seeing cracks in the banking system. Firms like BlackRock and Morgan Stanley are minimizing exposure to the private credit market—a $1-3 trillion sector where “buy now, pay later” style lending occurs. Defaults there could ripple through the financial system.
+But I don’t focus solely on reported percentages. The methodology has changed since 1980 and may be manipulated. Look at recent revisions: February job numbers were revised down to 92,000; Q4 GDP was halved to 0.7%.
 
-Gold is up 17% year-to-date and 65% over the last year. Its purpose isn’t short-term speculation; it’s mid- to long-term insurance against systemic risk. Goldman Sachs recently raised its recession probability from 20% to 25%. People need to ask: how do I position myself outside the system?
+I watch the disconnect between the real economy and markets. Higher oil prices hurt corporate earnings, and we’re seeing cracks in the banking system. BlackRock and Morgan Stanley recently limited redemptions in private credit—a market worth $1–3 trillion. Rising defaults there could ripple through banks.
 
-**Charlotte:** That leads to another term resurfacing: stagflation. Do you see that scenario unfolding?
+Gold is up 17% year-to-date and 65% over the past year. Its role isn’t for short-term speculation but for mid- to long-term preservation outside the system.
 
-**Alex:** Yes and no. No, because government spending on war can artificially boost GDP through military manufacturing. Yes, because if GDP revisions continue downward while inflation rises, we have a problem.
+**Charlotte:** Is stagflation a real risk?
 
-The “big beautiful bill” promised deregulation, tax cuts, and growth to offset debt. If that doesn’t materialize, it will impact affordability—a key issue ahead of midterm elections. President Trump’s move to allow Russian oil sales shows he understands high oil prices hurt consumers and corporate earnings.
+**Alex:** Yes and no. War spending can artificially boost GDP through military outlays. But if GDP revisions continue downward while inflation rises, stagflation becomes a real threat.
 
-I’m watching Q1 GDP data due in April/May, along with trade developments. The Strait of Hormuz is a battleground for oil and currency dominance—Iran has even suggested pricing oil in yuan. All of this connects the dollar, oil, gold, and markets.
+Midterm elections add pressure—affordability will be a key issue. That’s why Trump allowed Russian oil sales: to curb price impacts. The Strait of Hormuz isn’t just about oil; it’s a currency battleground. Iran has even suggested pricing oil in yuan.
 
-**Charlotte:** The Fed meets this week. What will you be watching?
+First-quarter GDP data in April/May will be telling. If numbers drop and inflation jumps, gold will reflect that.
 
-**Alex:** Rates are 99.9% likely to stay unchanged. The commentary is key. Are they concerned about trade, jobs, or volatility? I’m watching the banking sector closely—it sits between depositors and loans. If loan impairments rise, lending will tighten.
+**Charlotte:** The Fed meets this week. What are you watching?
 
-Think of the U.S. government as a corporation. Don’t just look at the $38-39 trillion national debt; include unfunded liabilities. The debt-to-GDP ratio is three times worse than reported. As long as GDP can be inflated on paper and inflation contained, the status quo continues.
+**Alex:** Rates are almost certain to stay unchanged. The commentary is key—what do they say about trade, jobs, and banking stress?
 
-I don’t expect major moves this meeting. I do expect political rhetoric, with President Trump likely criticizing Jerome Powell for not cutting rates. It’s premature to cut with inflation rising. Remember, inflation and unemployment data are backward-looking. Forward indicators like consumer and corporate spending will be crucial.
+Banks sit in a precarious position: deposits on one side, loans on the other. If loan impairments rise, lending tightens, and liquidity suffers. The Fed will assess whether the current fiscal path is sustainable.
 
-**Charlotte:** Let’s talk price targets. After hitting all-time highs and pulling back, what do you see for gold in 2026?
+Don’t just look at the $38–39 trillion national debt—consider unfunded liabilities. Relative to GDP, the situation is three times worse than reported. As long as GDP appears strong and inflation contained, the status quo holds.
 
-**Alex:** Short-term, expect volatility with a 20-25% standard deviation. In a typical bull cycle, gold can rise 7-8x from its low. Our forecast at the start of the year was $6,000+. Personally, by 2030-2032, I believe we could see gold between $10,000 and $12,000.
+I expect political rhetoric—Trump may criticize Powell for not cutting rates. But lowering rates amid rising inflation would be premature.
 
-**Charlotte:** And silver?
+**Charlotte:** Do you have a gold price target for 2026?
 
-**Alex:** I believe silver will challenge the three-digit level this year. The move from $30 to $40 was methodical; $40 to $60 and $80 to $120 were rapid. After a retraction to around $80, I expect more volatility, but mid- to long-term, our forecast is around $100 within the next year.
+**Alex:** Short-term, expect volatility with ~20–25% standard deviation. Longer-term, gold bull cycles often see 7–8x moves from low to high. My forecast by 2030–2032 is $10,000–$12,000.
 
-Fundamentals are strong: structural deficit, demand exceeding supply, and declining COMEX allocated silver inventories (down from 124 million ounces to about 80 million this year). The physical and paper markets could decouple further. Industrial and military demand—which isn’t fully reported—adds to the bullish case.
+**Charlotte:** What about silver?
 
-**Charlotte:** What would trigger that decoupling between physical and paper silver?
+**Alex:** I believe silver will challenge three digits this year—potentially reaching $100. The move from $30 to $40 was methodical; $40 to $60 and $80 to $120 were rapid. After a pullback from $96 to around $80, we may see more volatility before consolidation.
 
-**Alex:** Look at the macro picture. The U.S. engagement in Venezuela wasn’t a coincidence—silver supply is concentrated in Mexico and Peru. China has had significant influence in South American mining. Geopolitical maneuvering around resources is real. When physical scarcity meets paper promises, the disconnect becomes apparent.
+Fundamentally, structural deficit, demand exceeding supply, and declining COMEX inventories all support higher prices. The physical and paper markets could decouple further. Silver is indispensable—with growing industrial and strategic demand, timing the market is less important than positioning for the long term.
 
-**Charlotte:** Alex, thank you for sharing your insights. It’s clear the bull run in precious metals is supported by deep macroeconomic and geopolitical currents.
+**Charlotte:** What would trigger a decoupling of physical and paper silver?
 
-**Alex:** Thank you, Charlotte. The key takeaway is to look beyond short-term noise and understand the long-term cycle. We’re still in the early middle innings of a much larger move.
+**Alex:** Look at the macro picture. The U.S. engagement in Venezuela relates to silver supply concerns. Mexico and Peru are top producers, but China has influenced South American resources. If physical shortages intensify while paper contracts multiply, a break is inevitable.
+
+Ultimately, it’s about recognizing that metals require patience. No one predicted war at the start of the year—you can’t time markets, but you can prepare.
 
 ---
 
-*Alex Ecarian is the co-founder of Allegiance Gold, a full-service physical precious metals dealer. This conversation has been edited for clarity and length.*
+*Alex Ebrahian is co-founder of Allegiance Gold, a full-service physical precious metals firm emphasizing education and transparency.*
+
+*Interview conducted by Charlotte Mloud for Investing News. This article is for informational purposes and does not constitute financial advice.*
