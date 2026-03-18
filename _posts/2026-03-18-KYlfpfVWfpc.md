@@ -1,61 +1,61 @@
 ---
 layout: post
-title: "Interview: Iran, Oil & The End of U.S. Gulf Hegemony"
+title: "Col. Douglas Macgregor: Iran, Oil, and the End of U.S. Hegemony"
 date: 2026-03-18
 category: Finance
-excerpt: "*An analysis drawn from a recent conference dialogue on Iran, oil, and shifting geopolitical tides.*"
-word_count: 935
+excerpt: "In a stark assessment of U.S. foreign policy in the Middle East, retired Colonel Douglas Macgregor argues that American strategy—or the lack thereof—has pushed the region toward a catastrophic impasse..."
+word_count: 1005
 video_url: "KYlfpfVWfpc"
 ---
 
-*An analysis drawn from a recent conference dialogue on Iran, oil, and shifting geopolitical tides.*
+In a stark assessment of U.S. foreign policy in the Middle East, retired Colonel Douglas Macgregor argues that American strategy—or the lack thereof—has pushed the region toward a catastrophic impasse. Speaking at the Vancouver Resource Investment Conference, Macgregor painted a dire picture of escalating conflict with Iran, the collapse of energy security, and the humbling of American power.
 
----
+## A War Without Strategy
 
-The United States’ military and economic hegemony in the Persian Gulf is facing a profound and possibly terminal crisis. What began as a campaign of maximum pressure on Iran has spiraled into a strategic quagmire, exposing the fragility of American power and the petro-dollar system that underpins it. The core issue, as outlined in a recent discussion, is a fatal blend of **“ignorance and arrogance”** in Washington.
+“When there is no strategy in war,” Macgregor stated, “there is no end to the war. We never had a strategy.” He attributed this failure to a toxic blend of “ignorance and arrogance” in Washington, which underestimated Iran as a civilizational state with 2,700 years of history. “This state is not going to roll over for Israel or us.”
 
-We fundamentally misjudged Iran. This is not a minor regional player but **Persia—a civilizational state with 2,700 years of history**. It was never going to capitulate to demands that amounted to surrender: giving up uranium enrichment, dismantling its ballistic missile arsenal, severing regional alliances, and submitting to Israeli political hegemony. As one analyst starkly put it, **“Darl, that’s not going to happen. That’s an impossibility.”**
+According to Macgregor, the U.S. has effectively become “Israel’s enforcer,” pursuing demands that were never realistic: that Iran surrender its uranium enrichment and ballistic missile programs, cease regional cooperation, and submit to U.S. and Israeli hegemony. “Well, Darl, that’s not going to happen. That’s an impossibility.”
 
-Yet, the U.S., acting as **“Israel’s enforcer,”** committed to these unrealistic terms. Now, it seeks an exit but faces an adversary that declares, **“Well, you may be finished. We’re not finished and we’re going to keep going.”**
+Now, the U.S. is trapped, trying to back down from “outrageous demands” while facing an adversary that says, “Well, you may be finished. We’re not finished and we’re going to keep going.”
 
 ## The Oil Circuit Breaker: Flipped Off
 
-The immediate, tangible impact is on global energy. The conflict has effectively taken a significant portion of the Gulf’s oil and gas offline.
+The economic consequences are already severe. Macgregor described the region’s oil and gas infrastructure as effectively “offline.”
 
-> “It's as though in your house you have a circuit breaker… you hit the switch and the lights go on. Well, they want to hit the switch and turn on the oil. It's not happening.”
+> “It’s not just stopped… I would say for at least 6 months to a year, most of the oil in the region is offline. It’s as though… you have a circuit breaker… you hit the switch and they go up. Well, they want to hit the switch and turn on the oil. It’s not happening.”
 
-The assessment is dire: for at least **6 months to a year, most of the oil in the region is offline**. This isn’t a temporary disruption of shipping lanes; it’s a shutdown of wells, refineries, and storage. Threats are mutual and existential. While there’s talk of destroying Iran’s key oil terminal at **Karg Island**, Iran has promised retaliation in kind: the destruction of *all* oil infrastructure in the Persian Gulf. **“They will do it. Just look at what they've done already. And there's not a damn thing we can do to prevent it.”**
+The threat is existential. Macgregor noted talk of targeting Iran’s crucial Kharg Island oil terminal, but warned that Iran has promised retaliation. “If you destroy Kharg Island… then we will destroy all of the oil infrastructure in the Persian Gulf.” He believes they would follow through. “Just look at what they’ve done already. And there’s not a damn thing we can do to prevent it.”
 
-The world is now **“breathing down our necks,”** warning of a catastrophic global economic reset if the conflict isn’t stopped.
+The result is a looming “global reset” that would be “economically catastrophic not just for us but for the whole world.”
 
-## The Failure of Protection
+## The Failure of Protection and the Rise of Resistance
 
-America’s security guarantees to the Gulf Cooperation Council (GCC) states now ring hollow. The British once provided this protection; the U.S. assumed the role in the 1930s for Saudi oil. That era is over.
+Macgregor highlighted the historical irony: first the British, then the Americans promised protection to Gulf oil kingdoms. “We agreed privately in the 1930s to protect the Saudi oil resources. Now, what we found out is that we can’t do that.”
 
-> “We can't shoot down the missiles. We can't bring the Iranians… to heal. We couldn't even defeat the Houthis.”
+He pointed to the Houthis in Yemen as a precedent for U.S. impotence. “This tribe of backward Arabs… that everybody dismissed… shut down the Red Sea. They shut down commerce to the Suez Canal.” If the U.S. couldn’t defeat them, he asked, “how could we possibly take on a nation of 93 million people the size of Western Europe?”
 
-The Houthis, a group once dismissed as a **“tribe of backward Arabs,”** successfully shut down Red Sea commerce to the Suez Canal. If the U.S. could not defeat them, how can it confront a nation of **93 million people, the size of Western Europe**, with a deep sense of historical pride? **“We spit on it. That’s the problem.”**
+The core problem, in his view, is profound disrespect. “These people are very proud… We spit on it. That’s the problem. And they’re not going to do business with us. Certainly not on our terms.”
 
-## The Nuclear Wild Card and the "Off-Ramp" Dilemma
+## The Nuclear Specter and the "Off-Ramp"
 
-A terrifying alternative looms: the potential for Israel to use a nuclear weapon. **“If they used a nuclear weapon against Iran, I think the world changes profoundly,”** potentially triggering a **“nuclear catastrophe for Israel.”** Compounding this danger is the perceived power dynamic: **“It looks an awful lot to me like Mr. Netanyahu is in charge of President Trump.”**
+Macgregor raised a chilling alternative: that Israeli Prime Minister Netanyahu, “the real cause of all this trouble,” might turn to nuclear weapons. “If they used a nuclear weapon against Iran, I think the world changes profoundly.” He warned of a potential “nuclear catastrophe for Israel” in return, noting, “It looks an awful lot to me like Mr. Netanyahu is in charge of President Trump.”
 
-President Trump may be seeking an **“off-ramp,”** but disengagement is immensely difficult. The war has forged a unified Iranian nationalism. Ironically, U.S. aggression has delayed internal change. The analyst argues that had the U.S. stayed out, Iran might have seen a new government sooner. Now, **“everyone in the country… is a nationalist.”** Change may still come by **next Christmas or spring**, but it will not produce a friendly regime **“for a very, very long time.”**
+For the U.S., the path out is grim. “I think we’re going to have to find someone somewhere who can mediate for us… the terms that we will have to agree to… are going to be very humiliating for the United States.”
 
-## The Regime Change Mirage
+## The Mirage of Regime Change
 
-The discussion dismissed the “regime change” narrative as a **“99% probability”** falsehood. Venezuela is the prime example. The U.S. failed to change the regime; instead, it engaged in what was described as **“piracy”**—seizing tankers to steal oil. The real drug problem emanates from Mexico, not Venezuela, making the focus seem politically selective.
+Addressing the persistent U.S. policy of regime change, Macgregor was blunt: “I think that’s a 99% probability” that the public is being misled.
 
-The 1999 Kosovo air campaign offers a lesson. After 78 days of bombing aimed at removing Slobodan Milošević, he was only ousted **six months later by his own people**, after Russia withdrew support. The bombing had solidified Serbian resistance. The parallel to Iran is clear: external attack creates internal cohesion.
+He used Venezuela as an example, arguing that the U.S. attempt to kidnap President Maduro constituted “piracy,” not regime change. “Every time you fill another tanker with oil, we're going to take it… That's not a regime change. The last time I looked, that's called piracy.”
 
-## The Root: Money and Influence
+He drew a critical lesson from the 1999 Kosovo air campaign, intended to remove Slobodan Milošević. The bombing didn’t oust him; instead, the U.S. had to cut a deal with Russia to pressure Serbia. Milošević fell to his own people six months *after* the campaign ended.
 
-The ultimate driver of this conflict, according to the analysis, is not American strategic interest but Israeli policy, enabled by U.S. political financing.
+Applying this to Iran, Macgregor argued that U.S. aggression has backfired. “Having attacked it, everyone in the country… is a nationalist. They are all determined to defend their country… we forced cohesion on Iranian society.” He predicted internal change in Iran by late next year, but cautioned, “we're not going to have a friendly regime there, not for a very, very long time.”
 
-> “This entire construct, this war is all a function of Israel and the enormous amounts of money that wealthy Zionist billionaires in the United States have poured into President Trump and Congress.”
+## The Root: Money and Influence in Washington
 
-This influence was visibly demonstrated when President Trump’s vow to stop Iran from getting a nuclear weapon received a **standing ovation from the entire Congress**. **“Our Congress was purchased along with the White House.”**
+Macgregor placed ultimate responsibility on the influence of pro-Israel billionaires in American politics. “This entire construct, this war is all a function of Israel and the enormous amounts of money that wealthy Zionist billionaires in the United States have poured into President Trump and Congress.”
 
-## Conclusion: A Humiliating Reckoning
+He cited the moment in a Trump State of the Union when the president vowed to stop Iran from getting a nuclear weapon. “For the first time, he got a standing ovation from everybody in the Congress, including all the people opposed to him. Well, why? Because all of those people have been benefiting from the largesse of these billionaires working for Israel. In other words, our Congress was purchased along with the White House.”
 
-The United States is left with few good options. It will likely need a mediator to extract itself, and the terms will be **“very humiliating.”** The era of unquestioned U.S. hegemony in the Gulf is ending, unmasked by a capable Iranian resistance and the unraveling of America’s own overextended strategy. The petro-dollar system and the global economy hang in the balance, awaiting a resolution that the U.S. may no longer have the power to dictate. The only remaining question is how deep the humiliation—and the global economic reset—will be.
+This, Macgregor concluded, makes disengagement nearly impossible for a president seeking an “off-ramp,” especially with Israel itself in “very bad condition.” The final, unspoken question hangs over the entire analysis: in a conflict born of hubris and influence, can the United States find a way out before the circuit breaker for the entire global order is permanently tripped?
