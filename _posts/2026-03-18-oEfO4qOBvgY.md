@@ -1,55 +1,61 @@
 ---
 layout: post
-title: "Gareth Soloway: Gold $3500, Oil Pullback & Bitcoin Bullish"
+title: "Gareth Soloway: Gold $3500, Oil's Pullback & Bitcoin's Surge"
 date: 2026-03-18
 category: Finance
-excerpt: "In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his updated outlook on key markets—from oil and gold to Bitcoin and equities. ..."
-word_count: 683
+excerpt: "In a recent interview, Gareth Soloway, Chief Market Strategist and President of Verified Investing, returned with a series of striking market predictions. Speaking ahead of a critical Federal Reserve ..."
+word_count: 846
 video_url: "oEfO4qOBvgY"
 ---
 
-In a recent interview with David Lin, Gareth Soloway, Chief Market Strategist and President of Verified Investing, shared his updated outlook on key markets—from oil and gold to Bitcoin and equities. Soloway, who earlier this year accurately called oil’s breakout, now sees significant moves ahead across multiple asset classes.
+In a recent interview, Gareth Soloway, Chief Market Strategist and President of Verified Investing, returned with a series of striking market predictions. Speaking ahead of a critical Federal Reserve meeting, Soloway outlined his outlook for key assets—from a steep correction in gold to a strategic retreat in oil—while highlighting Bitcoin as the most bullish near-term play.
 
-## Oil: From Breakout to Pullback
+## Oil: A Bullish Breakout Meets a Bearish Reality
 
-Soloway highlighted that technical analysis signaled oil’s bullish breakout well before geopolitical tensions escalated. “The charts tend to give you a heads up something’s going to happen,” he explained. “I talked about oil being potentially the first half best performer of any major asset class.”
+Soloway, who earlier this year called oil as a top performer for 2026, revisited his chart-based prediction. “The charts tend to give you a heads up,” he explained, referencing a bullish wedge pattern in crude that broke out in early January. While he didn’t predict the Iran conflict, the technical setup signaled an impending surge. Oil subsequently spiked toward $120 a barrel.
 
-That breakout occurred on January 9th, preceding the spike to $120 per barrel amid Middle East conflicts. However, Soloway believes the top is in. “I think the highs are in on oil at $120. I would expect a drawdown in the next 3 to 6 months back to $70 a barrel.”
+However, Soloway now believes the highs are in. “I would expect a drawdown in the next 3 to 6 months back to $70 a barrel,” he stated, citing several factors:
+*   **Geopolitical de-escalation:** He expects Middle East tensions to ease, especially with U.S. midterm elections approaching, as high oil prices fuel inflation that could impact voters.
+*   **A tactical trading approach:** Soloway described himself as a “counter-trader” to extreme moves. He shorted oil near $100, exiting as it pulled back toward $75–80. “A good technician stays very logical… and watches others’ emotion to trigger the inverse move.”
 
-He tied the anticipated decline to political and economic factors, noting, “You have a midterm election coming… the president needs to get oil down probably within a month or two significantly to curb inflation.”
+He sees parallels in other overheated assets, pointing to **Micron Technology** (MU) as exhibiting a similar “parabolic” chart pattern ahead of earnings. “I have a small short position,” he noted, comparing it to Oracle’s recent boom-and-bust cycle.
 
-## Trading Parabolic Moves
+## The Broader Market: Stagflation and a Chilling 2008 Echo
 
-When asked how he approaches vertical price spikes, Soloway emphasized a counter-trading mindset. “Once I see panic enter the system… my immediate response is usually to counter trade them.” He shared that he shorted oil around $100, exiting as it pulled back toward $75–$80.
+Turning to the macro picture, Soloway is concerned about **stagflation**—rising inflation alongside a slowing economy. He pointed to hot Producer Price Index (PPI) data and underlying economic weakness in labor and consumer spending.
 
-He sees similar parabolic patterns today in certain stocks, citing Micron as an example. “I have a small short position on Micron… I could see something very similar to what happened on Oracle.”
+Most strikingly, he drew a technical parallel between the current S&P 500 and the period preceding the 2008 financial crisis.
+*   **A Rounded Top Formation:** “This looks like a rounded top very similar to what happened in 2008,” Soloway said, indicating distribution where retail buys dips but institutions sell.
+*   **Eerie Similarities:** “You’re seeing oil pop just like ’08 and you’re seeing private credit markets start to have upheaval very, very eerily similar.” He questioned whether sustained high oil prices could again stress the credit system and push consumers over the edge.
 
-## Equities and the Shadow of 2008
+On the Federal Reserve, Soloway believes policymakers have learned from 2008 and are unlikely to raise rates into a crisis. However, he noted the market is already doing some of the tightening itself, with the 10-year Treasury yield rising due to inflation expectations.
 
-Soloway is net bearish on the S&P 500, drawing parallels to 2008. “This looks like a rounded top very similar to what happened in 2008,” he said, pointing to a chart where retail buying meets institutional selling. “You’re seeing oil pop just like ’08 and you’re seeing private credit markets start to have upheaval very, very eerily similar.”
+## Labor Market: The Looming AI Shock
 
-He also highlighted the rise in the 10-year Treasury yield, suggesting the market may be tightening financial conditions regardless of Fed action. “The market is naturally raising interest rates even though the Federal Reserve is not.”
+Discussing the February jobs report, which showed a loss of 92,000 jobs, Soloway focused on the trend and potential revisions. More alarmingly, he highlighted a new risk factor: **AI-driven layoffs**.
+“We saw Block lay off 50%. We’ve seen Oracle layoff. Meta… is looking to lay off 20% of their workforce,” he said. “Imagine if every company out there lays 20 or 30% of their workforce off. That’s going to create a spike probably north of 10% of unemployment.” This, he argued, would severely impact consumer spending, regardless of corporate profitability.
 
-## Labor Market Cracks and AI Disruption
+## Gold & Silver: From “Safe Haven” to “Get Rich Quick” Asset
 
-Discussing recent jobs data—which showed a loss of 92,000 non-farm payrolls in February—Soloway expressed broader concerns. “We’re not seeing massive layoffs yet, but you have to wonder if at some point we are going to see a crack.”
+Gold’s recent volatility—including a sharp 2.5% drop on the day—was a key topic. Soloway offered a psychological explanation for why gold has fallen despite heightened geopolitical tensions.
+“It got emotionally attached,” he said. The retail crowd piling in transformed gold from a stable safe haven into a “get-rich-quick” asset. Now, those same emotional investors are selling out of fear. “You have to wipe out the weak hands,” he stated.
 
-He warned that AI-driven layoffs could exacerbate economic weakness. “Imagine if every company lays 20 or 30% of their workforce off. That’s going to create a spike probably north of 10% unemployment.”
+Based on chart patterns, including bearish flags and breakdowns, Soloway made a bold year-end prediction:
+*   **Gold:** “I think gold by the end of this year is back to **$3,500** per ounce.”
+*   **Silver:** “I think silver is going to be back to about **$50 to $54** per ounce by year end.”
 
-## Gold: A Safe Haven No More?
+He remains a long-term bull on both metals due to fiat currency debasement but sees a significant correction first. Between the two, he prefers gold for its lower volatility, planning to buy more if it reaches his $3,500 target.
 
-Gold’s recent volatility—including a 2.5% single-day drop—has challenged its status as a safe haven. Soloway offered a psychological explanation: “It got emotionally attached. All of the retail crowd started to pile in… It now has become a ‘get rich quick’ type asset, which is not a risk-off asset.”
+## The Most Bullish Near-Term Asset? Bitcoin.
 
-He sees further downside ahead. “I think gold by the end of this year is back to $3,500 per ounce… Silver is going to be back to about $50 to $54 per ounce by year-end.” Despite this near-term bearishness, he remains a long-term buyer of both metals, citing fiat currency debasement as a structural driver.
+When asked for the most bullish asset in the near term, Soloway’s answer was immediate and unequivocal: **“Absolutely Bitcoin.”**
 
-## Bitcoin: The Near-Term Bullish Play
+## Final Trades and Outlook
 
-When asked about the most bullish asset in the near term, Soloway was clear: “Absolutely Bitcoin.” While he didn’t elaborate extensively in this segment, his endorsement aligns with his view that cryptocurrencies may benefit from market uncertainty and institutional adoption trends.
+In summary, Gareth Soloway’s framework is one of **contrarian positioning** amid shifting market psychology:
+*   **Bearish** on oil, gold, and silver in the medium term, expecting sharp pullbacks.
+*   **Cautious** on equities, warning of a potential rounded top formation and stagflation.
+*   **Bullish** on Bitcoin as the standout near-term asset.
+*   **Watchful** of the labor market, where AI could trigger a wave of unemployment that fundamentally weakens the consumer.
 
-## Final Thoughts
-
-Soloway’s analysis blends technical patterns with macroeconomic observations, often highlighting where market psychology diverges from fundamentals. Whether it’s oil pulling back, gold correcting, or equities forming a troubling top, his outlook suggests a period of significant repositioning ahead.
-
-As he summarized, “A good technician stays very logical and… watches others’ emotion to trigger the inverse move.”
-
-*Source: Interview with Gareth Soloway on David Lin’s YouTube channel.*
+His analysis underscores a belief that the emotional excesses seen in commodities are creating trading opportunities for those who, in his words, “stay very logical.”
