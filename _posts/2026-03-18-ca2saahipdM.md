@@ -1,70 +1,79 @@
 ---
 layout: post
-title: "Josh Young: $200 Oil & The Hormuz Crisis Fallout"
+title: "Josh Young: $200 Oil & The Hormuz Crisis"
 date: 2026-03-18
 category: Finance
-excerpt: "**March 17** – On the surface, today’s market looks like another volatile session. WTI crude trades near $95, Brent sits above $103, and gold holds firm. But this is not a normal day. Two and a half w..."
-word_count: 906
+excerpt: "**March 17** — On the surface, today’s market action looks familiar: WTI crude trades near $95, Brent sits above $103, and the S&P attempts a modest bounce. But this is not a normal day. Two and a hal..."
+word_count: 1108
 video_url: "ca2saahipdM"
 ---
 
-**March 17** – On the surface, today’s market looks like another volatile session. WTI crude trades near $95, Brent sits above $103, and gold holds firm. But this is not a normal day. Two and a half weeks ago, a U.S. and Israeli strike killed Iran’s Supreme Leader. Iran’s retaliation—closing the Strait of Hormuz—has sent shockwaves through global markets, spiking oil from $77 to $119 in a matter of days, crashing the Dow by 900 points, and rattling Asian equities.
+**March 17** — On the surface, today’s market action looks familiar: WTI crude trades near $95, Brent sits above $103, and the S&P attempts a modest bounce. But this is not a normal day. Two and a half weeks ago, a U.S.-Israeli strike killed Iran’s Supreme Leader. In retaliation, Iran closed the Strait of Hormuz. The immediate aftermath saw WTI crude spike from $77 to $119 per barrel, the Dow drop 900 points, and Asian markets plunge 7-12% in a week.
 
-In response, the International Energy Agency (IEA) has coordinated a 400-million-barrel release from emergency reserves, and sanctions on Russian oil have been lifted. But as experts assess the fallout, a stark divide has emerged: are we on the brink of an unprecedented oil price spike, or is this a fear-driven bubble about to burst?
+In response, the International Energy Agency (IEA) released 400 million barrels from emergency reserves, and sanctions on Russian oil imports were lifted. Yet, the fundamental crisis remains unresolved. We’ve gathered insights from top experts on energy, geopolitics, and markets to cut through the noise. Their views reveal a stark divide: some see an inevitable march toward record-breaking oil prices, while others see a speculative bubble ready to burst.
 
-## The Bull Case: A Physical Crisis With No Quick Fix
+## The Bull Case: A Path to $200 Oil
 
-For Josh Young, CIO of Bison Interests, the mechanics are clear. “If this does not resolve soon, we should see all-time high oil prices,” he states. “On an inflation-adjusted basis, that’s potentially $200-plus.”
+Josh Young, CIO of Bison Interests, warns that if the Strait of Hormuz remains closed, we could witness all-time high oil prices on an inflation-adjusted basis.
 
-The Strait of Hormuz carries roughly one-fifth of the world’s crude. Iran has deployed small boats, sea mines, and anti-ship missiles to blockade it—successfully, so far. With commercial vessels stranded and attacks ongoing, the physical market is tightening rapidly.
+> “If you zoomed out even more, you'd see in 2008, we got to about $147 a barrel. And if you inflation adjust that, you're talking potentially $200 plus.”
 
-“Every day that this continues, the oil price is ratcheting up about 5% a day,” Young explains. “People keep betting on a quick fix… but there isn’t a quick solution here.”
+The mechanics, he argues, justify the extreme figure. The Strait carries roughly one-fifth of the world’s crude supply. Iran has deployed small boats, sea mines, and anti-ship missiles to enforce the blockade—successfully, so far. Most commercial vessels are stranded; three were hit by projectiles in a single morning last week.
 
-This view finds support from Rick Rule, founder of Rule Investment Media, who warned weeks before the strikes that threatening Hormuz would make the oil market “go crazy.”
+> “Every day that this continues, the oil price is ratcheting up about 5% a day... People keep betting on there being some sort of quick fix... but there isn't a quick solution here.”
 
-“Over 50% of the world’s export crude moves through that strait,” Rule noted. “The financial and psychological implications… would be tremendous.”
+This view finds support from Rick Rule, founder of Rule Investment Media, who warned on March 1—with WTI in the low $70s—that any threat to Hormuz would send oil “crazy.”
 
-## The Domino Effect: Bonds, Asia, and Strategic Reserves
+> “Over 50% of the world's export crude moves through that 50km strait... the financial and psychological implications of that before they work themselves out would be tremendous.”
 
-The crisis threatens to spill beyond oil. Luke Gromen, founder of Forest for the Trees, argues that oil-importing nations will be forced to sell U.S. Treasuries to pay for scarce energy.
+## The Domino Effect: Bonds, Asia, and Global Alliances
 
-“The world holds treasuries and the world needs oil and food,” Gromen says. “Is the world going to hold its treasuries and starve itself… or sell its treasuries to bid up oil and food?”
+The shockwaves extend far beyond the oil market. Luke Groman, founder of Forest for the Trees, argues that spiking oil prices will trigger a second crisis in the U.S. Treasury market. Oil-importing nations will be forced to sell Treasuries to pay for physical energy.
 
-Asia is ground zero. Louis-Vincent Gave, CEO of Gavecal, notes that 90% of Hormuz oil flows to Asia, hitting U.S. allies hardest.
+> “The world holds treasuries and the world needs oil and food... is the world going to hold its treasuries and starve itself of food and oil or is it going to sell its treasuries to bid up oil and food?”
 
-“Countries like Korea, Thailand, the Philippines, India—they don’t have the stockpiles China does,” Gave explains. “The idea that the Persian Gulf could stay blocked for weeks, perhaps months, creates legitimate economic challenges for the whole region.”
+Asia is ground zero for this disruption. About 90% of Hormuz’s oil flows to East and Southeast Asia. Louis-Vincent Gave, CEO of Gavecal, notes that America’s allies are the most exposed.
 
-Even the IEA’s 400-million-barrel strategic release may offer only brief relief. Retired Marine Lt. Col. Hal Kempfer estimates it “can make a big difference for maybe 10 days, two weeks… and then we’re right back where we were.”
+> “The idea that the Persian Gulf could stay blocked for weeks perhaps months creates legitimate economic challenges for the whole region in a way that... it doesn't for the United States.”
 
-## The Bear Case: A Fear Premium Doomed to Fade
+Countries like Korea, Thailand, the Philippines, and India lack substantial strategic reserves. China, while better prepared due to massive investments in solar, wind, and EVs (which made up over 50% of new car sales last year), is not immune. Sean Rein, founder of China Market Research Group, points out that China just lost access to Venezuelan crude and now faces a threat to 20% of its oil imports from Iran.
 
-Not everyone is convinced. Todd “Bubba” Horowitz, founder of BubbaTrading.com, is shorting crude. He calls the spike “purely a fear trade” and points to a telling data point: the WTI futures contract one year out trades at just $69.
+## The Counterargument: A Fear Premium Doomed to Fade
 
-“They’re telling you that right now all you’re paying for in oil here is a fear premium,” Horowitz argues. “I would not be surprised… to see oil back in the 70s or 60s rather quickly once this resolves.”
+Not everyone is bracing for $200 oil. Some traders are actively betting against it. Todd “Bubba” Horowitz, founder of bubbaTrading.com, is short crude, calling the spike “the selling opportunity of a lifetime.”
 
-Technical analyst Christopher Mullen of TheTechnicalTraders.com agrees. He notes oil’s long-term 150-day moving average is still pointing down, framing the spike as a “counter-trend rally within a bear market.”
+> “This is purely a fear trade right now... only 20% of the world's oil goes through the straits of Hormuz. And none of it's WTI.”
 
-“News-driven gaps of this kind typically fade unless the underlying fundamentals change permanently,” Mullen says. “The fear has been worked into it… I think it’s going to fade away.”
+He highlights a critical data point: the forward curve for WTI one year out is $69.
 
-## A Historical Perspective: Different Than 1979?
+> “They're telling you that right now all you're paying for in oil here is a fear premium... I would not be surprised as soon as this thing resolves to see oil back in the 70s or 60s.”
 
-Every oil shock invites comparison to 1979, but Professor Steve Hanke of Johns Hopkins University urges caution.
+Technical analyst Christopher Mullen, Chief Market Strategist at TheTechnicalTraders.com, agrees. He notes oil’s long-term 150-day moving average is still pointing down, framing the spike as a counter-trend rally within a broader bear market.
 
-“The potential for disruption is lower today,” Hanke explains. “Iran was producing 8.5% of the world’s oil then; now it’s 5.2%. The U.S. produced 15.6% then and produces 18.9% now.” He also highlights that “oil intensity”—oil used per unit of GDP—has plummeted, making economies less vulnerable.
+> “This type of move is typically a capitulation move... The news is going to fade away, and we'll see the fear kind of drop as well.”
 
-## The Investor’s Dilemma: Price vs. Equity Value
+## Historical Context: Why This Isn’t 1979
 
-With experts split, some investors are looking past the oil price to the equities underneath. Danny Moses, famed from *The Big Short*, has been bullish on energy stocks since before the crisis.
+Every oil shock invites comparison to 1979, but Professor Steve Hanke of Johns Hopkins University urges caution. The structural vulnerability is lower today.
 
-“The energy sector… was undervalued because the belief was that oil was going to $45 or $50,” Moses says. “Exxon Mobil’s 2030 plan is based on $65 oil. If that happens, it’s the cheapest stock in the S&P.”
+> “Iran in 1978 was producing 8.5% of all the world's oil production. Now they're producing 5.2%... The oil intensity—the amount of oil that we use per unit of GDP—has declined dramatically.”
+
+Furthermore, the U.S. is less dependent, producing 18.9% of the world’s oil today versus 15.6% in 1978.
+
+However, timing can overwhelm structure. Retired Marine Lt. Col. Hal Kempfer, a former intelligence director, puts the IEA’s 400-million-barrel emergency release in perspective: it buys the world only about 10-14 days of time.
+
+> “It really puts pressure on us to get the Strait of Hormuz back open again.”
+
+## The Investor’s Dilemma: Navigating the Split
+
+With experts divided, one path is to look beyond the commodity to the equities. Danny Moses, the trader featured in *The Big Short*, has been bullish on energy stocks since before the crisis. His thesis is simple: energy was the most undervalued, under-owned sector in the S&P.
+
+> “If you just told me that oil would... sit at $60... Exxon Mobil... based on $65 oil... is the cheapest stock in the S&P 500.”
 
 ## The Bottom Line
 
-Two camps, one disrupted strait. The bulls see a protracted physical supply crisis with prices yet to reflect the true danger. The bears see a speculative overshoot in a market still supplied outside the Gulf.
+We are left with two compelling, evidence-backed narratives. The bulls see a physical supply catastrophe with no easy fix. The bears see a parabolic fear trade in a market still governed by ample global supply and a downward-trending futures curve.
 
-What’s not in dispute is the Strait of Hormuz’s critical role, Asia’s acute exposure, and energy’s transformation from a market afterthought to the central variable in global stability. As the situation evolves, one lesson from the past three weeks is clear: certainty has been consistently punished by events on the ground.
+What is undeniable is the Strait of Hormuz’s critical role, Asia’s disproportionate vulnerability, and energy’s transformation from a market afterthought to the central variable in the global economy. As events on the ground have shown, certainty is in short supply. The only certainty is that the world is watching—and waiting—for the next development in the narrow waters of the Persian Gulf.
 
-The question for every investor now is not if, but *when*—and on which side of the trade they choose to stand.
-
----
-*This analysis is based on expert interviews conducted for The David B Report. This is not investment advice.*
+*Where do you stand? Are you positioning for $200 oil or a collapse back to the $70s?*
