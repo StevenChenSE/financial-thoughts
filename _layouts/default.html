@@ -8,53 +8,104 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5/dist/reset.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css">
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; min-height: 100vh; color: #262626; }
-    @media (prefers-color-scheme: dark) {
-      body { background: #141414; color: #e8e8e8; }
-      .hero-section, .articles-section, .article-detail, .article-card { background: #1f1f1f; color: #e8e8e8; }
-      .hero-title, .section-title, .article-title, .article-detail h1, .article-detail h2, .article-detail h3 { color: #fff; }
-      .hero-subtitle, .article-excerpt, .article-detail .content, .article-detail .meta { color: #a0a0a0; }
-      .article-card { border-color: #303030; }
-      .article-meta { color: #606060; }
-      .article-detail .meta { border-color: #303030; }
-      .article-detail .content code, .article-detail .content pre { background: #2d2d2d; }
+    :root {
+      --bg: #f5f5f5;
+      --card-bg: #fff;
+      --text: #262626;
+      --text-muted: #8c8c8c;
+      --border: #f0f0f0;
+      --border-strong: #d9d9d9;
+      --link: #1890ff;
+      --code-bg: #f5f5f5;
+      --pre-bg: #f5f5f5;
+      --meta: #bfbfbf;
+      --header-bg: #001529;
+      --header-text: #fff;
+      --footer-bg: #001529;
+      --footer-text: rgba(255,255,255,0.65);
+      --scrollbar: #d9d9d9;
+      --blockquote-border: #d9d9d9;
+      --table-border: #f0f0f0;
     }
-    .header { background: #001529; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
-    .header { background: #001529; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
-    .header-title { color: #fff; font-size: 20px; font-weight: 600; }
-    .header-title a { color: #fff; text-decoration: none; }
-    .header-nav { display: flex; gap: 16px; }
+
+    [data-theme="dark"] {
+      --bg: #141414;
+      --card-bg: #1f1f1f;
+      --text: #e8e8e8;
+      --text-muted: #a0a0a0;
+      --border: #303030;
+      --border-strong: #434343;
+      --link: #4da6ff;
+      --code-bg: #2d2d2d;
+      --pre-bg: #2d2d2d;
+      --meta: #606060;
+      --header-bg: #000c17;
+      --footer-bg: #000c17;
+      --footer-text: rgba(255,255,255,0.65);
+      --scrollbar: #434343;
+      --blockquote-border: #434343;
+      --table-border: #303030;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); min-height: 100vh; color: var(--text); transition: background 0.3s, color 0.3s; }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--scrollbar); border-radius: 3px; }
+
+    .header { background: var(--header-bg); padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
+    .header-title { color: var(--header-text); font-size: 20px; font-weight: 600; }
+    .header-title a { color: var(--header-text); text-decoration: none; }
+    .header-nav { display: flex; gap: 16px; align-items: center; }
     .header-nav a { color: rgba(255,255,255,0.85); text-decoration: none; transition: color 0.3s; }
     .header-nav a:hover { color: #fff; }
+
+    .theme-toggle { background: none; border: 1px solid rgba(255,255,255,0.3); color: rgba(255,255,255,0.85); border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 14px; transition: all 0.2s; }
+    .theme-toggle:hover { background: rgba(255,255,255,0.1); color: #fff; }
+    [data-theme="dark"] .theme-toggle { border-color: rgba(255,255,255,0.2); }
+
     .main-content { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
-    .hero-section { background: #fff; border-radius: 8px; padding: 48px 24px; text-align: center; margin-bottom: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
-    .hero-title { font-size: 32px; font-weight: 700; color: #262626; margin-bottom: 16px; }
-    .hero-subtitle { font-size: 16px; color: #8c8c8c; margin-bottom: 24px; }
-    .articles-section { background: #fff; border-radius: 8px; padding: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
-    .section-title { font-size: 20px; font-weight: 600; color: #262626; margin-bottom: 20px; }
+    .hero-section { background: var(--card-bg); border-radius: 8px; padding: 48px 24px; text-align: center; margin-bottom: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); transition: background 0.3s; }
+    .hero-title { font-size: 32px; font-weight: 700; color: var(--text); margin-bottom: 16px; }
+    .hero-subtitle { font-size: 16px; color: var(--text-muted); margin-bottom: 24px; }
+    .articles-section { background: var(--card-bg); border-radius: 8px; padding: 24px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); transition: background 0.3s; }
+    .section-title { font-size: 20px; font-weight: 600; color: var(--text); margin-bottom: 20px; }
     .article-list { display: flex; flex-direction: column; gap: 16px; }
-    .article-card { padding: 20px; border: 1px solid #f0f0f0; border-radius: 8px; cursor: pointer; transition: all 0.3s; text-decoration: none; display: block; }
-    .article-card:hover { border-color: #1890ff; box-shadow: 0 2px 8px rgba(24,144,255,0.15); }
-    .article-title { font-size: 16px; font-weight: 600; color: #262626; margin-bottom: 8px; }
-    .article-excerpt { font-size: 14px; color: #8c8c8c; line-height: 1.6; }
-    .article-meta { display: flex; gap: 16px; margin-top: 12px; font-size: 12px; color: #bfbfbf; }
-    .article-detail { background: #fff; border-radius: 8px; padding: 40px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
-    .article-detail h1 { font-size: 28px; font-weight: 700; color: #262626; margin-bottom: 16px; }
-    .article-detail .meta { color: #8c8c8c; font-size: 14px; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #f0f0f0; }
-    .article-detail .content { line-height: 1.8; color: #262626; }
-    .article-detail .content h2 { font-size: 22px; margin: 32px 0 16px; color: #262626; }
-    .article-detail .content h3 { font-size: 18px; margin: 24px 0 12px; color: #262626; }
+    .article-card { padding: 20px; border: 1px solid var(--border); border-radius: 8px; cursor: pointer; transition: all 0.3s; text-decoration: none; display: block; background: var(--card-bg); }
+    .article-card:hover { border-color: var(--link); box-shadow: 0 2px 8px rgba(24,144,255,0.15); }
+    .article-title { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 8px; }
+    .article-excerpt { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+    .article-meta { display: flex; gap: 16px; margin-top: 12px; font-size: 12px; color: var(--meta); }
+    .article-detail { background: var(--card-bg); border-radius: 8px; padding: 40px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); transition: background 0.3s; }
+    .article-detail h1 { font-size: 28px; font-weight: 700; color: var(--text); margin-bottom: 16px; }
+    .article-detail .meta { color: var(--text-muted); font-size: 14px; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+    .article-detail .content { line-height: 1.8; color: var(--text); }
+    .article-detail .content h2 { font-size: 22px; margin: 32px 0 16px; color: var(--text); }
+    .article-detail .content h3 { font-size: 18px; margin: 24px 0 12px; color: var(--text); }
     .article-detail .content p { margin-bottom: 16px; }
     .article-detail .content ul, .article-detail .content ol { margin-bottom: 16px; padding-left: 24px; }
     .article-detail .content li { margin-bottom: 8px; }
-    .article-detail .content strong { color: #1890ff; }
-    .article-detail .content code { background: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-size: 14px; }
-    .article-detail .content pre { background: #f5f5f5; padding: 16px; border-radius: 8px; overflow-x: auto; margin-bottom: 16px; }
-    .back-link { display: inline-block; margin-bottom: 20px; color: #1890ff; text-decoration: none; }
+    .article-detail .content a { color: var(--link); text-decoration: none; }
+    .article-detail .content a:hover { text-decoration: underline; }
+    .article-detail .content strong { color: var(--link); }
+    .article-detail .content code { background: var(--code-bg); padding: 2px 6px; border-radius: 4px; font-size: 14px; }
+    .article-detail .content pre { background: var(--pre-bg); padding: 16px; border-radius: 8px; overflow-x: auto; margin-bottom: 16px; }
+    .article-detail .content pre code { background: none; padding: 0; }
+    .article-detail .content blockquote { border-left: 4px solid var(--blockquote-border); padding: 8px 16px; margin: 16px 0; color: var(--text-muted); font-style: italic; background: var(--code-bg); border-radius: 0 4px 4px 0; }
+    .article-detail .content table { border-collapse: collapse; width: 100%; margin-bottom: 16px; }
+    .article-detail .content th, .article-detail .content td { border: 1px solid var(--table-border); padding: 8px 12px; text-align: left; }
+    .article-detail .content th { background: var(--code-bg); font-weight: 600; }
+    .article-detail .content hr { border: none; border-top: 1px solid var(--border); margin: 24px 0; }
+    .article-detail .content img { max-width: 100%; border-radius: 4px; }
+    .back-link { display: inline-block; margin-bottom: 20px; color: var(--link); text-decoration: none; }
     .back-link:hover { text-decoration: underline; }
-    .footer { background: #001529; padding: 24px 16px; text-align: center; margin-top: 24px; }
-    .footer-text { color: rgba(255,255,255,0.65); font-size: 14px; }
+    .footer { background: var(--footer-bg); padding: 24px 16px; text-align: center; margin-top: 24px; }
+    .footer-text { color: var(--footer-text); font-size: 14px; }
+
+    .github-markdown-body { color: var(--text) !important; }
+    [data-theme="dark"] .github-markdown-body { background: transparent !important; }
+
     @media (max-width: 768px) {
       .header { padding: 12px 16px; }
       .header-title { font-size: 18px; }
@@ -73,6 +124,7 @@
     <div class="header-nav">
       <a href="{{ site.baseurl }}/">Home</a>
       <a href="{{ site.baseurl }}/#articles">Articles</a>
+      <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">🌙</button>
     </div>
   </div>
 
@@ -83,5 +135,25 @@
   <div class="footer">
     <p class="footer-text">© 2026 Financial Thoughts. All rights reserved.</p>
   </div>
+
+  <script>
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      document.getElementById('themeBtn').textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      const current = getTheme();
+      applyTheme(current === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+  </script>
 </body>
 </html>
