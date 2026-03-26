@@ -54,11 +54,11 @@
       --scrollbar: #434343;
       --blockquote-border: #434343;
       --table-border: #303030;
-      /* github-markdown-css dark mode variables */
+      /* github-markdown-css dark mode variables — set bgColor to match card-bg */
       --fgColor-default: #f0f6fc;
       --fgColor-muted: #9198a1;
       --fgColor-accent: #4493f8;
-      --bgColor-default: #0d1117;
+      --bgColor-default: #1f1f1f;
       --bgColor-muted: #151b23;
       --bgColor-neutral-muted: #656c7633;
       --borderColor-default: #3d444d;
@@ -123,7 +123,11 @@
     .footer-text { color: var(--footer-text); font-size: 14px; }
 
     .github-markdown-body { color: var(--text) !important; }
-    [data-theme="dark"] .github-markdown-body { background: transparent !important; }
+    [data-theme="dark"] .github-markdown-body,
+    [data-theme="dark"] .article-detail .content.markdown-body { background: transparent !important; }
+
+    [data-theme="light"] .github-markdown-body,
+    [data-theme="light"] .article-detail .content.markdown-body { background: transparent !important; }
 
     @media (max-width: 768px) {
       .header { padding: 12px 16px; }
