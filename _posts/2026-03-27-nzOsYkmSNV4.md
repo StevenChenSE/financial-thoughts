@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patrick Karim: Debunking Gold's "Safe Haven" Myth"
+title: "Patrick Karim: Debunking Gold's Safe Haven Myth"
 date: 2026-03-27
 category: Finance
 excerpt: "Technical analyst Patrick Karim returned to Northstar Barts for a deep dive into the current state of markets, with a particular focus on precious metals. In a conversation that challenged popular nar..."
