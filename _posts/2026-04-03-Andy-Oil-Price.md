@@ -2,11 +2,10 @@
 layout: post
 title: "Interview with Andy: Oil Price Bullish Breakout vs. Bearish Predictions"
 date: 2026-04-03
-permalink: /finance/2026/04/03/Cp3ebodRKI4.html
+permalink: /finance/2026/04/03/Andy-Oil-Price.html
 category: finance
 excerpt: "In a recent episode of his "Finding Value" channel, financial analyst Andy dives into the volatile world of commodities, specifically focusing on oil prices. The discussion, which features interaction..."
 word_count: 1819
-video_url: "Cp3ebodRKI4"
 ---
 
 In a recent episode of his "Finding Value" channel, financial analyst Andy dives into the volatile world of commodities, specifically focusing on oil prices. The discussion, which features interactions with community members like Fernando, Fred, and others, explores a stark divide between bearish predictions and Andy's bullish technical and fundamental analysis.
