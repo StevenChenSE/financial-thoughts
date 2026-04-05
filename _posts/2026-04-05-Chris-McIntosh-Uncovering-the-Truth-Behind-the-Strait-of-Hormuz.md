@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chris Mint"
+title: "Chris McIntosh: Uncovering the Truth Behind the Strait of Hormuz"
 date: 2026-04-05
 category: finance
 excerpt: "**March 31st, 2026** – In a candid discussion on Capital Kazm, host Danny welcomed Chris McIntosh, publisher of the Capitalist Exploits Newsletter, for a deep dive into the escalating crisis in the St..."
