@@ -86,3 +86,4 @@ As the day progresses, the consensus is that investors must remain patient and o
 The strategy for today involves observing each bar of the 10-minute and 30-minute charts to determine whether the market will find a breakout or roll over into deeper support levels.
 
 > "Overall, we're really just letting this market figure itself out and seeing if equities themselves... we just got to let the markets unfold and take it one bar at a time."
+ 
