@@ -78,4 +78,4 @@ Back on the MacBook, a more complex task was presented: visualizing a sorting al
 
 ## Conclusion: A Valuable Complement
 
-After thorough testing, the verdict is clear: the Gemma 4 family of models is "really good." While not intended to replace paid models, they serve as an excellent **complement** for simpler tasks or scenarios demanding strict data privacy. The Apache 2.0 license, combined with their impressive capabilities and multimodal features, positions Gemma 4 as a significant contender in the local LLM landscape, offering developers unprecedented freedom and control.
+After thorough testing, the verdict is clear: the Gemma 4 family of models is "really good." While not intended to replace paid models, they serve as an excellent **complement** for simpler tasks or scenarios demanding strict data privacy. The Apache 2.0 license, combined with their impressive capabilities and multimodal features, positions Gemma 4 as a significant contender in the local LLM landscape, offering developers unprecedented freedom and control. 
