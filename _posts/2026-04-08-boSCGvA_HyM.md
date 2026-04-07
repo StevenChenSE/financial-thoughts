@@ -87,3 +87,4 @@ The strategy for today involves observing each bar of the 10-minute and 30-minut
 
 > "Overall, we're really just letting this market figure itself out and seeing if equities themselves... we just got to let the markets unfold and take it one bar at a time."
  
+# trigger
