@@ -1,247 +1,199 @@
 ---
 layout: post
-title: "YouTube Video dulf-iP-gxo"
+title: "Simon Micho: Data-Driven Analysis of Global Power, Raw Materials, and Economic Control"
 date: 2026-04-12
 category: finance
-excerpt: "**Date: April 9th, 2026**"
-word_count: 3753
+excerpt: "'We've got two basic scenarios,' Simon Micho begins, 'and in each scenario the outcome is more or less the same.'"
+word_count: 2914
 video_url: "dulf-iP-gxo"
-transcription_time: 5.1s
-summarize_time: 5.1s
+transcription_time: 7.8s
+summarize_time: 7.8s
 model: "MiniMax-M2.7"
 ---
 
-**Date: April 9th, 2026**
+## The Two Scenarios
 
-What if everything we're watching unfold isn't chaos—but choreography? What if the seemingly inexplicable actions of global powers, the destruction of critical infrastructure, and the systematic dismantling of international systems are all parts of a predetermined plan, orchestrated by competing factions at the very top of the global power structure?
+"We've got two basic scenarios," Simon Micho begins, "and in each scenario the outcome is more or less the same."
 
-This is the question at the heart of a wide-ranging interview between Danny, host of the Capital Kosа podcast, and geopolitical analyst Simon Micho. The conversation, recorded on April 9th, 2026, offers a data-driven framework for understanding the interconnected crises sweeping across the Middle East, Europe, and beyond.
+The first scenario involves what Micho describes as a civil war within the deep state—what some call the Committee of 300. The second suggests everything we're witnessing is theater, a carefully orchestrated roll-out designed to condition the public for what's coming. "And both of those outcomes seem to be heading to this place," he explains.
 
-"I look at things from a different perspective and I've got my hands on data, all of which is public domain," Micho explains early in the interview. "I see the world in layers, and within each layer, you've got systems interacting with each other. The United States is a system, Europe is a system, the oil value chain is a system. And so all of these systems are interacting with each other in a Game of Thrones context where they're all trying to actually vie for attention and dominance."
+Micho approaches geopolitics differently than most analysts. Rather than relying on hunches and vibes, he grounds his conclusions in raw data—public domain information that anyone can access. "I'm not noticeably smarter than the next person," he says. "I'm just looking at things from a different perspective."
 
-## Two Scenarios, One Destination
+His framework involves viewing the world as interconnected systems: bricks (the BRICS nations), the United States, Europe, the oil value chain—all operating within what he calls "a Game of Thrones context where they're all trying to actually vie for attention and dominance."
 
-Micho's analysis centers on what he describes as two fundamental scenarios, both leading to remarkably similar outcomes.
+## The Fracture Within the Deep State
 
-**Scenario One: Civil War in the Deep State**
+According to Micho, the current power struggle traces back to a pivotal moment in 2008 when the Trans-Pacific Partnership (TPP), TTIP, and TISA agreements—three massive frameworks connecting global corporations with governments—were intended to replace the 1973 petrodollar system.
 
-The first scenario posits that what we're witnessing is an internal conflict within what some call the Committee of 300—a shadowy network of interconnected interest groups and family dynasties that have orchestrated global affairs since the end of World War II.
+"The European members of parliament got hold of the information of what was really going on courtesy of Wikileaks, which is why the Americans were so pissed off with him," Micho explains. When that initiative collapsed, it triggered what he describes as a "factional disruption."
 
-"The group that's been in charge of world affairs for the last 80 years has dropped the ball on a few occasions," Micho explains. "When they actually fluffed the Trans-Pacific Partnership deal—the TPP, TTISA, TTIP, TISA agreements, three big agreements between the corporations of the world and the governments of the world, in particular the United States government—that was to replace the petrodollar, the 1973 petrodollar agreement."
+"Alright, you guys have been in charge for a long time now. We want our turn."
 
-When those agreements collapsed during the Obama administration, thanks in part to European parliament members accessing information through WikiLeaks, the internal fractures began to show.
+This paradigm shift became visible when Russia entered the Syrian war and began bombing ISIS—a Western-created force that Americans could do nothing about. It marked the first time the Western hegemon was directly challenged.
 
-"All right, you guys have been in charge for a long time now. We want our turn," Micho describes the shift. "And so there was a difference in paradigm, a different shift. And what I think is happening since then is we've sort of seen elements of that civil war."
+Later, when Donald Trump won the 2016 election, he was either adopted early or subsequently claimed as the face of the new faction challenging the old guard—Obama, Biden, Clinton. "They represent a faction that did things one way, and you can sort of see a very bitter public conflict with unprecedented dirty tricks to try and do each other in."
 
-The first major challenge to Western hegemony came when Russia entered the Syrian war and began bombing ISIS—actions the Americans seemingly couldn't counter.
+## The Two Factions: Global Empire vs. Regional Power
 
-"When Donald Trump won the election in 2016, he was either adopted early or has been adopted since as the face of one of these factions," Micho continues. "His adversaries—the Obama, Biden, Clinton group—represent a faction that did things one way, and you can sort of see a very bitter public conflict, unprecedented dirty tricks to try and sort of do each other in. Trump represents the new faction coming."
+The Committee of 300, Micho explains, represents interest groups that have guided world affairs since World War II. Within this structure exist two fundamentally different visions.
 
-**Scenario Two: The Theater of Control**
+The old faction envisioned an invisible global empire: the U.S. reserve currency, the Federal Reserve system, and international financial mechanisms built on fiat currency. This faction is now in crisis—"the energy system that supported that is becoming unstable for one reason or another."
 
-The second scenario offers a darker interpretation: that everything being presented to the public is carefully orchestrated theater, designed to distract while the real power structures quietly implement their agenda.
+The emerging faction wants a return to physical asset-based currency, more regional power structures, and a withdrawal from international entanglements. Micho observes that the current American administration "has withdrawn completely from Europe. There's like there seems to be a grand bargain with Russia on the ground now. They've just walked away."
 
-This interpretation aligns with what Micho calls "the continuity of agenda"—the idea that regardless of which faction appears to be in power, the underlying plan remains consistent.
+This new paradigm involves what Micho calls "the technate idea"—essentially a North and South American continental union, from Greenland to Alaska, Canada, United States, Mexico, Central America, Panama, extending to Venezuela, Colombia, and potentially all of South America.
 
-"What was interesting about the Q phenomenon—all the conspiracy theories were correct," Micho notes. "Stand fast. We've got this. Don't do anything. The white hats are in control. The white hats have won. Meanwhile, the real plans being rolled out."
+"Venezuela has become the point person in South America representing the American interests," Micho notes, citing contacts who describe South American nations being pressured to become "dependent on Venezuela" for everything—a situation he calls "the blanket junkie."
 
-Under this framework, both Trump and Biden are merely different faces of the same illusion, creating the appearance of conflict while serving identical ultimate objectives.
+## The Semiconductor Arms Race
 
-## The Death of the Petrodollar and the Birth of a New Order
+Behind the visible conflicts lies what Micho identifies as the true arms race: semiconductors combined with AI.
 
-Central to Micho's analysis is the transformation of the global financial system. The current international order, built on fiat currency and the petrodollar system established in 1973, is according to Micho reaching its terminal phase.
+"China produces about 15% of all chips, but they're all mostly low-tech," he explains, referencing data from 2022. "Taiwan produces 41% of processor chips but more than 90% of the advanced chips—and the advanced chips are what everyone wants."
 
-"The energy system that supported that is becoming unstable for one reason or another," he explains. "You've got this civil war, and the new faction that's sort of coming in wants to return to physical asset-based currency, more regional power."
+The Taiwanese companies producing these chips are also controlled by American interests. "The Americans want that technology. The Taiwanese won't give it to them because the moment they do, they'll just be abandoned."
 
-The current American administration's actions—seemingly inexplicable to observers—are, in this framework, deliberate steps toward a new paradigm. Micho points to Trump's statement about the existing financial system being "outdated and will soon be replaced with a more streamlined cryptocurrency system" as evidence.
+China wants Taiwan reintegrated into its fold—something Micho believes might have occurred diplomatically over 50-60 years—though "we might get a shooting war now to get that technology."
 
-"The trick with Trump is to not believe what he says," Micho cautions. "Look at what he does. There was a shotgun blast of executive orders in both of Trump's presidencies. A lot of the executive orders he put on the ground back then had no sense back then, but are now being used now. They are directly related to the drug cartels in Mexico, Venezuela action, stuff to actually sort of do in Iran. There was indeed a long-range plan, and Trump is convincing us that he's mentally ill. It's like a magician—look at this, look at this, but over here something else entirely happens."
+The implications extend beyond economics. "If the Chinese do happen to take Taiwan, from a naval point of view, there's nothing to really stop them to get to Hawaii. So we've got the same problem they had in the Pacific theater of World War II."
 
-Micho references this as the "madman theory," a strategy also employed during the Vietnam War era.
+What makes this critical is the miniaturization: where Chinese production was at 20 nanometers just years ago, Taiwanese facilities operate at 3-4 nanometers. "The smaller the circuitry, the more complicated design that can be on the same wafer—and that's what's at stake."
 
-## The Technate: America's New Frontier
+There's also an often-overlooked dependency: the Middle East supplies a major chunk of helium to Southeast Asia, and "you can't really make semiconductor microchips without the helium."
 
-Central to the emerging paradigm, according to Micho, is what he calls "the Technate"—a vision of American regional dominance spanning the entire Western Hemisphere.
+## The Energy Data: Uncharted Territory
 
-"This was put forward in the 1940s. When America was first formed, they had the idea that we're just going to look in our own backyard, but we're not interested in Europe. Go away," Micho explains. "In the 1940s, this is what they believed the American political boundary should have been: Greenland, Canada, Alaska, America, Mexico, Central America, Panama Canal, Venezuela, and Colombia."
+Micho presents a comprehensive analysis of global energy disruption. According to his research, peak oil was reached in November 2018—and by September 2025, that peak had been breached, requiring a fundamental reassessment of depletion models.
 
-This isn't a new concept—it's a revival of a much older American vision, now being implemented through modern means.
+An HSBC bank study in 2016 revealed that 80-81% of existing oil fields were declining at 5-15% annually. Yet current disruptions have pushed conditions far beyond historical comparisons.
 
-"Everyone was upset about Greenland for a while, but they've forgotten all about that," Micho notes. "Alberta, where all the oil sands are—the Americans have been talking to the locals to try and get them to secede from Canada and join America."
+"In the 1973 oil embargo, 7% of global supply went offline," Micho explains. "Currently, the Iran war on its own represents 20% of oil supply—so we are in very much uncharted territory."
 
-Venezuela plays a key role in this strategy. Micho describes intelligence suggesting that "every nation state in South America is being pressured by the Americans to become dependent on Venezuela for everything."
+The COVID pandemic, by comparison, created a 9.3% reduction—but through demand reduction, not physical destruction of infrastructure.
 
-"The word he used was the 'blanket junkie,'" Micho reveals. "Whatever went down in Venezuela, we'll never know the truth of the matter, but whatever it was was at least partially successful and is still in play."
+Approximately 20% of global gas has also been disrupted. While all that oil and gas remains in the ground, "what they're doing is they're blowing up the structures on the surface which can be repaired. What's being destroyed is the ability of flow rate."
 
-Meanwhile, America has withdrawn from Europe and reached what Micho describes as "a grand bargain with Russia on the ground now." The confrontation with China continues but has become less aggressive in certain theaters.
+Our economic systems, our just-in-time supply grids, depend on instant access to resources. "Our economics, our ability to expand and pay debt—we're in a very fragile system economically. Now that we've got a physical resource disruption, that's going to rupture it."
 
-## The Semiconductor Battle: The Real Arms Race
+Ukraine has also contributed through drone strikes on Russian energy infrastructure—a relatively small effect compared to the Middle East situation but significant nonetheless.
 
-Beneath the visible conflicts lies an arms race that most observers have missed entirely—the competition for semiconductor and artificial intelligence supremacy.
+## The Fertilizer Crisis
 
-"This is a combination of semiconductor microchips in conjunction with AI software put together. They are together as a system. They're not separate, right?" Micho explains, sharing data visualizations. "And so there's the control. And this is the arms race, the current arms race that sits behind everything. It's not AI on its own. It's not data centers on its own. It's AI, data centers to actually handle the data and move stuff around, and the hardware to process them. Semiconductors, right?"
+The implications extend far beyond energy to the food system itself. Petrochemical fertilizers—presented to the world in the 1940s-60s as a miracle solution for crop yields—now support approximately half the global population.
 
-The numbers are striking: China produces about 15% of all chips, but they're mostly low-tech. Taiwan produces 41% of processor chips, but more than 90% of advanced chips—the technology everyone wants.
+"If you take synthetic fertilizer offline, then there's going to be a supply shock," Micho warns.
 
-"The Taiwanese companies are also controlled by Americans. The Americans want that technology," Micho notes. "The Taiwanese won't give it to them because the moment they do, they'll just be abandoned. China wants Taiwan back into its fold and would get that normally over 50-60 years through diplomatic actions anyway. But we might get a shooting war now to get that technology."
+The Iran situation has directly disrupted 20-25% of global fertilizer production. "Of the tradable fertilizer, we're now talking 30 to 35%." The critical inputs include urea, ammonia, phosphate, and sulfur—the latter sourced from the oil industry.
 
-There's a critical connection most analysts have overlooked: the Middle East produces a major chunk of the world's helium supply, and helium is essential for semiconductor manufacturing.
+The UN Food Group has warned that if this war continues beyond 2026, "the number of people facing hunger could increase by 45 million."
 
-"While everyone's focused on oil, there's a number of other products coming through the Middle East that are worrying everyone," Micho warns.
+This follows the Ukraine war, which created a 15-20% global fertilizer disruption through trade flow and price mechanisms. "They found another way around it," Micho notes. "The Iran hummus shock is a physical choke point that doesn't really have an alternative."
 
-## Energy Destruction: Unprecedented Territory
+Russia has emerged as a major beneficiary, controlling approximately 23% of ammonia exports, 14% of global urea exports, and—together with Belarus—40% of global potash. China also commands about 25% of global fertilizer production.
 
-When Micho turns to energy data, the picture becomes even more alarming. Using analysis derived from Art Burman's work at Labyrinth Consulting, he presents data showing that November 2018 was previously identified as peak oil—but as of September 2025, that peak has been breached.
+## The Food System: A History of Systematic Damage
 
-"This tells me that the basic idea that the fundamental business model behind everything is about to be scrapped, not evolved, not changed, scrapped, wiped out," Micho states flatly.
+Micho has compiled historical data tracking structural damage to global food chains since 1994. The pattern reveals an accelerating frequency and severity of disruptions:
 
-The numbers are stark. During the 1973 oil embargo, approximately 7% of global oil supply went offline. The Iran-Iraq war pushed similar numbers. Today, the Iran war alone has removed 20% of global oil supply from the market—more than twice those historical crises.
+- 1994-1997: Periodic disruptions of 2-4%
+- 2007-2008: Global financial crisis, with disruptions reaching 8-10% and 16%
+- 2017: African swine fever in China eliminated 20% of the world pig population within weeks
+- 2020: COVID-19 created 17% of traded calories restricted by export bans, compounded by shipping container problems
+- 2022: Ukraine war disruptions of 16-23% and 15%
+- Current Iran situation: 30-35% disruptions
 
-"The COVID-19 pandemic, when it was demand reduction not supply, was 9.3%," Micho adds. "And again, that was quite destructive. Now this is happening so fast, we don't quite understand yet."
+"There's been a continuity of agenda to diminish the food supply," Micho observes.
 
-The gas situation is equally dire. Approximately 20% of global gas has been disrupted. But Micho emphasizes that this isn't about the resources themselves—all that oil and gas is still in the ground. The destruction targets the surface infrastructure, the facilities that process and distribute these resources.
+The BRICS nations now control 72% of the world grain stockpile, while the West controls just under 14%. "This is a leverage point," he emphasizes. "The threshold between a market disruption and a civilization shock is small."
 
-"What's being destroyed is the ability of flow rate," he explains. "Our economics, our just-in-time supply grid depends on us being able to access stuff on the spot, on at an instance's notice. Our economics, our ability to expand and pay debt—we're in a very fragile system economically. But now that we've got a physical resource disruption, that's going to rupture it."
+Historical precedent from 2007 rice markets demonstrates this vulnerability: "A 3-5% production shortfall can represent a 15-20% reduction in available supply—and that's enough to trigger panics and export bans. It's a self-fulfilling crisis."
 
-Ukraine has also been conducting drone strikes on Russian energy infrastructure—a factor largely absent from public discussion.
+## The Great Reset: Two Roads, One Destination
 
-"No one's talking about that one," Micho notes. "That's a relatively small sideshow compared to what's happening in the Middle East at the moment."
+Regardless of which scenario plays out—the civil war within the deep state or the manufactured theater—both paths lead to the same destination: what Micho calls "the Great Reset."
 
-## The Food Chain: A Weapon in Waiting
+The concept traces to Agenda 21, released in 1992 at the Rio Earth Summit, and evolved into Agenda 2030. The transition requires catastrophic events to convince populations to accept fundamentally altered social contracts.
 
-Perhaps the most sobering section of the interview deals with food production and the fertilizer supply chain—a system that most consumers take entirely for granted.
+"The tools are economic devastation, an energy shortage, a food shortage, and some kind of physical lockdown," Micho lists. "Either one of those or all of them together."
 
-"Petrochemical fertilizer was presented in the 1940s, '50s, and '60s with the idea that if you put petrochemical fertilizer, you get a much higher yield," Micho begins. "As of 2015, about half the world population is supported with synthetic fertilizer."
+The vectors to achieve this include pandemics (already attempted), terrorism, famine ("on the cards for at least part of the world"), conventional war, or "a good old-fashioned cyber information bomb that is going to be so devastating that we will lose everything."
 
-The implications are staggering: if synthetic fertilizer production goes offline, approximately half the world's population would face immediate food insecurity.
+The destination involves programmable cryptocurrency controlled from a central point, social credit systems similar to China's Sesame Credit now spreading to Vietnam and Australia, ESG (Environmental Social Management) systems dictating consumption, digital surveillance with the end of privacy, and fundamentally altered concepts of private ownership.
 
-"About 20 to 25% of global fertilizer production is directly disrupted," Micho reveals, referring to the Iran conflict. "We're now not all groups not all countries export fertilizer and import it, right? So of the tradable fertilizer, we're now talking 30 to 35%. So it's about 20%—let's call it 20%—of the global fertilizer production for that food system has now been taken offline, in particular urea and sulfur."
+"What they basically mean is you'll rent everything from the state and the state," Micho summarizes—the infamous "you'll own nothing and you'll be happy."
 
-The Ukraine war had previously removed 15 to 20% of global fertilizer from accessible markets, but that was primarily a trade flow disruption. The Iran situation represents something fundamentally different.
+## Technofeudalism and the Transhumanist Agenda
 
-"The Iran hummus shock is a physical choke point that doesn't really have an alternative," Micho explains.
+Januz Varafakus has documented how "conventional free-market capitalism has already been phased out and technofeudalism has already arrived," Micho notes. The large tech corporations—Amazon, Google, Microsoft—have become so essential that "we've got no choice but to take part in these companies, and they're big enough where we have no choice, but they're also starting to influence our choices. Our choices are not our own."
 
-The food implications are severe. According to UN food agencies, if the current war extends beyond 2026, the number of people facing hunger could increase by 45 million.
+Beyond economic restructuring lies something more disturbing. "What's behind all this is the transhumanism agenda where they want to force humans into two kinds of humans," Micho explains. "The haves and have-nots. The haves will be able to merge with technology, giving them a competitive edge—they'll be much more capable—but you have to be rich to do it. And then there's everyone else who will be in poverty."
 
-But Micho goes deeper, analyzing the historical pattern of food system disruptions going back to 1994:
+The reference point: the dystopian world depicted in the background of the film *Elysium*—vast populations herded into ghettos while the very wealthy exist in gated communities, in that case literally in orbit.
 
-- 1994-1997: Regular structural damage events
-- 2007 (Global Financial Crisis): 8-10%, then 16% disruptions
-- 2017: African swine fever in China—20% of the world's pig population lost in weeks
-- 2020: COVID-19—17% of traded calories restricted by export bans
-- 2022: Ukraine war—16-23% disruptions
-- 2026 (Current): Iran war—30-35% disruptions
+"The technologies in place now to enforce this are already here," Micho states. "The French government actually said they're developing the first military division of robots for military purposes."
 
-"There's been a continuity of agenda to diminish the food supply," Micho observes. "The food system is taking hit after hit after hit."
+Military strategists are preparing for "nonlinear asymmetrical warfare in cities" where robots won't fight other robots but will suppress civilian populations. "The future of warfare is going to be in cities. You're not going to have open field conflict so much. Most of the conflict will be in cities."
 
-The leverage point here is control of grain stockpiles. Micho reveals that BRICS nations now control 72% of the world grain stockpile, while the West controls just under 14%.
+## The Middle East Chess Game
 
-"The threshold between a market disruption and a civilization shock is small," he warns. "In 2007 with rice, a 3 to 5% production shortfall can represent a 15 to 20% reduction in available supply, and that's enough to trigger panics, export bans. This is a self-fulfilling crisis."
+Returning to immediate geopolitics, Micho sees the Iran conflict as serving multiple strategic purposes simultaneously.
 
-## The Great Reset: Where It's All Heading
+"The idea that the United States had diplomatic street cred and everyone listened—what the current administration has done is destroyed all credibility for the American system. No one will trust them ever again."
 
-Micho's model synthesizes all these threads into a coherent vision of where global events are converging.
+Simultaneously, "the Zionist political party in Israel controls very much controls the American infrastructure and politics, as well as other countries like Australia." The current conflict exposes this influence "in a way where it's being eroded. The Israelis won't be able to control the American infrastructure in the same way from this point forward."
 
-"This is the great reset, and where I believe this is going," he explains. "The great reset was first seen in Agenda 21, released in 1992 in Brazil at the United Nations. Now they're talking about the Great Reset 2030—Agenda 2030."
+The Americans don't have the munitions for extended operations—missiles being withdrawn from Taiwan stockpiles, reserves depleting in Ukraine. "I don't think the Americans are there to win. I think they're there to blow stuff up, destroy a few things, take out certain operatives, and then before the war's finished, they're just going to pack up and go home and leave the Israelis to face the music on their own—which means the Israelis will be wiped off the map."
 
-The end state, according to Micho, looks something like this:
+Israel has limited time regardless. "The Middle East has got oil. Oil is in the process of being phased out one way or another. And so there's only a couple of decades left of production at current rates. Once oil leaves the region, will anyone care about the Middle East? Probably not. So if the Israelis want to do their greater Israel project, they better do it quick."
 
-- **Programmable cryptocurrency** similar to Bitcoin but centrally controlled
-- **Social credit systems** already emerging in China, Vietnam, and notably in Australia (Darwin)
-- **ESG (Environmental Social Management)** systems dictating consumption—what you can buy, what you can eat, how many carbon credits you've consumed
-- **Digital surveillance infrastructure** where privacy has already essentially vanished
-- **New models of private ownership**—essentially, you will rent everything from the state and corporations
-- **Total police surveillance state**
+## The British Connection
 
-"You will own nothing and you'll be happy—which is what they actually say," Micho notes with bitter irony.
+One often-overlooked dimension involves the historical British role. "It seems to be the British are at the bottom of the bottom of the rabbit hole," Micho suggests.
 
-This represents a transformation from the original technocracy concept—which at least considered biophysical and energy limits—into what Slovenian philosopher Žižek Varafakis has termed "Technofeudalism."
+"Every time peace deals were on the table in Ukraine, the British scotched it. It was the British prime minister that stepped in and stopped Zelensky from accepting the peace deal with the Russians. The war must continue."
 
-"Conventional free-market capitalism has already been phased out, and technofeudalism has already arrived," Micho explains, referencing Varafakis's work. "We've got these big tech companies like Amazon, Google, Microsoft, and we've got no choice but to take part in these companies. They're big enough, and they're also starting to influence our choices. Our choices are not our own."
+When the British Empire secured Persia after World War I's "Great Game," they obtained the oil reserves and established a company that became British Petroleum—a financial mechanism organizing the petrodollar system centered in London.
 
-## The Tools of Transformation
+"If the Americans are blowing up the petrodollar infrastructure and the ability to fund stuff and access energy directly, that's of strategic importance. Blowing up the assets—once they're gone, new people will come in and rebuild."
 
-How do the architects of this transformation convince populations to accept such a dramatic restructuring of society? Micho identifies four primary tools:
+## The Data Center Paradox
 
-1. **Economic devastation**
-2. **Energy shortage**
-3. **Food shortage**
-4. **Physical lockdown**
+One apparent contradiction concerns AI infrastructure. If the plan involves destroying energy supplies, why are data centers—enormous energy consumers—being constructed worldwide?
 
-"These can come through various vectors," he elaborates. "A pandemic—we've already seen that attempt. Are they going to do it again? Terrorism—it's been around for a while. A famine—that's on the cards for at least part of the world. Or a good old-fashioned war. Give war a chance."
+"Remember how I said there were two basic models?" Micho responds. "The assumption is we've got the global system at the moment where everything is running and we're going to try and maintain it. What if the plan was to destroy all that but only bring back online part of it?"
 
-The most likely vector, in Micho’s assessment, is "some kind of cyber information bomb that is going to be so devastating that we will lose everything. How much is online at the moment? How much goes through a website or a phone? Imagine if all of that got wiped out."
+"So if we had a vast part of society ability to access resources and electricity and they went offline and they had extreme poverty and food shortages, but the control structure—the data centers and the AI tools—was maintained, where a relatively small number of people now can administer everything in a way where things can be programmed?"
 
-## Robots and the End of Consent
+"Laws can be changed. What if they were only going to bring back some of the system, and the form and purpose of that system will be more about strategic control rather than peace on earth and making everyone wealthy?"
 
-Perhaps the most chilling aspect of the interview addresses the technological infrastructure being developed to enforce this new order.
+The recent news that "nearly half of U.S. data centers planned for 2026 are reportedly expected to be delayed or cancelled" suggests the energy constraints are already becoming apparent.
 
-"Once you get the robot police, guards, and soldiers in play, then you can pretty much anything you want," Danny interjects. "When you've got programmable drones and robots that'll just do your bidding, you no longer need the consent of the governed any longer."
+## System Collapse and New Emergence
 
-"The technologies in place now to do that," Micho confirms. "The French government actually said that they're developing the first military division—I think it's division or is it a brigade?—anyway, it's a unit of robots for military purposes."
+"When a system takes strain like event after event puts stress like cracks in the system but it doesn't break—it can bend, but not because the normal checks and balances have been removed," Micho explains using systems theory. "It can bend and absorb more and more stress, but when it does break, it will shatter into very small pieces and it will never be put back together again."
 
-Micho references military strategy documents that paint a picture of future warfare fundamentally different from what most people imagine.
+"I think that is what's being organized here. And it's not a natural situation. I believe it's organized. It's synthetic. We've been modeling this for years. We've known about these problems for years."
 
-"Most of the conflict will be in cities," he explains. "Robots aren't going to be bipedal, walking around on two legs—that's very inefficient. They'll have multiple legs, wheels, the ability to climb over rubble. We're talking about fundamentally different ideas of how this looks."
+The key insight is that regardless of which faction prevails—the old globalists or the new regionalists, whether Trump represents a genuine insurgency or controlled opposition—both outcomes converge on the same destination.
 
-The documents describe eighth-generation warfare concepts—simultaneous deployment of AI, cyber, information warfare, hyperspectral imaging, and thermal detection capabilities against civilian populations.
+"The Trump agenda seems to be mimicking the Agenda 2030 idea," Micho observes. "We're going to wipe out the people in control of that plan. We will now have the same plan, but it will now be our plan and we're in control."
 
-"This is not robots fighting robots, but robots suppressing a civilian population," Micho clarifies.
+"This may have been someone else's idea, but they go, 'Yeah, this is a great idea, but we want it for us now.'"
 
-## The Iranian Gambit: Multiple Purposes Served
+## What Lies Ahead
 
-Returning to the immediate crisis in the Middle East, Micho sees the Iran conflict as serving multiple strategic objectives simultaneously.
+For those watching these developments unfold, Micho offers a sobering assessment. "Knowledge of what's actually happening may not change the outcome."
 
-"On one side, you've got the idea of the civil war where they're trying to remove influence of a global imperial structure, and all these control structures have been wiped out," he summarizes. "The flow rate, our economic flow rate, our just-in-time supply grid is being destroyed. Our ability to access resources when we want is going to result in economic destruction."
+The basic business model behind global industrial civilization is being scrapped—not evolved, not reformed, but eliminated. "In its place, in a very disruptive context, a new business model will take its place."
 
-But there's another dimension: removing Israeli political influence from American infrastructure.
+When confronted with the observation that the elite seem to be dropping all pretense, removing their masks, Micho agrees. "They've gotten to the point where they can just take the mask off now. They're getting closer and closer to getting their system embedded."
 
-"The Zionist political party in Israel controls very much the American infrastructure and politics, as well as other countries like Australia," Micho states. "What's actually happened is they've started a war, and the Israelis were convinced to start it themselves. The Middle East has got oil, but oil is in the process of being phased out one way or another. There's only a couple of decades left of production at current rates. Once oil leaves the region, will anyone care about the Middle East? Probably not. So if the Israelis want to do their greater Israel project, they better do it quick."
+"Once you get the robot police guards and soldiers in play, then you can do pretty much anything you want. When you've got programmable drones and robots that'll just do your bidding, you no longer need the consent of the governed."
 
-The conflict also serves to expose and erode Israeli influence over American politics. Meanwhile, the Americans don't have the ammunition for an extended campaign.
+For observers in Australia and elsewhere who discuss these issues but don't change their behavior—"It's like it's all going to happen to someone else"—Micho's data suggests otherwise.
 
-"I don't think the Americans are there to win," Micho observes. "I think they're there to blow stuff up, destroy a few things, take out certain operatives, and then before the war's finished, they're just going to pack up and go home and leave the Israelis to face the music on their own, which means the Israelis will be wiped off the map."
+"We're talking about unprecedented territory. The situation we've got at the moment is of that caliber where it cannot be negotiated with."
 
-## Historical Context: The British Connection
+The fundamental conclusion: whether through genuine internal conflict or manufactured theater, whether the conflict between old and new power structures is real or illusory, the trajectory points toward the same destination—a complete restructuring of global economic systems, resource distribution, and ultimately, human freedom itself.
 
-Micho traces the current conflict back to historical patterns, particularly the British Empire's establishment of control over Persian oil reserves following World War I.
-
-"They got the oil reserves of Persia and set up a company that later became British Petroleum—a finance system, a way of financing energy supply to the structure we now call the petrodollar system being funded and organized in London," he explains. "If the Americans are blowing up the petrodollar infrastructure's ability to fund stuff and actually access energy directly, that's of strategic importance."
-
-Iran also represents a problem because it's not part of the central banking system—they don't control it—and it has energy. China imports about half its oil from Iran through the South China Sea.
-
-"Iran was a problem. Take out Iran, you complicate the ability for China to operate," Micho notes. "They've also been bombing the railways in Iran that take the oil to China, which is key to the BRICS corridor, the Silk Road. Railways can be replaced. They can be rebuilt. What they're doing is they're slowing down the ability for the flow rate to happen. And so while that happens, other things can happen. So the Iran action is part of a wider plan, if that is true. Once this happens, it will set off a chain reaction. So many things are happening through that one event horizon in multiple layers. And they all serve a purpose."
-
-## The Transhumanist Horizon
-
-At the very bottom of this analysis lies something even more unsettling: what Micho calls "the transhumanism agenda."
-
-"They want to force humans into two kinds of humans," he explains. "The haves and the have-nots. The haves will be able to merge with technology, which will give them a competitive edge, they'll be much more capable—but you have to be rich to do it. And then there's everyone else who will be in poverty."
-
-This vision, Micho notes, was depicted in the background of the movie *Elysium*—a world where the vast population is herded into ghettos while the very rich live in gated communities, in that case literally in orbit.
-
-"Something like this is where we're going," Micho concludes, "and we're seeing enough of it on the ground already. Everything on this list here—you can point to where it's not a theory, it's an actual observation."
-
-## Knowledge Without Choice
-
-The interview concludes on a sobering note. Danny observes that the architects of this system have reached the point where they can "just take the mask off now"—getting their system embedded to the point where resistance becomes functionally impossible.
-
-"If you want to eat now, what?" Danny asks.
-
-Micho's response crystallizes the fundamental problem: even if people understand what's happening, they may lack the ability to change the outcome.
-
-"Knowledge of what's actually happening may not change the outcome," he acknowledges. "What I'm now seeing is the Trump agenda, if we call it that—Trump is the face of a larger system. There's a group of people behind him. He's the mouthpiece. Is he in charge or not? I don't know. But it's not just him. If he was taken out for whatever reason, someone or something would take his place, and then the system would roll forward again."
-
-The analogy Micho draws is to post-Mao China: "The 2030 system was all about control. We're going to wipe out the people in control of that plan. We will now have the same plan, but it will now be our plan, and we're in control."
-
-"Which implies," Danny responds, "that there's a continuity of agenda."
-
-"Under a way," Micho agrees. "No matter which of those two basic wings of the model—whether it's the civil war or it's all fake—we're heading towards the same basic outcome, which has implications for the people on the ground."
-
-What Micho offers is not comfort, but clarity—a framework built from public data that reveals the interconnected architecture of global chaos. Whether one accepts his interpretation or not, his insistence on grounding analysis in observable metrics rather than speculation offers a template for navigating an increasingly incomprehensible world.
-
-The bottom line, as Micho sees it: whether orchestrated by competing factions or following a predetermined script, the systems that underpin modern civilization are under unprecedented assault. The question isn't whether transformation is coming—it's whether anyone will be positioned to shape what emerges from the wreckage.
-
----
-
-*This article is based on a transcript from Capital Kosа, dated April 9th, 2026. Simon Micho can be followed on social media and his analysis incorporates data from Art Burman's Labyrinth Consulting, among other public sources.*
+"We are so close to that already. That's not a theory anymore."
