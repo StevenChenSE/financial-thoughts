@@ -1,133 +1,210 @@
 ---
 layout: post
-title: "David Cervantes: Stocks vs Bonds — Who Survives 2025's Storm?"
+title: "YouTube Video LK6YKTvuHbY"
 date: 2026-04-13
 category: finance
-excerpt: "The market conditions entering 2025 are starting to resemble 2022 — equities selling off at the beginning of the year in the worst pullback since then, with the added complication of the Federal Reser..."
-word_count: 1994
+excerpt: "The markets are sending confusing signals. Equities have sold off at the start of the year—worst since 2022. The Fed is signaling no cuts until late 2026 at the earliest, if not 2027. Oil prices have ..."
+word_count: 2357
 video_url: "LK6YKTvuHbY"
 transcription_time: 0.0s
 model: "unknown"
 ---
 
-## David Cervantes on Navigating the Market's Perfect Storm
+## A conversation with the founder of Pinebrook Capital Management on where opportunities and risks lie in 2025
 
-The market conditions entering 2025 are starting to resemble 2022 — equities selling off at the beginning of the year in the worst pullback since then, with the added complication of the Federal Reserve essentially removing rate cuts from the table. According to the CME Fed Watch Tool, markets aren't pricing in any meaningful probability of cuts until late 2026 at the earliest, potentially pushing into 2027.
+The markets are sending confusing signals. Equities have sold off at the start of the year—worst since 2022. The Fed is signaling no cuts until late 2026 at the earliest, if not 2027. Oil prices have spiked due to geopolitical conflict in the Middle East. And bond yields are climbing alongside energy prices in an uncanny correlation.
 
-For investors wondering whether this signals the death of the traditional 60/40 portfolio, David Cervantes, founder of Pinebrook Capital Management and former Wall Street professional at Morgan Stanley, UBS, and JP Morgan, offers a contrarian take: equities will likely be all right, while fixed income remains a genuine toss-up.
+Is this 2022 all over again, when everything fell—stocks and bonds alike? Or are we seeing something fundamentally different this time around?
 
-"We're nowhere near a bear market. Not even by a moonshot close," Cervantes states definitively. "You could make that argument if we were pushing minus 18 to 20%, but at minus 10%, that's historically a run-of-the-mill correction that you have once a year, once every 18 months. There's nothing remarkable to that."
-
-## Reading the Economic Cycle
-
-Rather than obsessing over the stock-bond correlation problem that plagued 2022, Cervantes believes the more instructive exercise is examining where the business cycle is headed.
-
-"We came into the year pretty soft on the GDP front," he explains. "We had a third revision on Q4 down to 0.5% from the original 0.8%, but that was just a function of the government shutdown in Q4. We were getting some midquarter acceleration in the economy, and then the war happened and put a lid on that for a while."
-
-His thesis breaks down into a clear roadmap: Q1 will be very soft but not recessionary; Q2 faces a growth hole stemming from Middle East disruption and physical oil delivery challenges; Q3 represents a transitional recovery phase as supplies come back online; and Q4 shows potential for meaningful acceleration.
-
-## The Bond Market's Confusing Signal
-
-With the 10-year yield climbing to 4.3% since early March, many investors wonder what the fixed income market is communicating. Cervantes sees noise rather than signal.
-
-"For the most part, the labor market is balanced," he notes. "We've had little employment growth, but due to demographic changes resulting from President Trump's immigration policies, break-even levels to maintain a fixed level of employment have collapsed. We're kind of at a standstill with bonds — neither here nor there. The labor market is stable, so there's no impetus to cut. Inflation is a supply shock, and the Fed typically looks through supply shocks. So there's really not a lot of signal from the fixed income market right now."
-
-The remarkable correlation between oil prices and long-end yields since March isn't anomalous, Cervantes explains — it's historically normal behavior.
-
-"Historically, inflationary impulses start in the energy complex," he says. "There was a difference after COVID where the main source of inflation was the housing market, but that's historically an exception. Typically, inflationary impulses start in the energy complex, which is why they track so well together."
-
-## The Great Unrotation: Supply Chain Choke Points
-
-One of Cervantes' most compelling frameworks comes from his analysis of how the current geopolitical shock propagates through the economy. He calls it the "Great Unrotation," and its implications extend well beyond oil prices themselves.
-
-"The disruption is going to create choke points in the supply chains," Cervantes explains. "You want to be long the choke points that have pricing power and can absorb the increased cost and pass them off to consumers. You don't want someone that has to absorb the costs and not have the opportunity to pass them off to consumers because that kills their margin."
-
-The war-driven supply shock begins with energy and transportation disruption but cascades rapidly through petrochemical and fertilizer systems. Geopolitical conflict causing energy supply disruptions leads to refining and petrochemical stress, sulfur and chemical feedstock shortages, and ultimately fertilizer and industrial input shortages. Each stage produces different sector winners.
-
-"The idea is to focus on choke point positions that are placed to actually expand their margin as a result of this," Cervantes elaborates. "So inputs increase, but can your output price increase at the same rate or more? That's where you want to be long. A company like Deere got hit hard during this disruption because their input costs went up asymmetrically relative to their ability to pass those prices off. Valero Energy, the refiner — as long as they can maintain their margins, they'll benefit from these kinds of choke points."
-
-The critical question becomes how transitory these disruptions are. Cervantes pins the timeline around June.
-
-"The oil has to flow," he insists. "The longer the oil doesn't flow, then the higher risk of mass shutdowns along the supply chain. For example, a refiner can't stay online if there's nothing to refine. So at some point, if there's no crude coming in, the refiner has to shut down, furlough people, turn off the lights. That problem just grows and metastasizes down the supply chain."
-
-If unresolved by June, shutdowns will worsen, and recovery times magnify — typically three to six months for operations to come back online once they've halted. "You can't just turn on a refiner like a switch," Cervantes notes. "There's calibration, pressure optimization, all of that."
-
-## Fixed Income: The Most At-Risk Asset Class
-
-Despite the uncertainty surrounding growth, Cervantes identifies fixed income as the asset class most vulnerable to losses this year — and he's willing to be specific about duration.
-
-"Ten-year tenor," he says when asked. "It's about a 7% duration."
-
-His reasoning centers on the Fed's dual mandate and the labor market's resilience. "As long as the labor market holds up — and it's looking like it will at 4.3% U3 — I think late in the year, there will be kind of a hawkish communication from the Fed, provided the labor market doesn't fall apart."
-
-The AI spending boom, currently running around 2% of GDP, provides what Cervantes calls a "huge buffer" to the economy. "That provides resiliency to the business cycle. As long as you've got that AI trade going on, I find it really hard to make an argument that the labor market's going to fall apart and therefore that the Fed will be motivated to cut this year. I just don't see it happening."
-
-The Fed's shift in priorities since their November 2023 pivot becomes crucial context. "They initiated a cutting cycle because inflation was on a soft landing track," Cervantes observes. "If the Fed was still very focused on inflation last year, why would they have started a cutting cycle? For now, they're still prioritizing the labor market."
-
-But Cervantes draws a critical distinction between the energy shock itself, which the Fed can look past, and secondary effects that feed into core inflation.
-
-"Travel's going to increase — that's related to the oil shock, but it also takes on a life of its own," he warns. "If things outside of the energy complex that feed into core keep increasing, they're going to have to get on board with a hawkish bias."
-
-His particular concern centers on food prices rather than gasoline. "Fertilizers depend on sulfuric acid, which is a derivative of the refining process. There's going to be shortages of sulfuric acid, which are going to affect fertilizer prices, and that's going to get passed on to consumers in the form of food. Food's not a part of core CPI, but food services is — restaurants, Door Dash, all that stuff. Many ways for this to find its way through the system."
-
-## Gold: The Rational Insurance Policy
-
-The precious metals complex's behavior during the geopolitical crisis raised eyebrows among investors expecting gold to soar as a safe-haven asset. Yet gold actually fell alongside stocks during the March deleveraging.
-
-"This is entirely normal," Cervantes says. "Gold is seen as a hedge on geopolitics or central banking competency — it's your insurance policy. So during a crisis, what do you do with your insurance policy? You cash it in."
-
-In March, with massive deleveraging across markets, investors sold whatever they could to protect profits. "The sell-off in gold was entirely rational given the deleveraging unwind. It bottomed right near the 200-day moving average for the actual metal — the XAU ticker on Bloomberg, not futures contracts or ETFs. Once we got some signaling that an agreement could be in the works or ceasefire, gold started front-running that and moving up."
-
-This creates an opportunity in gold miners, Cervantes believes. "The miners are very heavily leveraged to the spot price. I think the miners are looking good right here."
-
-## The Abundance Regime Under Siege
-
-One of Cervantes' most thought-provoking themes concerns what he calls the "abundance regime" — a cornerstone of the current productivity boom that he sees as increasingly at risk.
-
-"Currently, before the tariffs, our economy was geared towards optimization," he explains. "We wanted to optimize things to be more efficient, have wider profit margins, be more productive. That ultimately raises living standards. You become more productive by being efficient — you do things like just-in-time inventories, you hold minimal warehouse stocks."
-
-A prolonged supply chain disruption forces a fundamental shift: from optimization to resiliency. Now businesses must build redundancy in suppliers, warehouse more inventory, and prepare for bad outcomes.
-
-"You're spending money on insurance now," Cervantes continues. "That's a snowball effect. Ultimately, that impacts profit margins, that impacts productivity. Lower productivity means you become more European-like — more static if you will, less dynamic."
-
-The stakes are high. "What we want to avoid is kind of becoming a more closed economy. I get the strategic concern behind onshoring, but if you want to onshore everything and make everything, you're making goofy things like toys. Then you're going against all basic economic models regarding trade and efficiency."
-
-## The Three Legs of Productivity Boom
-
-Understanding why productivity booms coincidentally with low employment — something that historically only occurred in the late 1990s — requires examining the current framework's three supporting pillars.
-
-"One is abundance," Cervantes lists. "Abundance means we can be optimal and not resilient. The second is full employment, which we currently have. The third is the capex boom — in the late 90s, we had the dot-com capex boom, and now we've got the AI capex boom providing a tailwind of 2% of GDP spending, almost three-quarters of a trillion dollars."
-
-These three factors support the current framework of a productivity boom, and all three become jeopardized by what Cervantes characterizes as "self-inflicted foot shooting."
-
-## Lightning Round Outlooks
-
-Cervantes concluded with rapid-fire predictions for the year ahead:
-
-**GDP:** "Zero to negative is my bias."
-
-**S&P 500:** "Up."
-
-**Favorite sectors:** "Transportation and logistics. That trade got murdered in March, but I do think we're seeing some kind of industrial renaissance. Some of those stocks that I sold in March are actually back at all-time highs. We're seeing it in the price action already."
-
-**Oil (currently around $100 WTI):** "Up. These physical shortages aren't going to be resolved quickly. First we need a political settlement, then the process of actually restarting refineries takes a while. So there will be physical shortages that persist."
-
-**Headline CPI:** "Down by the end of the year."
-
-**Core CPI (excluding food and energy):** "Down. I think they will peak around August."
-
-**Federal Reserve action:** "They're doing nothing."
-
-**Gold futures:** "Long. I want to be getting long miners as well."
-
-**Silver:** "Shorted that thing pretty successfully early in the year. It's too small of a market."
-
-**AI stocks:** "Honestly, I keep it simple and just buy the ETF — XLK, I believe it is. I'm not a stock picker, more of a sectoral generalist."
-
-**Fertilizer and industrial companies with higher input costs:** "Short."
-
-**Bonds:** "Short."
+To answer these questions, I sat down with David Cervantes, founder of Pinebrook Capital Management and author of the widely-followed Pinebrook Capital Substack. Before launching Pinebrook, Cervantes spent years on Wall Street working in fixed income sales at Morgan Stanley and cross-asset sales at UBS and JPMorgan Chase.
 
 ---
 
-*For more of Cervantes' analysis, visit pinebrookcap.com or find him on Substack and Twitter under the handle @econp.*
+## The 60/40 Portfolio: Still Relevant
+
+Despite the turbulent start to 2025, Cervantes believes the traditional 60/40 portfolio still has room to work.
+
+"The broader question is how's the cycle? Ultimately, equities and fixed income are derivatives of the business cycle. So I think it's more informative to look at the cycle and where it's going."
+
+His base case scenario paints a mixed picture. The U.S. entered the year soft on GDP, with Q4's third revision coming in at 0.5%—down from earlier estimates. This weakness was partly a function of government shutdowns in Q4. However, Cervantes sees signs of mid-quarter acceleration before geopolitical tensions erupted.
+
+"My view is that we are going to have a growth hole in Q2. Q1 overall will be very soft, not recessionary. And again, this is somewhat a function of the disruption in the Middle East and this disruption to what really matters—the flow of oil. Not the paper futures, but the actual physical oil getting delivered."
+
+The outlook calls for a transitional phase in Q3 as supplies come back online, followed by acceleration in Q4. Under this scenario, Cervantes believes equities will be "all right," while fixed income remains "a toss-up" given opposing forces of inflation and a stable labor market.
+
+---
+
+## What's the Bond Market Signaling?
+
+The 10-year Treasury yield has climbed to 4.3%, rising steadily since early March. Historically, long-duration bond yields and oil prices move together because inflationary impulses typically originate in the energy complex.
+
+"Historically, inflationary impulses start in the energy complex," Cervantes explains. "There was a difference after COVID where the main source of inflation was the housing market, but that's historically unusual. Inflationary impulses start in the energy complex. That's why they track so well together."
+
+Yet Cervantes sees limited signal in current bond market pricing. The labor market remains balanced—employment growth has been modest, but demographic changes from immigration policy shifts have caused breakeven levels needed to maintain employment to collapse. Meanwhile, oil represents a supply shock, which the Fed typically looks through.
+
+"We're kind of at a standstill with bonds. There's neither here nor there. The labor market is stable, so there's no impetus to cut. Inflation is a supply shock, and the Fed typically looks through supply shocks. So there's really not a lot of signal from the fixed income market right now."
+
+---
+
+## Are We in a Bear Market?
+
+The S&P 500 remains down about 4% year-to-date, though it closed with a seven-day winning streak in early April—its longest since last October. At its lows, the index sat around 6,300, roughly 10% below recent highs.
+
+"We're not even in a bear market," Cervantes emphasizes. "At minus 10%, that's historically a run-of-the-mill correction that you have once a year, once every 18 months. That's nothing. There's nothing remarkable about that."
+
+He notes the market has traced a sideways pattern since late October 2024, when tech last peaked. The key question is whether this resolves to the upside or downside.
+
+"I'm in the camp that will move up, and the reason is: estimates are still being marked up. Now, typically estimates lag the market, right? The market front runs. But we're a hair away from all-time highs. The market is telling us that these estimate increases are still to be considered valid."
+
+The alignment between market action and analyst estimates suggests this isn't a fundamental deterioration in corporate prospects—just elevated uncertainty and geopolitical risk premiums that could resolve favorably.
+
+---
+
+## The Great Unrotation: Finding Sector Winners
+
+Cervantes has written extensively about what he calls "the great unrotation"—the idea that the real opportunity lies not just in oil itself but in mapping the entire industrial supply chain to find where disruptions create choke points with pricing power.
+
+"The war-driven supply shock begins with energy and transportation disruption but quickly spreads through the petrochemical and fertilizer systems," he explains. "Geopolitical conflict causing energy supply disruptions causes refining and petrochemical stress, sulfur and chemical feedstock shortages, fertilizer and industrial input shortages."
+
+The critical distinction: investors should seek out "choke points" that can absorb increased costs and pass them to consumers, rather than those forced to absorb input cost increases at the expense of margins.
+
+"The idea is to focus on choke point positions that are placed to actually expand their margin as a result of this. You don't want someone that has to absorb the costs and not have the opportunity to pass those prices off to consumers, because that kills their margin."
+
+He points to the contrast between companies like Deere, which got hit hard because input costs rose asymmetrically relative to their ability to pass prices along, versus refiners like Valero Energy, which can maintain margins as long as they can pass through higher crude costs.
+
+---
+
+## How Long Can Winners Last?
+
+The durability of these supply chain disruptions—and thus the duration of attractive opportunities—depends on two critical factors, according to Cervantes.
+
+"First, the oil has to flow. The longer the oil doesn't flow, then the higher risk of mass shutdowns along the supply chain. A refiner can't stay online if there's nothing to refine. At some point, they have to shut down, furlough people."
+
+He pins a critical threshold around June. "By June, if this is not resolved, you're going to start seeing shutdowns getting worse. And the recovery time is magnified—you're looking at three to four, six months for operations to come back online after they've shut down. You can't just turn on a refiner like a switch."
+
+Second, there's the damage assessment from kinetic war action itself. "Targets have been hit. There's been degradation of manpower, institutional know-how. Facilities destroyed, facilities interrupted. And that's across the Gulf States—it's not just Iran, it's also UAE and Saudi Arabia."
+
+Once the timeline for getting these facilities back online is determined, investors can calibrate how long to remain positioned in specific choke points—be it 18 months, a year, or shorter.
+
+---
+
+## The Case Against Bonds
+
+When asked which assets he finds most at risk, Cervantes points squarely at fixed income.
+
+"The asset that's most at risk is actually fixed income. As long as the labor market holds up—and it's looking like it will at 4.3% unemployment—by late in the year, there will be kind of... I'm not calling for a hike. I'm actually calling for nothing to be done. But the Fed will start communicating and start leaning hawkish towards the end of the year, provided the labor market doesn't fall apart."
+
+He acknowledges the AI spend is providing a significant buffer—roughly 2% of GDP in capital expenditures—which creates resilience in the business cycle. But core inflation pressures are building outside the energy sector.
+
+"Going into the war, inflation was already picking up. I called for no cut back in February because of this inflation percolating down the pipeline. There are things outside of oil that the Fed doesn't have to consider in their mandate. They can look past the energy shock. But what they can't look past is goods increasing, travel going up—that takes on a life of its own. So if things outside of the energy complex that feed into core keep increasing, they're going to have to get on board with a hawkish bias."
+
+His recommendation: short the 10-year Treasury.
+
+---
+
+## Gold and the "Insurance Policy" Analogy
+
+Gold's behavior during the March selloff might have surprised some investors. The precious metal fell alongside equities rather than rising as a safe-haven asset.
+
+"Gold is your hedge on geopolitics or central banking competency. So it's your hedge—your insurance policy. During a crisis, what do you do with your insurance policy? You cash it in."
+
+In March, Cervantes explains, there was a massive deleveraging event. "You sold what you could. You sold what you made money on. You wanted to protect profits. So the selloff in gold was entirely rational given the deleveraging unwind, and it bottomed near the 200-day moving average."
+
+Once ceasefire signals emerged, gold began front-running that scenario, and investors started accumulating again. "The deleveraging cycle was at least paused."
+
+The miners, Cervantes believes, are "very well positioned to profit off that move" due to their leverage to spot gold prices.
+
+---
+
+## The Fed's Reaction Function
+
+Cervantes sees the Federal Reserve's policy framework as labor-market-first. Since the pivot in November 2023, when the economy was on a soft-landing glide path, the Fed prioritized employment over inflation.
+
+"For now, they're still prioritizing the labor market. But if inflation bruises its head as a result of things outside of the inflation energy complex, that's a different conversation."
+
+With CPI having risen to 3.3%—the highest since May 2024—and core CPI holding at 2.6%, Cervantes is watching the transmission mechanism carefully.
+
+"Even though energy gets stripped out of core, there are still knock-on effects. Dining services—food has got to get trucked in. Travel. Goods and services. Energy always finds its way through the system."
+
+His particular concern is food. Fertilizer prices depend on sulfuric acid, a derivative of the refining process. Shortages will feed into fertilizer prices, which get passed to consumers in the form of higher food costs. "Food services is part of core. Many ways for energy to find its way through to PCE."
+
+His base case: headline CPI peaks around August, then declines. The Fed does nothing—no hikes, no cuts—through year-end.
+
+---
+
+## The Risk of Becoming "Economic Preppers"
+
+In one of his more provocative pieces, Cervantes explores what happens if the supply shock persists for four to eight quarters—the U.S. economy could start looking more European.
+
+"Currently, before the tariffs, our economy was geared towards optimization. You become more productive by being more efficient. You do things like just-in-time inventories. You hold minimal warehouse stock."
+
+But when supply chains become permanently disrupted, businesses must shift from optimization to resiliency. "You have to have redundancy in your suppliers. You have to warehouse more. You have to prepare for bad outcomes. You're spending money on insurance."
+
+This shift drains resources from productivity-enhancing activities to survival-oriented ones. "Ultimately, that impacts profit margins, impacts productivity. Lower productivity—you become more European, more static, less dynamic."
+
+The broader framework Cervantes uses to assess this risk rests on three supporting pillars: abundance, full employment, and the AI capex boom.
+
+"Abundance means we can be optimal and not resilient. The AI spend is providing a tailwind of 2% of GDP—almost three-quarters of a trillion dollars. Those three things support this whole framework of a productivity boom. And that's being jeopardized the more self-inflicted foot-shooting we engage in."
+
+The goal, he says, is to avoid becoming "economic preppers"—people with basements full of food preparing for the world to end. "We don't want to be in that mode. We want to be dynamic. We want to explore. We want to take risks. And a resiliency-type framework moves us away from that."
+
+---
+
+## Lightning Round: Quick Takes
+
+**Q1 GDP outlook?**  
+"Zero to negative is my bias."
+
+**S&P 500 by year-end?**  
+"Up."
+
+**Favorite sector?**  
+"Transportation and logistics. Obviously that trade got murdered in March, but I do think we're seeing some kind of industrial renaissance. Some of those stocks I sold in March are already back at all-time highs."
+
+**Oil by year-end (currently around $100 WTI)?**  
+"Up. Physical shortages won't be resolved. First we need a political settlement—who knows how long that takes—then restarting refineries takes time."
+
+**Headline CPI by year-end?**  
+"Down. I think they'll peak around August."
+
+**Core CPI?**  
+"Down by year-end."
+
+**Fed action this year?**  
+"Doing nothing."
+
+**Gold?**  
+"Long gold futures, and I want to be getting long miners as well."
+
+**Silver?**  
+"Shorted it successfully early in the year. It's too small a market—not a jungle to play in."
+
+**How to play AI stocks?**  
+"Honestly, I keep it simple. Buy the ETF. XLK. I'm not a stock picker, more of a sectoral generalist."
+
+**Fertilizer and agricultural chemical stocks?**  
+"Short the ones like Deere that have to pay more for higher inputs."
+
+**Bonds?**  
+"Short."
+
+---
+
+## Key Takeaways
+
+Cervantes' framework for navigating 2025 centers on several themes:
+
+- **The correction isn't a bear market.** Minus 10% is a routine correction, not a structural breakdown.
+- **Productivity remains supported.** The AI capex boom, full employment, and global abundance still provide a foundation—unless disruptions become prolonged.
+- **Watch the June timeline.** If oil supply disruptions persist past June, expect cascading shutdowns with extended recovery periods.
+- **Bonds are the asset most at risk.** A hawkish Fed pivot, even without rate hikes, could pressure fixed income as inflation spreads beyond energy.
+- **Choke points with pricing power win.** Not all energy-linked plays are equal—refiners can pass through costs; industrials with input cost exposure cannot.
+- **Gold behaves rationally.** During deleveraging, investors "cash in" their insurance policy. The metal should recover as geopolitical tensions ease.
+
+The bottom line: this environment rewards selectivity and sector-specific analysis rather than broad market bets. As Cervantes frames it, the question isn't whether markets are in crisis—it's whether the supply shock resolves in time to prevent a fundamental shift from an optimization economy to a resiliency economy.
+
+That's the stakes. That's the conversation.
+
+---
+
+*David Cervantes is founder of Pinebrook Capital Management. His analysis is available at pinebrookcap.com and on Substack.*
