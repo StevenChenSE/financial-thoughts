@@ -1,162 +1,154 @@
 ---
 layout: post
-title: "Interview with Chris Tam: Quantum Computing vs. Bitcoin - Is the 2029 Threat Real?"
+title: "Interview with Chris Tam: Quantum Computing Threat to Bitcoin - When Should You Worry?"
 date: 2026-04-18
 category: technology
-excerpt: "The existential question hanging over Bitcoin has shifted from 'when will it moon?' to something far more alarming: *when will quantum computers break its cryptography?*"
-word_count: 2032
+excerpt: "The question on every crypto holder's mind is uncomfortable to voice: When quantum computers become powerful enough, will they render Bitcoin worthless?"
+word_count: 1820
 video_url: "klgPAKwxq8A"
 transcription_time: 0.0s
 model: "unknown"
 ---
 
-## A conversation with Chris Tam on the race to protect cryptocurrency from the next computing revolution
+## A conversation with Chris Tam, Director of BTQ Technologies
 
-The existential question hanging over Bitcoin has shifted from "when will it moon?" to something far more alarming: *when will quantum computers break its cryptography?*
+The question on every crypto holder's mind is uncomfortable to voice: When quantum computers become powerful enough, will they render Bitcoin worthless?
 
-For years, experts estimated that powerful enough quantum computers capable of breaking Bitcoin's encryption wouldn't exist until around 2040. That timeline has been compressing rapidly. As of a few weeks before this interview, Google and Cloudflare—companies responsible for protecting much of the world's internet infrastructure—publicly announced their post-quantum cryptography migration timelines target 2029.
+It's a "hell of a question," admits Chris Tam, director of BTQ Technologies (NASDAQ: BTQ), a company specifically founded to address this existential risk. But the urgency isn't hypothetical anymore. Major tech companies including Google and Cloudflare have publicly committed to migrating their internet infrastructure to post-quantum cryptography by 2029—a timeline that has crept up significantly over the past five years.
 
-That five-year revision from 2040 to 2029 represents a seismic shift in how the industry must approach the threat.
+"This is something that Satoshi Nakamoto didn't account for in the beginning of building the Bitcoin protocol," Tam explains. "It's something he actually acknowledged a couple years later."
 
-"We have these moving timelines," explains Chris Tam, Director at BTQ Technologies (NASDAQ: BTQ), a company specifically built to address quantum vulnerabilities in blockchain and broader digital infrastructure. "Every single year, with the advance of technology and research, we're seeing these timelines bump up and up and up."
+---
 
 ## The Elephant in the Room
 
-The quantum threat to Bitcoin has been an acknowledged existential risk for the entire blockchain industry since its earliest days—a problem that Satoshi Nakamoto himself recognized but didn't account for in the original protocol design.
+Quantum computing represents a fundamental threat to the cryptographic systems that secure not just cryptocurrency, but the entire digital economy. Every time information is sent over the internet, it's protected by mathematical armor—encryption that assumes certain problems are too difficult for computers to solve quickly.
 
-When asked directly whether Bitcoin would go to zero because of quantum computing, Tam doesn't sugarcoat it: "If I had the oracle, believe me, I wouldn't be telling you."
+The problem? Quantum computers have a known efficient algorithm for breaking this armor. It's called **Shor's algorithm**, developed in the late 1970s and formalized in the 1980s, which provides exponential speedup in solving the exact mathematical problems underlying modern encryption.
 
-But the stakes are clear. "We're talking about a quantum adversary being able to basically steal someone's private key," Tam says. "And if you own crypto, you know that's the number one rule. Don't show your private key to anybody. Don't give it away, because that gives you access to all the crypto that you hold."
+"Exponential speedup in the number of qubits," Tam explains. "So let's say you have two qubits—2 to the 2 is four times faster. Three qubits, eight times faster. Not that much. But 1,000 qubits? 2 to the 1,000 is a lot faster. And that's really the risk that we're dealing with."
 
-The private key is everything. Lose it to a quantum attack, and your crypto is gone forever.
+---
 
-## How Quantum Computers Break Encryption
+## The Shrinking Timeline
 
-Understanding the threat requires grasping how fundamentally different quantum computers are from classical machines.
+The window for action is closing faster than previously estimated. What started as a 2040 projection for when quantum computers could break encryption has been revised almost every year.
 
-When information is encrypted, it's wrapped in mathematical armor—problems that classical computers cannot solve efficiently. For decades, the internet has relied on encryption schemes built on mathematical problems like factoring large numbers.
+"We started around a 2040 estimate," Tam notes. "That has moved up pretty much every single year to the point now where as of a couple weeks ago, you have companies like Google, like Cloudflare—these giant companies who are protecting really the world's internet infrastructure—they are setting a timeline for post-quantum cryptography migration to 2029."
 
-Quantum computers change everything.
+The resource requirements for executing Shor's algorithm have also dropped dramatically:
 
-"There's a known efficient algorithm for solving the type of math problem we're using to secure our information," Tam explains. "It's called Shor's algorithm."
+- **Previous estimates**: Several hundred million qubits
+- **2023 revision**: 20 million qubits
+- **2025 revision**: 1 million qubits
+- **2025 research** (Caltech/Oraic): As few as 10,000 reconfigurable atomic qubits
 
-Shor's algorithm provides exponential speedup in solving the problems underlying current cryptography. The implications are staggering when considered alongside quantum computing's trajectory.
+"We've reached this inflection point where back in 2024, Google demonstrated for the first time ever that you can have this error correction code where as you add quantum resources, your errors actually start to flatten out," Tam explains. "That means once you reach that plateau of errors, any increase in quantum resources thereafter is all seen as profit."
 
-"Exponential speedup in the number of qubits," Tam continues. "So let's say you have two qubits—that's four times faster. Three qubits: eight times faster. Not that much. A thousand qubits? Two to the 1,000 is a lot faster."
+---
 
-And those qubit counts are climbing fast. Recent research from Caltech and Oraic demonstrated that Shor's algorithm could theoretically work with as few as 10,000 reconfigurable atomic qubits—a dramatic reduction from previous estimates that required hundreds of millions.
+## Bitcoin's Specific Vulnerability
 
-This convergence of shrinking resource requirements and expanding quantum hardware capability creates a narrowing window of vulnerability.
+When it comes to cryptocurrency, the threat isn't about breaking Bitcoin's blockchain directly—it's about stealing private keys.
 
-## The Inflection Point: Google's 2024 Breakthrough
+"When we're talking about quantum attacks to Bitcoin, we're talking about a quantum adversary being able to basically steal someone's private key," Tam says. "If a quantum computer is able to steal your private key, that crypto is no longer yours."
 
-Until recently, adding more quantum resources to a quantum computer caused accuracy to degrade—a fundamental problem that plagued the industry for decades. Back in 2024, Google demonstrated an error correction technique that changed everything.
+Bitcoin uses a digital signature algorithm to derive private keys and public keys. Upgrading to post-quantum security means changing this underlying cryptographic system.
 
-"The key thing is that as you add quantum resources, their errors actually start to flatten out," Tam explains. "Once you reach that plateau of errors, any increase in quantum resources thereafter is all seen as basically profit. We can take those for free."
+"What we want to do is create a post-quantum secure version of that," Tam explains. "Once we've achieved this, then we'll have private keys that are post-quantum secure, which means that a quantum computer can't just steal from you. It would need to break into your desk or your safe and steal your private keys the good old-fashioned way, physically."
 
-The result: quantum computers are now scaling to the point where they're actually relevant to real-world cryptography breaking.
+### The Satoshi Wallet Problem
 
-Alongside hardware improvements, the algorithmic side has been progressing just as dramatically. Estimates for the number of qubits needed to execute Shor's algorithm have collapsed:
+Perhaps the most contentious issue in the quantum debate is what to do about early Bitcoin wallets, including those belonging to Satoshi Nakamoto. These addresses have never moved since Bitcoin's creation, making them potentially vulnerable to future quantum attacks.
 
-- **Previous estimates:** Hundreds of millions of qubits
-- **2023:** Revised to 20 million qubits
-- **2025:** Revised to 1 million qubits
-- **Current research:** As few as 10,000 reconfigurable atomic qubits
+"There's roughly a million or so—1.1 million BTC—that are tied up in Satoshi's lost addresses," Tam says. "And when we think about a post-quantum migration, let's say everything goes swimmingly and we come to an agreement on how to upgrade the protocol, everyone follows through with that migration, which in itself is massive overhead. We're still dealing with 1.1 million Bitcoin tied up in addresses that could be stolen at any point."
 
-Nobel Prize-winning physicist John M. Martinez has warned that sufficiently advanced quantum computers could derive a Bitcoin private key from its public key within minutes. While theoretical, this represents a threat that practitioners increasingly acknowledge cannot be dismissed as science fiction.
+Some in the community have proposed freezing these early wallets. Others advocate for a voluntary migration to quantum-resistant addresses. There's no consensus yet.
 
-## Two Threats, Two Different Risk Profiles
+---
 
-Not all quantum attacks on Bitcoin are created equal. BTQ's research distinguishes between two distinct threat vectors: attacks on private keys and attacks on mining.
+## Mining Attacks: Lower Risk, Higher Requirements
 
-"When we look at the risk at a granular level, there's attacks to private keys—which we had just talked about—and then there's also attacks to the production of blocks, mining blocks in the Bitcoin network," Tam explains. "If a quantum computer was able to hijack the production of blocks, they could basically steer the chain in whatever direction they want and carry out, for example, double spend attacks."
+BTQ Technologies recently published research examining quantum threats to Bitcoin mining specifically. Their findings suggest this attack vector is less immediately concerning.
 
-However, their paper—"Kardash Scale Quantum Computing for Bitcoin Mining"—concluded that attacking Bitcoin mining requires energy output equivalent to an entire star.
+"What this paper points out is that this mining attack—the attack on the Bitcoin mining protocol—is actually relatively infeasible to carry out at current Kardashev scale levels of civilization," Tam explains, referencing the framework for measuring a civilization's technological advancement based on energy consumption.
 
-This references the Kardashov scale, a framework for measuring civilization's energy harvesting capability. Type I civilizations harness planetary energy; Type II harness entire stars. According to BTQ's analysis, quantum attacks on Bitcoin's proof-of-work system would require Type II civilization-level energy.
+"You would need the energy output of a star in order to carry out a quantum attack on the Bitcoin mining protocol. And so what that does for us is it says, okay, well, we can simplify the problem then and just focus on that first issue of breaking private keys."
 
-"We're still harnessing energy from oil," Tam notes. "We're doing our best to harness energy from the sun, but we're not capturing it all."
+This means solutions can assume Bitcoin mining remains constant, allowing developers to concentrate resources on upgrading cryptographic security.
 
-The practical implication: focus can narrow entirely on protecting private keys. Bitcoin mining is not a realistic near-term target.
+---
 
-## The Satoshi Problem
+## BTQ's Solution: Bitcoin Quantum
 
-Even if the technical path to post-quantum Bitcoin is clear, the social and economic challenges may prove more intractable.
+Rather than waiting for industry-wide consensus, BTQ has taken a proactive approach. They've forked Bitcoin Core's publicly available codebase and replaced all vulnerable cryptographic primitives with NIST-standardized post-quantum algorithms.
 
-Satoshi Nakamoto's original wallet—holding approximately 1.1 million BTC—has never moved since the early days of the network. These coins represent roughly $70 billion at current prices, sitting in addresses that would be immediately vulnerable to quantum attack.
+"Bitcoin Quantum is a quantum canary network for Bitcoin," Tam describes. "Instead of waiting around to reach social consensus to start testing these solutions out, we should just go ahead and build a canary network."
 
-The debate over how to handle these wallets has divided the Bitcoin community. Some propose upgrading the protocol to a quantum-resistant version, allowing active wallet holders to migrate. But this solution fails entirely for lost addresses and Satoshi's coins.
+The result is a live testnet—a quantum-safe version of the Bitcoin protocol where all vulnerable components have been upgraded. The company plans to launch a mainnet version this summer, giving users a practical way to hedge quantum risk.
 
-"Everyone who has an active Bitcoin wallet can migrate to this post-quantum secure version," Tam explains. "But it doesn't work well for addresses that are seen as lost or Satoshi's original addresses, which have never been moved."
+---
 
-The fundamental problem: if a post-quantum migration occurs and a million Bitcoin remain in vulnerable addresses, those coins could be stolen at any point by anyone with a sufficiently powerful quantum computer.
+## Beyond Bitcoin: A Larger Financial Threat
 
-## The Solution: Post-Quantum Cryptography
+While Bitcoin dominates headlines, Tam believes institutional and financial blockchain ecosystems face equal or greater risk.
 
-The path forward requires replacing the digital signature algorithm that Bitcoin and other blockchains use to derive private keys. Fortunately, the cryptographic community has been preparing for this moment.
+"I think there's actually a very large chance that a quantum adversary would go after an entire financial ecosystem," he suggests. "We're seeing a lot of institutional stablecoins, a lot of traditional finance being on-ramped onto EVM and SVM-based blockchains. If there was some adversary against the United States or the Western world who had access to quantum technologies, Bitcoin would be a possible contender, but I think what they would be more interested in is disrupting larger scale financial flows."
 
-Back in 2016, the National Institute of Standards and Technology (NIST)—the U.S. government's cryptographic standards body—began evaluating candidate algorithms for post-quantum digital signatures. After a decade of rigorous analysis, NIST standardized three quantum-secure algorithms in 2024.
+Ethereum has already formed its own post-quantum task force through the Ethereum Foundation. Similar coordination has yet to emerge for Bitcoin or Solana.
 
-"What we have now is a framework that we can use to go about upgrading private keys," Tam says. "Algorithms that have been deemed secure not only by governments but also international scientific communities."
+---
 
-This provides a concrete technical path: swap out vulnerable cryptographic primitives and replace them with NIST-standardized alternatives.
+## The Harvest Now, Decrypt Later Problem
 
-BTQ's approach involves creating what Tam calls a "canary network"—a fork of Bitcoin's codebase with all vulnerable cryptography replaced by post-quantum alternatives, deployed as a live testnet where users can hold quantum-secure assets.
+Perhaps the most unsettling aspect of quantum risk is that the damage may already be done. Hackers and nation-state actors are likely already storing encrypted data, waiting for quantum capabilities to become available.
 
-"The Bitcoin Quantum Network acts as a quantum hedge," Tam explains. "It's a pragmatic way to address the quantum risk for your personal livelihoods—having an asset you can trade to offset risk if the Bitcoin Core protocol doesn't upgrade."
+"A major financial institution encrypted a merger agreement in 2019. The encryption was state-of-the-art RSA 2048. The key was properly managed. The implementation followed best practices. Security auditor sign-off. Compliance teams approved," Tam illustrates. "An attacker intercepted that encrypted transmission in 2019. They're storing it. They can't decrypt it today. But in 2032, when quantum computers become powerful enough, they'll decrypt it in minutes."
 
-The company is targeting a mainnet launch for this quantum canary network by summer.
+This is what's known as the **harvest now, decrypt later** problem.
 
-## Who's Actually at Risk?
+"The most pragmatic way to resolve that would be to migrate as soon as possible," Tam advises. "There's no backward mitigation solution for harvest now, decrypt later. As long as you're using vulnerable cryptography today, some adversary on the internet will be able to store it and decrypt it later."
 
-While Bitcoin dominates headlines, Tam suggests quantum adversaries might target larger prey.
+---
 
-"I think there's actually a very large chance that a quantum adversary would go after an entire financial ecosystem," Tam says. "We're seeing Ethereum and Solana forming the base of institutional stable coins and traditional finance onramping onto EVM and SVM-based blockchains. If some adversary against the United States or the western world had access to quantum technologies, Bitcoin would be a possible contender—but I think they'd be more interested in disrupting larger scale financial flows."
+## The Migration Challenge
 
-The institutional response reflects this reality. Bitcoin ETFs and major custodians have begun publicly warning that they'll divest if the protocol doesn't address quantum vulnerabilities. Ethereum has launched its own post-quantum task force under the Ethereum Foundation's leadership.
+For individual crypto holders, the solution involves securing private keys with post-quantum protection. For institutions and enterprises, the timeline is longer.
 
-"The same has yet to be seen for Solana and Bitcoin," Tam notes. "There are conversations going on in the background, but we haven't seen the level of coordination required yet."
+"Inventory crypto, for example, we have full enterprise rolled out is 24 to 48 months," Tam notes. "Moscow's theorem—X + Y > Z—means migration is urgent. In most cases, the calculation shows not only is it urgent, it's already late."
 
-## The Harvest Now, Decrypt Later Threat
+The first entities at risk are "whales" holding large amounts in private keys, as well as exchanges—prime targets for any quantum attack.
 
-Perhaps most alarming is the threat that doesn't require waiting for powerful quantum computers at all.
+"We're seeing large ETF and custodians of Bitcoin and ETH start to become very vocal about this," Tam reports. "Several ETF managers came out and publicly stated if Bitcoin doesn't get its stuff together, they will divest. What we're not seeing yet is a formal coalition of post-quantum upgrades for Bitcoin."
 
-A major financial institution encrypted a merger agreement in 2019 using RSA 2048 encryption—then considered state-of-the-art. The key was properly managed, implementation followed best practices, security auditors signed off, compliance teams approved. The file was transmitted over TLS, stored in encrypted databases, backed up to encrypted archives.
+---
 
-An attacker intercepted that transmission in 2019. They stored it. They're still storing it today.
+## BTQ's Practical Approach
 
-They can't decrypt it now. But in 2032, when quantum computers become powerful enough, they'll decrypt it in minutes.
+Beyond the Bitcoin Quantum network, BTQ Technologies is developing hardware solutions for post-quantum migration.
 
-"That's the classic harvest now decrypt later problem," Tam confirms. "It's a very real issue across every digital industry."
+"We provide post-quantum cryptographic services on both hardware and software," Tam explains. "We build what are called secure elements—security chips that go into phones, cars, devices in the field to be the cryptographic security module."
 
-The implications extend far beyond cryptocurrency. Every encrypted communication, every sensitive corporate document, every classified government file transmitted over vulnerable networks in the past decade could already be in adversaries' hands—waiting only for the quantum moment.
+The company is creating reprogrammable security chips that can update algorithms on the fly—a critical feature for devices deployed in satellites or military equipment that need to remain secure for decades.
 
-## How Late Is It Already?
+"These all need to be upgraded," Tam says. "We're taking a very pragmatic approach in building an ultra-efficient and reprogrammable security chip, which means it can consume energy at dramatically lower overhead than what all the security chips are consuming today."
 
-Researchers have developed frameworks to quantify migration urgency. One approach, dubbed "Moscow's Theorem" in industry circles, calculates urgency based on data sensitivity periods, quantum timeline predictions, and migration complexity.
+BTQ is currently validating this technology with companies involved in semiconductor manufacturing and rolling out its Bitcoin Quantum network ahead of its summer mainnet launch.
 
-Applying this framework with typical variables—10-year data sensitivity, 20-year quantum timeline, 8-year migration complexity—produces an uncomfortable conclusion: migration is not just urgent. It's already late.
+---
 
-"Inventory cryptography full enterprise rollout is 24 to 48 months," Tam notes. "When you see a number like that, what should be done at all levels—government, nation-states, enterprises, individuals—if we're already late?"
+## What Investors Should Know
 
-The answer, according to Tam, is deceptively simple: "Think about how long do you need your data to remain secure for. If it's your private keys and you want them secure for the next 30 years, and you think a quantum computer comes in the next 30 years—you're toast. Your best interest is to migrate to post-quantum cryptography."
+The value of Bitcoin—and the entire cryptocurrency ecosystem—is predicated on the assumption that what you hold today will belong to you tomorrow.
 
-## BTQ's Role in the Quantum Transition
+"If you had something today that doesn't belong to you tomorrow, what would its value be?" Tam asks. "It would probably be very, very low. Especially as a digital store of value, this asset class has been seen as something you can pass down between generations. What's concerning is that mental model is no longer true without post-quantum cryptography."
 
-BTQ Technologies positions itself at the intersection of hardware and software post-quantum solutions. Their hardware offering centers on security chips—secure elements that perform all encryption within devices ranging from phones to cars to satellites.
+Tam's assessment is clear: "The price of Bitcoin will be adversely affected with every milestone we reach on our pathway to fault-tolerant quantum computing where Bitcoin doesn't address these risks."
 
-"These are deployed in mission-critical industries starting with automotive, defense, and IoT sensor networks," Tam explains. "We're seeing billions of embedded devices launched into the field with classical security. All of these need to be upgraded."
+For now, the path forward exists. NIST has standardized three post-quantum digital signature algorithms. Companies like BTQ are building practical tools for migration. But the window for action is shrinking, and the harvest-now-decrypt-later threat means some encrypted data may already be compromised.
 
-Their solution is an ultra-efficient, reprogrammable security chip. Efficiency matters for embedded devices with constrained power budgets—drones, satellites, remote sensors. Reprogrammability matters for the future: as quantum attacks evolve, security chips should be updatable without physical replacement.
+As Tam puts it: "Think about how long you need your data to remain secure. If you want your private keys secure for the next 30 years and you think a quantum computer comes in the next 30 years, you're done. Your best interest is to migrate to post-quantum cryptography."
 
-The company is currently validating this technology with companies that incubated TSMC, while simultaneously developing the Bitcoin Quantum canary network.
+---
 
-## The Bottom Line
-
-The quantum threat to Bitcoin and broader digital infrastructure isn't a distant theoretical problem. The timeline has compressed from decades to years. The resources required have plummeted. And the data being stolen today may be decrypted tomorrow.
-
-"What you hold today must belong to you tomorrow," Tam summarizes. "If you had something today that doesn't belong to you tomorrow, what would its value be? Very, very low—especially as a digital store of value."
-
-For Bitcoin to maintain its status as a generational store of value, post-quantum migration is no longer optional. The technical solutions exist. The standards are in place. What remains is the coordination, urgency, and will to implement them before quantum capabilities outpace preparation.
-
-The 2029 timeline from Google and Cloudflare isn't just a target for internet infrastructure. It's a countdown.
+*BTQ Technologies is publicly traded on NASDAQ under the symbol BTQ. More information is available at btq.tech, and the Bitcoin Quantum project can be found at btcquantum.com.*
