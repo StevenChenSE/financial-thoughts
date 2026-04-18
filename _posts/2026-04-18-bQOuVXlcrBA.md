@@ -1,159 +1,130 @@
 ---
 layout: post
-title: "Jason Shapiro: Market Sentiment Swings from Extreme Fear to Bullish"
+title: "Jason Shapiro: Is AI Stock Hype Like Pets.com? Market Sentiment Analysis"
 date: 2026-04-18
 category: finance
-excerpt: "**The market's mood swings have been dramatic—and instructive.**"
-word_count: 2195
+excerpt: "The market has staged a dramatic turnaround. Just weeks ago, the S&P 500 sat roughly 10% below its February highs amid geopolitical tensions and tariff fears. Then, almost overnight, sentiment shifted..."
+word_count: 2852
 video_url: "bQOuVXlcrBA"
 transcription_time: 0.0s
 model: "unknown"
 ---
 
-**The market's mood swings have been dramatic—and instructive.**
+## Is the AI Revolution Different from Pets.com? A Veteran Trader's Perspective
 
-Just weeks ago, the CNN Fear and Greed Index sat at extreme fear. Today, it's back to neutral, and social media is buzzing with bullish optimism. Jason Shapiro, founder of the Crowd of Market Report and veteran trader featured in Jack Schwager's *Unknown Market Wizards*, has been watching this shift closely—and what he's seeing tells an important story about where markets go from here.
+The market has staged a dramatic turnaround. Just weeks ago, the S&P 500 sat roughly 10% below its February highs amid geopolitical tensions and tariff fears. Then, almost overnight, sentiment shifted violently—and the market roared back to near-record levels.
 
-"You can't shut off the AI revolution," Shapiro told me during a recent interview. "Countries have to have it, otherwise they're going to fall apart in national defense. So the money has to go there."
+"The positioning, the sentiment, and all that has had a massive, massive switch," Jason Shapiro observes during a recent interview. "I'm being pounded with data from all over the place showing how much all these things have moved. Call volume has surged 75% since the beginning of the month. At the same time, put volume has declined 15%. Just two weeks ago, we had data that was indicating the exact opposite where people were loading up on puts."
 
-## The Positioning Signal That Matters
+Shapiro, founder of the Crowd of Market Report and a veteran trader featured in Jack Schwager's *Unknown Market Wizards*, admits his read on sentiment hasn't been perfect this cycle. "I was worried that people were not scared enough during the move down. I like people to get super scared and super short so then we can have nice rebounds. When the tariff thing came out, we had a lot of fear and people got very, very bearish and very, very short, which then led to a nice, very sustainable bull run. My read based on the things I look at was telling me that was not the case this time. That analysis has been completely wrong because we not only rebounded right back to new highs, but we actually rebounded faster."
 
-What struck Shapiro most during this recovery wasn't the speed—though a V-shaped bounce from February highs to late March lows and back to new highs within weeks is remarkable. It was the positioning data.
+### Reading the Market: Positioning Over Price
 
-"Call volume has surged 75% since the beginning of the month," he explained. "At the same time, put volume has declined 15%. And just two weeks ago, we had data indicating the exact opposite, where people were loading up on puts."
+For Shapiro, the key to understanding market extremes isn't about looking at how far prices have moved. It's about tracking where everyone is positioned.
 
-This dramatic swing in positioning, from fear-driven put buying to aggressive call purchasing, represents the kind of sentiment shift Shapiro watches most carefully.
+"I am going with the theory that the market is a discounting mechanism," he explains. "And I'm going with the theory that the discounting measure is not price but participation. So for me, it's not a question of hey, this thing's gone down a lot, therefore all the bad news is discounted in. I look at it more like: I'm looking at positioning data and everybody is short this thing. Therefore, the bad news is already discounted in."
 
-His approach diverges from traditional technical analysis. Rather than relying on oversold or overbought levels based on price movement alone, Shapiro focuses on participation data—which, in his view, better reflects what the market is actually discounting.
+Once positioning signals an extreme, Shapiro waits for confirmation from price action before acting. "That doesn't guarantee the market is going to go the other way. But at that point, I'm then looking for the market to confirm that it is going the other way. And then I will get in. No matter how you trade, no matter what you think, you want the market to agree with you first. Don't fight the tape."
 
-"The market is a discounting mechanism," he said. "And the discounting measure is not price but participation. So for me, it's not a question of 'this thing's gone down a lot, therefore all the bad news is discounted in.' I look at it more like: I'm looking at positioning data, and everybody is short this thing. Therefore, the bad news is already discounted in."
+## The AI Trade: Where the Bull Market Lives
 
-This philosophical framework means Shapiro doesn't necessarily view a 10% pullback as "oversold" by definition. The context of who holds what position matters far more than the magnitude of the decline itself.
+While the broader market was recovering, one group of stocks stood out for Shapiro: AI-related names across multiple subsectors.
 
-## April 2nd: The Day the Bear Trade Died
+"I went and I built this spreadsheet. I broke the AI stuff into five subsectors. Power supply, cooling infrastructure, compute, network connectivity, and then materials and rare earth stuff. I went and asked ChatGPT to give me a list of stocks in those sectors—not a list of stocks that have gone up, just a random list of stocks—and it gave me 22 stocks in power supply. Of those, 20 are up on the year and the average return of all 20 of them is 34%."
 
-Shapiro points to one particular trading day as instructive of the broader shift. It was Thursday, April 2nd, heading into a long weekend. Ceasefire talks hadn't yet emerged, and geopolitical tensions remained elevated. Oil was up over 12%.
+The numbers were striking across the board:
 
-"Oil up has clearly been driving the market down," Shapiro noted. "Oil up, inflation expectations up, chances of a rate cut down, stocks down. That was the war trade."
+- **Cooling infrastructure**: 11 stocks, all up, average return of 36%
+- **Compute hardware** (Nvidia and similar): 14 stocks, all up, average return of 39%
+- **Network connectivity**: 8 stocks, 7 up, 34% average
+- **Materials and rare earth**: 10 stocks, 9 up, 22% average
 
-Yet stocks closed up that day. When equities rally while oil—the primary source of fear—surges 12%, something shifts.
+"Clearly, this is where the bull market is," Shapiro says. "No matter what, even if there's some bias to what ChatGPT gave me, there are some stocks here that are down, you know, there's a few that are down 20-30%. But clearly this is where the bull market is."
 
-"When stocks close up on the back of oil being up 12%, when oil is the big fear, that's a sign that that phase of the narrative is over."
+### Why AI Is Different from Pets.com
 
-Shapiro was watching, but he wasn't calling the top.
+The comparison to the dot-com bubble inevitably comes up when discussing AI euphoria. Shapiro has a nuanced take. "You can't shut off the AI revolution, right? It has to happen because not only do companies believe it's what the future is and they want to be a part of the future, it's also important for national defense. Countries have to have it otherwise they're going to fall apart in national defense. So listen, the money has to go there. The capex that everyone's talking about has to be done. So it's a hard thing to fade."
 
-"I certainly wasn't pounding the table saying we're going to rip to new highs within two weeks," he admitted. "I did not see that one coming. But the market did. This is the point: no matter what the market, what I think or whoever thinks, the market is the ultimate judge."
+He recalls the late 1990s with vivid clarity. "I was running a hedge fund in Hawaii and I can specifically remember going out to lunch and everybody in the world talking about AOL. It was out of control. In the last six months of that, the NASDAQ was up like 40 or 50%. Soros says when I see a bubble, I get in, because the momentum and the ridiculousness can exceed anything you've ever seen."
 
-His lesson from that day: always wait for confirmation. "No matter how you trade, no matter what you think, no matter what you want to do, you want to be long this, you want to be short this—don't fight the tape. And you have to define what 'agree with you' is."
+As for current sentiment? "I'm not going to say that it equals the sentiment of the .com bubble. And I believe I've done interviews in the past where I pounded the table and said there's no way that we're even close to the sentiment back then. I think now we're probably closer. The fact that me, as a non-stock trader and a non-AI person, is pointing out how great these things are doing is maybe an indication that the sentiment is getting a little nuts. We're starting to see a lot of stuff where people are starting to talk crap about how much money they're making in these stocks."
 
-## AI: Where the Bull Market Lives
+That said, Shapiro still sees a crucial difference: "I still hear whispers that AI is hype and AI is bullcrap. Nobody really thought the internet was bullcrap. They all knew it was real and that it was going to be real. You never heard that story then."
 
-When Shapiro recently analyzed which assets outperformed during the recent geopolitical turmoil, one sector dominated across nearly every subsector.
+### The Problem with Stock-Picking in AI
 
-"I went and asked ChatGPT to give me a list of stocks in those sectors—not the best-performing stocks, just a random list," he said. The results were striking:
+One area Shapiro won't venture into: trying to predict which individual AI companies will survive.
 
-- **Power supply**: 20 of 22 stocks up, average return of 34%
-- **Cooling infrastructure**: 11 stocks, 11 up, average return of 36%
-- **Compute hardware** (Nvidia and peers): 14 stocks, 14 up, average return of 39%
-- **Network connectivity**: 8 stocks, 7 up, average return of 34%
-- **Materials and rare earth**: 10 stocks, 9 up, average return of 22%
+"I would tell you I believe it's impossible," he says flatly. "I know nothing about AI. But I know people who are very involved in AI—we have people in my Discord who are in the AI consultancy business, people in the chip business, engineers. Nobody can predict the future. Nobody ever has been able to predict the future. But I think now it's even harder because things are moving so fast."
 
-"Clearly, this is where the bull market is," Shapiro concluded. "Not just in terms of stock price—it's leadership in terms of the fundamental story. You can't shut off the AI revolution. The capbacks everyone talking about has to be done. So it's a hard thing to fade."
+His evidence: "Three months ago, we're in a completely different world AI world from what I can tell—and three months before that, we were in a totally different world then too."
 
-That doesn't mean the space isn't frothy. Shapiro acknowledges that even a shoe retailer—Allbirds—saw its stock surge over 700% simply by announcing a pivot to "AI compute infrastructure."
+The Micron example illustrates the danger. "Micron dropped in a day when Google announced their turbo quant model uses less RAM. It needs less memory per compute, and so RAM chips just dropped in price and demand overnight. That's one of the reasons Micron dropped. You have a bunch of other software companies making legacy models that now AI could kind of replicate. How are you going to be able to pick that? It's beyond me."
 
-"We've been here before," Shapiro said with a laugh. "We had plenty of companies in the late '90s that pivoted from being whatever to a dot-com company. This is what happens when things are frothy. But that doesn't mean that is today. It doesn't mean it's not."
+His solution: let the market decide. "If all the AI stocks are going up and your AI stock is failing, the market is telling you that ain't the one to be in. The market knows. Subconsciously, what we as individuals do not know. So you just have to pay attention to the tape, pay attention to the price action, ride the momentum."
 
-His bigger concern isn't the frothiness itself but the speed of technological change. "I believe it's impossible to predict which AI stocks will win," he admitted. "I know nothing about AI. But things are moving so fast—from all different corners of the world. Three months ago, we're in a completely different AI world than we were three months before that."
+## The Geopolitical Trades: Iran and Oil
 
-His solution: let the market decide. "If all the AI stocks are going up and your AI stock is failing, the market is telling you that ain't the one to be in. The market knows, subconsciously, what we as individuals do not know."
+Just weeks earlier, oil was the dominant market narrative. Then everything changed on April 2nd.
 
-## The Iran Trade: Not Dead, Just Dormant
+"We had oil up over 12% that day. Oil up has clearly been driving the market down—oil up, inflation expectations up, chances of a rate cut down, stocks down. That was the war trade. But that day, we had all those things happen except stocks closed up. When stocks close up on the back of oil being up 12% when oil is the big fear, that's a sign that that phase of the narrative is over."
 
-The geopolitical tensions that drove oil higher and stocks lower just weeks ago have quieted—for now.
+Shapiro didn't predict the subsequent rally, but he recognized the signal. "I certainly wasn't pounding the table saying we are going to rip to new highs within two weeks. I did not see that one coming, but the market did. No matter what the market, what I think or whoever thinks, the market is the ultimate judge. And the market on that day said that the bear side's not working anymore."
 
-"The market moved on, certainly on that day I was talking about, which is what's important," Shapiro said. He's not ignoring geopolitical risks entirely, but his approach remains consistent: watch how markets react, not the headlines themselves.
+### What's Crowded Now
 
-"I don't trade off the fundamental," he explained. "If they come out and say we're going to bomb Iran back to the stone age, I'm not going to start shorting S&Ps. That's not an edge. I pay attention to the news flow and the narrative, and then I pay attention to how the market reacts to that."
+If oil trades aren't crowded, what is? "The most crowded market that I have right now is soybean oil," Shapiro reveals. "Soybean oil is the most crowded market in the world from what I can see. People use soybean oil for biofuels as a replacement for high-cost diesel. We had a lot of people jump on the bean oil because of the replacement for fuel, but also the whole food stuff and agricultural thing because of the war. So we had that double thing with soybean oil. It's now super crowded long. I think the most it's ever been."
 
-What would bring him back to the oil trade? The same approach he's always used: "Let's find something bullish to come out and then see the market not rally on that. And then maybe we can get bearish again."
+Another crowded trade: the Australian dollar. "This is like a risk asset. The Aussie has acted like a risk asset as well. That might be a better way—a more crowded way and therefore a better risk-reward over time—to get short risk assets instead of shorting the S&P or shorting the NASDAQ."
 
-## Crowded Trades to Watch
+## Gold, Silver, and the AI Connection
 
-Shapiro sees some concerning crowding in unexpected places.
+Gold's behavior during the Iran crisis confounded many. Instead of rallying on geopolitical risk, it fell.
 
-"The most crowded market that I have right now is soybean oil," he said. The correlation makes sense: soybean oil serves as a biofuel replacement for high-cost diesel, and geopolitical disruptions to global shipping routes have amplified this trade.
+"Anybody that was expecting that wasn't really paying attention because gold was working as a risk asset for a long time here," Shapiro notes. "It wasn't acting as a safe haven asset. Stocks were going up, and gold was going up with them. So when that ended and stocks went down, gold went down. That's what the correlation was."
 
-"We had a lot of people jump on the bean oil because of the replacement for fuel, plus the whole agricultural thing because of the war," he explained. "So we had that double effect. It's now super crowded long. I think the most it's ever been."
+Shapiro is more bullish on silver than gold, but even silver's behavior concerns him. "Silver actually bottomed maybe a week before the stock market, which was a great signal. Silver also has the benefits of being an AI trade. So given that the world is more short silver relative to the stock market in my data, and that on a fundamental basis silver should benefit from the AI trade, it should be doing better than the stock market. And it's not. Stock market is back to highs. Silver is far, far from highs. It's not even back to the pre-war highs. So that makes me a little bit concerned."
 
-The Australian dollar has also reached crowded positioning, driven by expectations that the RBA will raise rates.
+His market-first philosophy holds him back: "My analysis is silver should outperform the stock market, and the market is saying you're wrong because it's underperforming the market. So therefore, I'm hesitant. The market is my master. I'm not the market's master. It doesn't have to listen to me. I have to listen to it."
 
-"That might be a better way to get short risk assets instead of shorting the S&P or shorting the NASDAQ," Shapiro suggested. "Aussie has acted like a risk asset as well."
+## Bitcoin: The Million or the Zero
 
-## Gold and Silver: The Market Disagrees
+Bitcoin remains one of the most polarized assets in the market. "There's two camps," Shapiro observes. "It's either going to a million or it's going to zero."
 
-Shapiro has a confession: he likes gold and silver, but the market isn't cooperating with his thesis.
+His own view is more measured. "My bet is it's not going to either one of those anytime soon. It's probably just going to be another asset, just like everything else. Gold is another asset. You've had gold bugs forever. They were wrong for 20 years. From the '80s and '90s, gold went nowhere—it went down like 40% over 20 years from '82 to 2000. And the gold bugs were wrong. And from 2000 until now, gold has been phenomenal. It outperformed the S&P in that time period. They were gold bugs that when it went down 40%, and they're gold bugs now. Same gold bugs. They're wrong then, they're right now."
 
-"Gold was working as a risk asset for a long time here," he noted. "Stocks were going up, and gold was going up with it. So when the war came and stocks went down, gold went down. That correlation worked all throughout the war and has worked till now."
+His personal bias against Bitcoin stems from observing the community. "A lot of the people I know who have become Bitcoin permabulls are people that have not been very successful in the markets over time. So therefore, it makes it hard for me to think that we're going to do what they say. When every time Bitcoin goes down, their view is, 'Oh, it's just that much cheaper to buy more.' And every time it goes up, it's, 'Oh, see, I told you Bitcoin's great.' They talk about how when the stock market was making new lows a few weeks ago, Bitcoin was holding its low. But what about the fact that Bitcoin dropped 50% before the war? What about the fact that now that the stock market has rebounded to pre-war highs, Bitcoin has been underperforming? They don't bring that up anymore."
 
-His preference is actually silver, which he sees as benefiting from both the AI trade (industrial demand) and its historical underweighting relative to gold positioning. Yet even silver hasn't confirmed his thesis.
+He acknowledges a counterpoint: "I think that's why Bitcoin is doing well here—the interest has dropped off. When nobody wants to own it, that's when you want to own it. When everybody wants to own it, that's when you want to sell it. That's right into my whole theory about positioning and participation."
 
-"Silver bottomed maybe a week before the stock market, which was a great signal," Shapiro said. "But stock market is back to highs. Silver is far, far from highs. It's not even back to pre-war highs. So that makes me a little bit concerned."
+Does he own any? "Yes."
 
-His willingness to acknowledge when the market disagrees with him is central to his philosophy.
+## The Economic Elephant: AI and Jobs
 
-"My analysis is silver should outperform the stock market, and the market is saying you're wrong because it's underperforming the market. So therefore, I'm hesitant. The market is my master. I don't have to listen to it. I have to listen to it."
+The University of Michigan consumer sentiment index sits near historic lows—comparable to the depths of the 2008 financial crisis. But Shapiro questions whether this tells us what we think it does.
 
-## Bitcoin: Million or Zero?
+"I think the one that I believe in the most is that it's a function of social media," he suggests. "We never had social media before. Now everybody's on social media and social media is such a depressing place. It's all so full of negativity. And then on top of that, we get media coverage—we know that a lot of the media coverage is negative toward the current administration. If you're watching media coverage and hearing all these stories about how the current administration is the end of the world, and you're on social media seeing all these negative, depressing stories, you're probably going to be negative."
 
-Bitcoin remains a market defined by polarization—either going to $1 million or to zero, depending on which camp you follow.
+There's also something else weighing on consumer confidence: uncertainty about AI itself.
 
-"What I say is that that's all we hear," Shapiro clarified. "My bet is it's not going to either one of those anytime soon. It's probably just going to be another asset, just like everything else."
+"Can you tell me what this world's going to look like in five years, David? Because I sure as hell can't," Shapiro admits. "I have a niece that worked her ass off all through school, high school, college, got herself into Harvard Medical School. She's in her second year. And she's called me up asking me if she's going to have a job when she gets out of medical school."
 
-He draws an analogy to gold itself.
+The concern? She sent her blood test to an AI system for comparison. "I tried to compare it just for the fun of it. And the AI gave me a better analysis, I think, than my doctor did. What she's saying is, are doctors even going to be relevant in five to ten years? And my answer to her is, of course, I have no freaking idea, honey. Just keep your head down and keep working."
 
-"You've had gold bugs forever. They were wrong for 20 years. From the '80s and '90s, gold went nowhere, down like 40% over 20 years from '82 to 2000. And the gold bugs were wrong. And from 2000 until now, gold has been phenomenal. Same gold bugs. They're wrong then, they're right now."
+### The Automation Paradox
 
-Shapiro's personal concern with Bitcoin goes deeper than price predictions. It stems from his observations of the people promoting it most aggressively.
+Research from Boston University raises a troubling possibility: AI-driven layoffs could break the economy. The logic is straightforward game theory. "If you have to lay people off, that's good for your bottom line in the short run. But if everybody lays everybody off at the same time or a big portion of workforce off at the same time, we're going to get demand destruction. The demand for the products that you sell will actually go down. So you actually gain short term from the profits of laying people off, but then everybody collectively has to share in the burden of having demand destruction face the economy."
 
-"A lot of the people I know who have become Bitcoin permabulls are people that have not been very successful in the markets over time," he said—a comment he acknowledges will offend some. "If every time Bitcoin goes down, their view is 'oh, it's just that much cheaper to buy more.' And every time it goes up, it's 'oh, see, I told you Bitcoin's great.'"
-
-He frames this in terms of investment philosophy: when evaluating opportunities, he often considers the jockey, not just the horse.
-
-"A lot of times when I make investments, private investments, I always look at it like I look at the person. You're betting on the jockey, not the horse. I look at the jockey and I say, do I think this person is going to be an extremely successful person?"
-
-That said, Shapiro does see some truth in the argument that Bitcoin interest correlates with market extremes—meaning current declining attention might actually signal opportunity rather than doom.
-
-## The AI Anxiety Underneath Everything
-
-Perhaps the most striking moment in our conversation came when Shapiro discussed what he believes is driving the paradoxically low consumer sentiment despite a strong stock market.
-
-"I think it's a function of social media," he offered. "We never had social media before. And now everybody's on social media, and it's all so full of negativity. On top of that, we get media coverage that's negative."
-
-But beneath the media noise lies genuine anxiety about AI itself—uncertainty so profound that even high achievers are questioning their futures.
-
-Shapiro shared a telling example: "I have a niece that worked her ass off all through school, high school, college, got herself at Harvard Medical School. She's in her second year. And she called me up asking me if she's going to have a job when she gets out of medical school."
-
-Her concern: she submitted a blood test to an AI system for comparison and received what seemed like a superior analysis.
-
-"So what she's saying is like, are doctors even going to be relevant in 5 to 10 years?" Shapiro reflected. "My answer to her: I have no freaking idea, honey. Just keep your head down and keep working."
-
-The deeper economic implications trouble him. Shapiro is skeptical of narratives about universal basic income creating a post-work utopia.
-
-"If money doesn't matter, then how do we decide who gets to live in the mansion and who lives in the trailer park? Who gets to sit in first class and who has to sit in economy class? It has to be the person with more money. So how do things get distributed if everybody's just not working and collecting universal basic income? That doesn't make sense to me economically."
-
-Yet even as he expresses doubt about AI's disruptive potential, he's clear-eyed about where capital is flowing—and where it will continue to flow, regardless of what any individual trader believes.
+Shapiro finds the utopian vision of universal basic income hard to swallow. "Elon Musk talking about oh no one's going to have to work anymore and everyone's just going to live in this euphoria and money is not going to matter—that doesn't make sense to me. If money doesn't matter, then how do we decide who gets to live in the mansion and who lives in the trailer park? How do we decide who gets to sit in first class and who has to sit in economy class? It has to be the person with more money that gets to sit in first class. It has to be the person with more money that gets to buy the mansion. How do things get distributed if everybody's just not working and collecting UBI? That doesn't make sense economically."
 
 ## The Bottom Line
 
-Shapiro's framework remains consistent: watch positioning, wait for confirmation, and respect what the market is telling you—even when it contradicts your own analysis.
+For Shapiro, the key to navigating these markets is humility—about both the economy and the markets themselves. He watches positioning data rather than price levels to identify extremes. He waits for market confirmation before acting. And he acknowledges that sometimes the market does things he simply doesn't see coming.
 
-The AI trade may be frothy. The valuations may be extreme. But until the market starts acting otherwise, the trend is the trend.
+"The market is the ultimate judge," he says. "The market will tell us."
 
-"The market will start reacting poorly to positive news," he said when asked how he'd identify a top. "And that will be our tell."
-
-Until then, Shapiro is watching, waiting, and letting price action guide his decisions—because in the end, no matter how loud the opinions, the market is always the final word.
+For now, that message is clear: the AI trade remains the leadership, backed by fundamentals and price action alike. Whether that leadership continues or eventually burns out like Pets.com—only time will tell.
 
 ---
 
-*Jason Shapiro is founder of the Crowd of Market Report, a market commentary service available at CrowdedMarketReport.com and on YouTube.*
+*Jason Shapiro is founder of the Crowd of Market Report. His analysis and trading videos are available at CrowdedMarketReport.com and on YouTube.*
