@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Patrick Kareem: Silver Prices, Oil Collapse & Market Outlook"
-date: 2026-04-19
+date: 2026-04-18
 category: finance
 excerpt: "**By Capital Kosa | April 17, 2026**"
 word_count: 1970
