@@ -1,239 +1,154 @@
 ---
 layout: post
-title: "CLM Chambers: Fed Policy Shift & Why Massive Capex Buildouts Signal Inflation"
+title: "Rising Bond Yields & Inflation: Market Risks with CLM Chambers"
 date: 2026-05-22
 category: finance
-excerpt: "*The American market is extremely bipolar at the moment. It feels like the sort of market that can go on a tremendous bubble.*"
-word_count: 2662
+excerpt: "The American market is bipolar, speculative, and hurtling toward a reckoning. That's the assessment of CLM Chambers, founder of ADVFN and seasoned value investor, who joined the show to discuss the co..."
+word_count: 2121
 video_url: "UJbPuWPJ8iE"
-transcription_time: 35.2s
+transcription_time: 85.1s
 model: "MiniMax-M2.7"
 ---
 
-*The American market is extremely bipolar at the moment. It feels like the sort of market that can go on a tremendous bubble.*
+The American market is bipolar, speculative, and hurtling toward a reckoning. That's the assessment of CLM Chambers, founder of ADVFN and seasoned value investor, who joined the show to discuss the confluence of rising bond yields, shifting Fed leadership, and what he sees as the most significant investment opportunity of our generation: SpaceX and the off-world economy.
 
-The bond market is selling off. The S&P 500 continues its euphoric rally. Precious metals are stalling. And somewhere in Washington, a new Federal Reserve chairman has just taken the helm—someone described as a hawk, someone who might refuse to pull the QE lever when the next crisis hits.
+Since Kevin Worsh was officially confirmed as the next Federal Reserve chair on May 13th, the bond market has been selling off aggressively. The US 30-year Treasury yield climbed to a 19-year high just under 5.2%, while equities continue their euphoric rally. It's a classic separation between the bond and stock markets—one that Chambers believes signals higher inflation, stronger economic growth, or potentially a failure in the bond market ahead. Perhaps all three.
 
-But before you rotate into risk, consider what's actually happening underneath the surface. The fiscal demands of onshoring America's industrial base, funding a historic AI infrastructure buildout, and supporting thousands of companies that need capital are about to create something the market hasn't seen in a generation: *massive, sustained capital expenditure in the United States*.
+## The New Fed Chair and the Inflation Problem Nobody Wants to Talk About
 
-Clem Chambers, founder of ADVFN and one of the most respected voices in global markets, recently joined us to unpack what's really going on—and what it means for your portfolio.
+Worsh is being painted as a hawk, someone described in recent reporting as "old-fashioned" in his approach—someone who believes QE was a mistake and won't repeat it. While Chambers doesn't think we'll see a complete abandonment of quantitative easing, the uncertainty around this new leadership is creating ripples through the market.
 
----
+But here's what's really bothering Chambers: the capital spending explosion that's already underway.
 
-## The Fed's New Direction: Hawk at the Helm, Inflation on the Horizon
+"We're in a very, very big change, and obviously when things change dramatically, you get volatility," Chambers explains. "And you'll see that in the bond market, and you'll probably be seeing that in the equities market at some point."
 
-Kevin Warsh has officially been confirmed as the next Federal Reserve chairman. Since that announcement, the bond market has been relentless. The US 30-year yield climbed to a 19-year high of just under 5.2%—a clear signal that bond investors are pricing in something darker than they were just weeks ago.
+This isn't just about interest rates. It's about what's driving them. There are three massive funding demands converging simultaneously:
 
-What does that jump in the 10-year yield tell us?
+- **The onshoring of American industry**: Everything that's been offshored over the past generation needs to come back onshore, requiring enormous capital investment
+- **The AI buildout**: Artificial intelligence infrastructure is consuming resources at a scale we've never seen before
+- **Corporate capital needs**: Normal companies—manufacturers, utilities, tech firms—are all competing for the same pool of capital
 
-> "Probably potentially all three: higher inflation expectations, higher economic growth, or perhaps just a failure in the bond market up ahead."
+"We're looking at a printer which is inflationary," Chambers says. "And you're going to look at a market saying, well, where's this money coming from? And if you've got a hawk in the Fed saying, 'Well, you'll have to find a way, won't you?' then you're going to get higher interest rates. And inflation is coming—it's about to land."
 
-The conventional wisdom is simple: when the Fed wants to fight inflation, it raises rates. When the economy needs help, it cuts rates and floods the system with liquidity. But here's the wrinkle: *QE is the solution to everything*. And Warsh—who has been described as old-fashioned in his thinking, someone who believes QE was "a big mistake"—might not pull that lever even when circumstances demand it.
+The oil situation, while frequently cited as an inflation driver, is "not the big deal." The real pressure, Chambers argues, comes from these fundamental buildouts that will suck liquidity out of the system and into capital expenditure at a scale America hasn't experienced in decades.
 
-That creates a fascinating dynamic. If you're a company that needs capital for AI infrastructure, reshoring, or simply staying competitive, you might find yourself in a market where:
+## What Travel Teaches Investors About Mispriced Assets
 
-- The Fed won't print money to save you
-- The Treasury market is under pressure
-- Private capital has to fill the gap
+Chambers, recording this conversation from Hokkaido, Japan, where he was swimming in hot springs and watching foxes in the street, offered a perspective that's become increasingly rare among financial commentators: the global view.
 
-This is inflationary by design. Money printing is inflationary. Refusing to print while the economy needs capital is also inflationary—if businesses simply raise prices to cover their funding costs.
+"When you look at what's going on in China, maybe it's no longer such an exceptional country," he says. "It's no longer the number one, perhaps even. So the realities around the world change, and people back home making all the big decisions are quite often out of touch with how things are going."
 
----
+This isn't just philosophical—it's about finding mispriced assets. His travels have reinforced his value investing approach:
 
-## The Capex Tsunami: Why This Time Is Different
+- **UK equities trade at 1x sales** while the same companies trade at **4x sales in the US**—a gap he sees as unsustainable
+- **Mumbai changes every 90 days**—you can feel the transformation every time you return—but the West moves more slowly
+- The UK market is "absolutely broken," which makes it fertile ground for takeovers and mean reversion
 
-Here's the thesis that should keep every investor awake at night: **America is about to undergo the largest capital expenditure buildout in its modern history**, and the country has *no idea* how to fund it.
+"The companies are international, but they're operating in a local failing stock market, and that makes those companies prone for takeovers," Chambers notes. "There's a nice little lamp payoff when that occurs."
 
-Consider the three forces converging simultaneously:
+This echoes what happened in Japan around 2010, when an outsider could see the market was positioned to rise while locals saw only gloom. Now Chambers sees similar dynamics in beaten-down markets globally.
 
-1. **Onshoring of the entire American economy** — Generations of manufacturing were shipped overseas. That process is reversing, and it requires factories, supply chains, logistics networks, and *enormous* amounts of capital.
+## The Diversification Illusion: What Most Investors Are Getting Wrong
 
-2. **The AI infrastructure revolution** — Data centers, power-hungry GPU clusters, fiber optic networks, cooling systems: the buildout of artificial intelligence infrastructure is consuming capital at rates we've never seen before.
+Most people think they're diversified. They're not. Chambers has tracked diversified portfolios for 30 years, and the pattern is consistent:
 
-3. **Corporate capital needs** — Companies that have been deferring maintenance, innovation, and expansion for a decade will suddenly find themselves competing for the same pool of capital with AI startups, reshoring manufacturers, and utility companies trying to keep the lights on.
+- A couple of big winners
+- Several drifters, some bought out, some going nowhere
+- A couple that go "mental" and drive the entire portfolio's success or failure
 
-> "If all the money gets sucked out for AI and for other projects, onshoring, etc., well they're going to need money too, aren't they? So they're going to have to print some for them."
+"If you've got an idea of where you should invest, you should always spread those bets around," he advises. Instead of concentrated Nvidia exposure, investors should hold AMD, Intel, and the entire semiconductor ecosystem. "You can be undiversified in that sector but diversified within it."
 
-This is the "big deal." Not oil. Not tariffs. Not geopolitical noise. **The money vacuum created by simultaneous megatrend capex is the real inflation story.**
+His own approach is more specific: he's concentrated in cheap stocks globally, regardless of sector. He's diversified geographically and by industry, but concentrated in the thesis of value investing.
 
-America isn't used to this. For decades, the playbook was simple: offshore production, minimize capex, maximize shareholder returns through buybacks. Now the script has flipped entirely.
+The alternative? "If you just want to invest, buy the S&P 500, and then go play golf."
 
-> "We're in a very, very big change, and obviously when things change dramatically, you get volatility, and you'll see that in the bond market, and you'll probably be seeing that in the equities market at some point."
+But Chambers admits this requires genuine passion. "I'm sure there's plenty of people out there holding Nvidia for the last 15 years, and every day they get a lot richer or a lot poorer because all their money is concentrated into an undiversified portfolio of risk."
 
----
+## Sentiment, Prediction Markets, and Why You Should Always Fade the Crowd
 
-## Where the Money Is Going: Playing the Buildout
+The conversation shifted to prediction markets—specifically the declining odds of a recession despite geopolitical tensions. Chambers sees a pattern:
 
-If you're looking for opportunity in this environment, Chambers has been positioning his portfolio in what he calls the "second and third order" effects of the onshoring and AI buildout—*not* the obvious names everyone is already chasing.
+"When it kicked off in the Gulf, the market began to crash. The government or whoever does this pulled the lever, pumped in a huge amount of money into the economy, go straight into equities, up they go like a rocket. And as that money takes its effect and loses its potency, it curves over."
 
-### The Energy Complex
+This happened with the Trump tariff tantrum. Same pattern: massive injection, rocket up, then the curve as liquidity spreads into the broader economy. Prediction market prices reflect sentiment, not necessarily predictive value.
 
-The AI buildout is, at its core, an energy story. Every data center, every GPU cluster, every cooling system requires *tremendous* power. This creates a multi-layered opportunity:
+"It's gambling. It's very successful gambling, and everybody loves it. But I prefer not to gamble. I prefer to be on the other side of the trade."
 
-- **Nuclear power companies** — The baseload power solution for an AI-hungry economy
-- **Uranium** — "Going to be a big deal, but it's not quite a big deal yet"
-- **Electrical infrastructure** — Transformers, switchgear, high-capacity transmission cables
-- **Copper** — "Going to be a much bigger deal. That's got a long way to run."
+The key insight: "Sentiment will always get you in trouble. It's a group of men acting like one fool." The opportunity, instead, lies where sentiment is terrible but reality is better than expected—like Intel at $20 a few months ago.
 
-### The Caution Tape
+## The Bubble Logic: Why This Could Run 18 Months to 2 Years
 
-Not everything that *sounds* like it's playing the buildout is actually a good investment. Chambers flags one key concern:
+Chambers is direct: "I think the American market is in a bubble now, which is a very risky situation and also a highly profitable one. But you are guaranteed that there'll be a crash. It's just a question of when—and I think that's about 2 years away."
 
-> "You could buy a company that makes wires. You think they're going to want wires, but unfortunately the cost of the wires is going to go up so much they might not be able to pass the cost through."
+The key signal? SpaceX.
 
-The lesson: *look at margins and pricing power*. In a world of input cost inflation, companies that can't pass costs along to customers will get crushed—even if they're nominally in the right sector.
+"SpaceX, after all, it's the biggest opportunity in markets of all time because it's the whole universe to play for. I think someone was saying that today, and I thought, 'Oh no.' The biggest opportunity in the markets of history because it's all the rest of the universe. So that's probably true, but it's the sort of thing I don't want to hear in the markets because that's the sign of the sort of enthusiasm that leads to people in a period of time going, 'Oh, it wasn't me, I didn't do it, they said he was going to do this and it's all their fault.'"
 
-### The SpaceX Signal
+The bubble timeline he describes:
 
-Chambers calls SpaceX "the biggest opportunity in markets of all time" because it's "the whole universe to play for." More importantly, he sees SpaceX as a *sentiment signal*—the shot heard round the world that kicks the bubble into its final phase.
+- **Current position**: Inside the bubble, probably 18 months to 2 years from the peak
+- **The warning sign**: Crazy IPOs appearing from nowhere—Elon Musk ex-girlfriend's brother-in-law building a factory near SpaceX, exactly like 2000
+- **The exit signal**: When you start seeing those IPOs, it's time to get out
 
-> "SpaceX is the signal pistol going, and go bang, off we go into the bubble."
+"Boom bubble bust. We've had the boom. We've entered the bubble. It probably has 18 months to two years to run."
 
----
+## The Real Money: Where Chambers Is Putting His Capital
 
-## Gold as a Signal, Not an Asset
+So if not the headline tech names, where? The second and third order beneficiaries of the onshoring and AI buildout.
 
-Gold has had a remarkable run. Last year, it outperformed almost everything. This year, it's been *stodgy*—directionless, grinding sideways, disappointing the goldbugs who expected the rally to continue.
+"I want to buy anybody that makes generators," he says, though those are already expensive. His targets are more specific:
 
-Chambers has been out of gold since the highs. His reasoning is instructive:
+- **Electricity grid component suppliers**: Companies making "big switches, transformers, and big cables" to carry increased power demand
+- **Nuclear power builders**: Energy independence plays
+- **Copper miners**: "Copper is going to be a much bigger deal. Anything copperish is good."
+- **Uranium**: "Going to be a big deal, but not quite yet"
 
-> "It's just another asset. It's a very, very popular asset. It's a lovely one to own. You get warm and furry dividends from it, but it's gone up a lot. I think it's very dependent on the America-China dynamic."
+The caveat: even these plays require discernment. "You could buy a company that makes wires. You think they're going to want wires, but unfortunately the cost of the wires is going to go up so much they might not be able to pass the cost through."
 
-### The China-Gold Connection
+The broader geopolitical context matters too. The UAE has built nearly 50% of a pipeline bypassing the Strait of Hormuz, operational by 2027. "Capitalism always finds a way. So yes, that will flush through."
 
-Here's a mechanism most Western investors don't think about: **China has become the world's largest gold vault for sanctions-affected nations**. Russia and Iran can't hold dollars—they're cut off from the SWIFT system. China doesn't want to推广 the yuan as the global reserve currency. So what do they do?
+## Gold: Signal, Not Asset
 
-They pay in gold. Iran sends oil to China. China pays in gold and holds it in a vault in Beijing. When Iran needs euros, yen, or rupees, it converts its gold.
+Gold had a stellar run last year, outperforming most assets. But now Chambers sees it differently.
 
-> "If you take the Iranian budget surplus in oil, it's about 16 to 18% of global production of gold every year... add Russia on top of that, and you've got a significant chunk of annual gold production being absorbed by geopolitical workarounds."
+"It's in that post-boom bubble situation. Whether it sits here or whether it takes a leg down, taking a leg up is highly unlikely. It doesn't look like it knows where it's going."
 
-What happens if Iran reaches a nuclear deal and is allowed back into the global financial system? What if Russia and Ukraine reach peace? That gold demand disappears *overnight*.
+The key driver: gold has become the alternative reserve currency for nations avoiding dollar exposure—Iran and Russia using it as their "deposit account in China." This trade is substantial—Iran's budget surplus in oil represents 16-18% of global annual gold production. Add Russia to that, and you've got a significant structural demand that's unlikely to sustain.
 
-> "It would be really, really, really negative for gold."
+"If Iran played nice and was allowed to re-enter the global fellowship, or for that matter Russia if that war ended and Russia made nice—that trade will go away, and that would be really, really negative for gold."
 
-### The Aftershock Pattern
+For now, "gold is a signal for me, not an asset." It tells you about global stress and the Iran situation, but it's not something to hold.
 
-Historical commodity runs follow a predictable pattern:
+What about the aftershock? Looking at the 1970s pattern, commodities that run hard come back down, consolidate, then have another run. "If it went from 1 to 10, it'll come back down to 3 and go around sideways, then go to 6, then come back down again." Gold will have its aftershock in about two years, but the real opportunity?
 
-- Commodity goes from 1 to 10
-- It pulls back to 3
-- It grinds sideways for years
-- It has an "aftershock" run to 6, then pulls back again
+"Copper. That's the one I'm watching. That's the one I'm expecting to have a big run."
 
-> "I would expect there to be an aftershock in a couple of years because a lot of people will be watching it, hoping the music will start again."
+## The Intel Example: Why Market Efficiency Is Overrated
 
-Chambers expects the *next* commodity that runs is copper—and he's watching it closely.
+One trade that surprised Chambers: Intel.
 
----
+"When I looked at Intel at 20 and bought a load and accidentally bought a double load, I thought this thing could go to 60. And because of the situation in the Gulf and all the craziness of announcements, I got out the whole market. And I got out at 45, which I did exceptionally well—I'm very happy with that. And 80, I would have definitely sold. And there it was hit 120."
 
-## The Diversification Illusion
+That move—the stock running 6x from his entry—showed him something important: "It tells you how badly wrong the American market can get something very obvious. It shows you it's quite a highly strong market and can move very quickly. And there's all sorts of opportunities lying around in it—going, 'I don't believe that. Why is that like that?'—and then looking at some very average stocks with incredible valuations that beg a belief."
 
-Most investors think they're diversified. They're not. They're concentrated in things they love, and they buy the dip, and they hold, and they call it diversification. Chambers has tracked his own diversified portfolios for 30 years, and here's what he found:
+The market is "extremely bipolar at the moment" and capable of "a tremendous bubble." The question is: what's the top?
 
-> "What you get is a couple of big winners, and all the other ones drift away. Some of them go broke. Some get bought out. A few of them don't go anywhere at all in 25 years. But a couple of them will go mental, and the whole success or failure of that portfolio then ends up being in the hands of a couple of companies."
+## Where to Follow CLM Chambers
 
-The conclusion: *true diversification means owning the sector, not individual companies*. If you believe semiconductors are the future, don't buy Nvidia. Buy AMD, Intel, the chip ETFs, the software companies, the equipment makers. Spread your bets within the thesis.
+For those wanting to hear more of his analysis, Chambers produces content on:
 
-### Chambers' Personal Approach
-
-As a value investor, Chambers is *intentionally* concentrated in cheap stocks. He doesn't care what sector they're in or what country they're in. He just wants *cheap*. This means he's diversified geographically and sector-wise—but concentrated on a single thesis: **mispriced assets will eventually re-rate**.
-
-His example: UK stocks trade at 1x sales. American equivalents trade at 4x sales. Same companies, same international operations, radically different valuations. The UK market is "absolutely broken"—which means takeover targets.
-
-> "I love the UK market, which is completely broken. The companies are international, but they're operating in a local failing stock market, and that makes those companies prone for takeovers."
-
----
-
-## The American Market: Bubble Country
-
-Chambers doesn't hedge on this point: **the American market is in a bubble**.
-
-> "I think the American market is in a bubble now, which is a very risky situation and also a highly profitable one. But you are guaranteed that there will be a crash. It's just a question of when."
-
-His estimate: *18 months to 2 years*. Possibly longer. Possibly shorter. But the trajectory is clear.
-
-### The IPO Signal
-
-He offers a specific indicator to watch:
-
-> "You'll know when it's got three or four months to run because there'll be a load of crazy IPOs come out of nowhere. You'll never have heard of them. And it will be, 'Oh, yes, Elon Musk's ex-girlfriend's brother-in-law has built himself a factory within 50 miles of SpaceX or something.' It'll be that kind of thing, just like it was in 2000."
-
-When the IPO market fills with bizarre, unknown companies with outlandish stories—that's your exit signal.
-
-### The Intel Lesson
-
-Chambers bought Intel at $20. He sold at $45—thinking he was being greedy. The stock hit $120.
-
-> "That tells you how badly wrong the American market can get something very obvious. It shows you that it's quite a highly strong market and can move very quickly, very rationally."
-
-The implication: in a bubble, *fundamental analysis can cost you a fortune*. The market doesn't care that Intel was "obvious." It cared that there was money to be made chasing momentum. That's bubble behavior.
-
----
-
-## Prediction Markets and the Sentiment Trap
-
-The video was sponsored by Kalshi, America's largest prediction market. Chambers is skeptical about prediction markets as *predictive* tools, but he acknowledges they have value as *sentiment indicators*.
-
-> "Unless the people driving the price are insiders, then it's just gambling. How people feel about it—that's how the price moves. It's a sentiment indicator, but not necessarily a predictor of the future."
-
-This is the key insight: **prediction market prices reflect the crowd's current emotional state, not the future's actual outcome**. When traders are bored with the idea of recession, recession odds fall. When geopolitical tensions spike, odds of economic damage rise. None of this is prophecy—it's mood tracking.
-
-> "If it was a true predictor of the future, people wouldn't play it, would they? Because there would be nothing they could see that wasn't already in the price."
-
----
-
-## The Geopolitical Wild Card: Oil and the Strait of Hormuz
-
-The UAE has reportedly built nearly 50% of a second pipeline to bypass the Strait of Hormuz—a critical chokepoint that could remain closed until 2027 or beyond.
-
-Chambers' take: *capitalism always finds a way*. The US strategy of sanctions and siege works only if it degrades adversary infrastructure faster than they can adapt. If Iran is actively pumping oil into the sea rather than letting it be seized, that's an act of economic desperation—but desperation can be rational.
-
-> "What is the American strategy? It's just a siege. Let the Iranian oil infrastructure break or be highly damaged. But if they found a way to stop their oil production from breaking, then the siege isn't going to work."
-
-The pipeline bypass is a market signal: **the system is adapting**. That means sustained $300 oil is less likely than markets fear—but it also means the geopolitical premium in oil prices will take longer to fully unwind.
-
----
-
-## The Value of Travel: Seeing Mispriced Markets
-
-Chambers was interviewing from Hokkaido, Japan, swimming in hot springs while foxes ran through the streets. But the travel isn't leisure—it's research.
-
-> "The big picture is what you get from traveling around. The big picture gives you a better perspective, and you can find things that are mispriced better by seeing a bigger picture."
-
-His example: Istanbul Airport today makes Heathrow look like "the dump it is." Mumbai changes every 90 days. Japan, once considered permanently gloomy, became a spectacular investment in the 2010s—*visible to outsiders, invisible to locals*.
-
-> "If you were Japanese, you would have looked at it and not seen that coming because from your perspective, everything was gloomy and slow. It was great once, and it's never going to be great again. But as an outsider, you could look at their market and say, 'This market's going up.' And it did."
-
----
-
-## Risk and Reward: The Curve That Breaks
-
-There's a risk/reward curve that most people don't understand: *risk does not infinitely correlate with reward*.
-
-> "There's a curve in risk where it does equal reward. And after a certain point, risk just equals loss. It doesn't just go, 'Oh, this is incredibly risky. Therefore, I'm going to make an incredibly great reward.' It means your likelihood of loss doesn't balance with your potential gain from getting it right."
-
-Micro-cap pink sheet stocks aren't "risky"—they're *guaranteed losses*. The risk/reward curve flattens and then inverts.
-
----
+- **CLM Chambers Alpha on YouTube**: Regular market commentary and deep dives
+- **His Substack**: More studious, written analysis that doesn't "just rush by"
+- **ADVFN**: Now featuring US markets alongside UK offerings, with more American pricing arriving
 
 ## Key Takeaways
 
-1. **The US faces a historic capital expenditure supercycle** driven by simultaneous onshoring, AI infrastructure buildout, and corporate capital needs. This is inflationary by design—and the Fed's new hawk may not print its way out.
+1. **The capital spending supercycle is real**: Onshoring + AI buildout + corporate demand = massive inflationary pressure. This isn't about oil—it's about fundamental structural demand for capital.
 
-2. **The opportunity is in second-order effects**: copper miners, nuclear power, transformers, switchgear, and transmission infrastructure—not the headline AI names everyone is already chasing.
+2. **The bubble has room to run**: Chambers sees 18-18 months to 2 years before the crash. Watch for crazy IPOs as the exit signal—exactly like 2000.
 
-3. **The American market is in bubble territory**, with 18 months to 2 years likely remaining before a significant correction. Watch for bizarre, unknown IPOs as the exit signal.
+3. **Follow the second-order beneficiaries**: Rather than buying headline AI names, look at the infrastructure underneath—power grid components, nuclear builders, copper miners.
 
-4. **Gold is now a signal, not an investment**: geopolitical gold flows (Russia, Iran, China) have driven the recent rally, and those flows can reverse rapidly if diplomatic conditions change.
+4. **Gold is now a signal, not an investment**: The Iran-Russia-China gold trade is the key driver, and it's fragile. Copper is the commodity to watch.
 
-5. **Copper is the next commodity to watch**—not gold, not silver. The energy transition and AI buildout are creating sustained demand that has "a long way to run."
-
-6. **Diversification requires owning the thesis, not the stock**: if you believe in semiconductors, own the sector through multiple companies and ETFs, not a single concentrated position.
-
-7. **Sentiment is not a strategy**: prediction markets reflect how people feel, not what will actually happen. The best opportunities exist where sentiment is terrible and reality is far better.
-
-> *"The future is very, very rosy—but there's always the lunatics driving the bus that can make this stuff go wrong."*
-
----
-
-**Disclaimer**: This article is for informational purposes only and does not constitute financial advice. All investments carry risk. Past performance is not indicative of future results.
+5. **The market is bipolar and inefficient**: Even obvious opportunities like Intel can run far beyond reasonable valuations. This inefficiency creates opportunity for investors willing to do the work—but requires riding the bubble before jumping off.
