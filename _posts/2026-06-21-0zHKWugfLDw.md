@@ -1,17 +1,6 @@
 ---
 layout: post
-title: "Let me analyze the transcript and the existing title to generate an engaging but not clickbait title.
-
-Key points from the transcript:
-1. David Hunter is a longtime macro analyst
-2. He's discussing markets and market cycles
-3. He mentions lows from last week should be the lows for "this period"
-4. He predicts coming out of consolidation "in a very steep way this summer and into the fall"
-5. The show is "Metals and Miners" and Gary Bone is the host
-
-Original title: "DAVID HUNTER | The markets will come out of this consolidation in a very steep way!"
-
-I"
+title: "David Hunter: Markets Will Come Out of Consolidation in a Very Steep Way"
 date: 2026-06-21
 category: finance
 excerpt: "David Hunter, a veteran macro analyst with decades of experience navigating market cycles, recently appeared on the *Metals and Miners* show to share his bold outlook with host Gary Bone. Known for hi..."
