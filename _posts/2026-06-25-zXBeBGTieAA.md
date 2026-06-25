@@ -1,4 +1,14 @@
-# Trader Warns of Next Drop: Stocks, Bitcoin, and Gold Under Pressure
+---
+layout: post
+title: "Trader Warns of Next Drop: Stocks, Bitcoin, and Gold Under Pressure"
+date: 2026-06-25
+category: finance
+excerpt: "A trader staying mostly in cash warns about the next drop for stocks, Bitcoin, and gold, citing deflation signals and broken momentum structures..."
+word_count: 1198
+video_url: "zXBeBGTieAA"
+transcription_time: 0.0s
+model: "MiniMax-M2.7"
+---
 
 ## Kevin Stewart on Deflation Signals, Oil Peaks, and Why He's Staying in Cash
 
