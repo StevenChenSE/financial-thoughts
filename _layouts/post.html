@@ -10,6 +10,16 @@ layout: default
     <a href="https://www.youtube.com/watch?v={{ page.video_url }}" target="_blank" style="color: #1890ff; text-decoration: none; font-weight: 500;">
       🎬 source video
     </a>
+    {% if page.original_title %}
+    <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+      Original: {{ page.original_title }}
+    </div>
+    {% endif %}
+    {% if page.channel_name %}
+    <div style="margin-top: 4px; font-size: 0.9em; color: #666;">
+      Channel: {{ page.channel_name }}
+    </div>
+    {% endif %}
   </div>
   {% endif %}
   
