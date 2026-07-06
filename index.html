@@ -17,6 +17,9 @@ layout: default
         <div class="article-meta">
           <span>{{ post.date | date: "%b %d, %Y" }}</span>
           <span>{{ post.category }}</span>
+          {% if post.channel_name %}
+          <span class="channel-name">📺 {{ post.channel_name }}</span>
+          {% endif %}
         </div>
       </a>
     {% endfor %}
