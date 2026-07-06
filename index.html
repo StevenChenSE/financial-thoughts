@@ -3,22 +3,72 @@ layout: default
 ---
 
 <div class="hero-section">
-  <h1 class="hero-title">Financial Thoughts</h1>
-  <p class="hero-subtitle">Insights and perspectives on personal finance, investing, and wealth building</p>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="hero-badge-dot"></span>
+      Market Insights & Analysis
+    </div>
+    <h1 class="hero-title">Financial Thoughts</h1>
+    <p class="hero-subtitle">Curated insights on markets, investing, macroeconomics, and wealth building from top financial thinkers.</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-value">{{ site.posts.size }}</span>
+        <span class="hero-stat-label">Articles</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">{% assign categories = site.posts | map: 'category' | uniq %}{{ categories.size }}</span>
+        <span class="hero-stat-label">Topics</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">Weekly</span>
+        <span class="hero-stat-label">Updated</span>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class="articles-section" id="articles">
-  <h2 class="section-title">Latest Articles</h2>
-  <div class="article-list">
+<div id="articles">
+  <div class="section-header">
+    <h2 class="section-title">Latest Articles</h2>
+    <div class="section-filter">
+      <button class="filter-btn active" onclick="filterPosts('all', this)">All</button>
+      {% assign categories = site.posts | map: 'category' | uniq %}
+      {% for cat in categories %}
+        <button class="filter-btn" onclick="filterPosts('{{ cat | downcase }}', this)">{{ cat }}</button>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="article-grid" id="articleGrid">
     {% for post in paginator.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}" class="article-card">
+      {% assign cat = post.category | downcase %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="article-card" data-category="{{ cat }}">
+        <div class="article-card-header">
+          <span class="article-category category-{{ cat | default: 'default' }}">{{ post.category | default: 'General' }}</span>
+          {% if post.video_url %}
+            <span class="article-video-badge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              Video
+            </span>
+          {% endif %}
+        </div>
         <h3 class="article-title">{{ post.title }}</h3>
-        <p class="article-excerpt">{{ post.excerpt }}</p>
+        <p class="article-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
         <div class="article-meta">
-          <span>{{ post.date | date: "%b %d, %Y" }}</span>
-          <span>{{ post.category }}</span>
+          <span class="article-meta-item">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            {{ post.date | date: "%b %d, %Y" }}
+          </span>
+          {% if post.word_count %}
+            <span class="article-meta-item">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+              {{ post.word_count }} words
+            </span>
+          {% endif %}
           {% if post.channel_name %}
-          <span class="channel-name">📺 {{ post.channel_name }}</span>
+            <span class="article-meta-item">
+              {{ post.channel_name }}
+            </span>
           {% endif %}
         </div>
       </a>
@@ -26,24 +76,48 @@ layout: default
   </div>
 
   {% if paginator.total_pages > 1 %}
-  <div class="pagination" style="margin-top: 32px; display: flex; justify-content: center; gap: 8px;">
+  <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="page-link" style="padding: 8px 16px; background: var(--link); color: #fff; border-radius: 4px; text-decoration: none;">Previous</a>
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="page-link nav-link-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+        Prev
+      </a>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
-        <span style="padding: 8px 16px; background: var(--header-bg); color: var(--header-text); border-radius: 4px;">{{ page }}</span>
+        <span class="page-link active">{{ page }}</span>
       {% elsif page == 1 %}
-        <a href="{{ site.baseurl }}/" style="padding: 8px 16px; color: var(--link); text-decoration: none;">{{ page }}</a>
+        <a href="{{ site.baseurl }}/" class="page-link">{{ page }}</a>
       {% else %}
-        <a href="{{ site.baseurl }}/page{{ page }}/" style="padding: 8px 16px; color: var(--link); text-decoration: none;">{{ page }}</a>
+        <a href="{{ site.baseurl }}/page{{ page }}/" class="page-link">{{ page }}</a>
       {% endif %}
     {% endfor %}
 
     {% if paginator.next_page %}
-      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="page-link" style="padding: 8px 16px; background: var(--link); color: #fff; border-radius: 4px; text-decoration: none;">Next</a>
+      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="page-link nav-link-btn">
+        Next
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+      </a>
     {% endif %}
   </div>
   {% endif %}
 </div>
+
+<script>
+  function filterPosts(category, btn) {
+    const cards = document.querySelectorAll('.article-card');
+    const buttons = document.querySelectorAll('.filter-btn');
+
+    buttons.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    cards.forEach(card => {
+      if (category === 'all' || card.dataset.category === category) {
+        card.style.display = 'flex';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+</script>
