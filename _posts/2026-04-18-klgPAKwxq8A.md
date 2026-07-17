@@ -2,7 +2,7 @@
 layout: post
 title: "Interview with Chris Tam: Quantum Computing Threat to Bitcoin - When Should You Worry?"
 date: 2026-04-18
-category: technology
+category: finance
 excerpt: "The question on every crypto holder's mind is uncomfortable to voice: When quantum computers become powerful enough, will they render Bitcoin worthless?"
 word_count: 1820
 video_url: "klgPAKwxq8A"
