@@ -1,55 +1,66 @@
 ---
 layout: post
-title: "Ted Oakley: Ignore These Assets at Your Peril"
+title: "Biggest Market Shift Now: ‘You’re Making A Mistake’ Ignoring These Assets | Ted Oakley"
 date: 2026-08-12
-category: finance
-excerpt: "In a world of record highs, excessive leverage, and geopolitical instability, investor caution is more critical than ever. Ted Oakley, founder of Oxbow Advisors, recently joined the *Showte Tech* podc..."
-word_count: 878
+category: Finance
+excerpt: "Ted Oakley, founder of Oxbow Advisors, returns to discuss the current market landscape, highlighting a significant shift in sentiment and asset allocation. With the stock market near record highs and ..."
+word_count: 864
 video_url: "_ZCvbIbrc_k"
 original_title: "Biggest Market Shift Now: ‘You’re Making A Mistake’ Ignoring These Assets | Ted Oakley"
-channel_name: "David Lin "
-transcription_time: 81.2s
-model: "qwen3.6-27b"
+channel_name: "David Lin"
+transcription_time: 0.0s
+model: "unknown"
 ---
-## Oxbow Advisor Founder Warns Against Market Complacency and Highlights Critical Investment Shifts
+## Oxbow Advisors Founder on Energy, Commodities, and Market Risks
 
-In a world of record highs, excessive leverage, and geopolitical instability, investor caution is more critical than ever. Ted Oakley, founder of Oxbow Advisors, recently joined the *Showte Tech* podcast to dissect the current market landscape, offering a contrarian perspective that challenges the prevailing bullish sentiment. Oakley argues that ignoring specific asset classes while overexposed to others is a critical mistake investors are making today.
+Ted Oakley, founder of Oxbow Advisors, returns to discuss the current market landscape, highlighting a significant shift in sentiment and asset allocation. With the stock market near record highs and the Middle East crisis escalating, Oakley argues that investors are making a mistake by ignoring energy and commodities while overexposing themselves to overvalued technology stocks and long-duration bonds.
 
-### The Oil Paradox: Massive Shorts and Geopolitical Risks
+## The Oil Market: Short Squeezes and Geopolitics
 
-One of the most striking observations from Oakley concerns the oil market. Despite ongoing geopolitical crises in the Middle East, including tensions in the Strait of Hormuz and escalating conflicts involving Iran and the US, oil prices have not reached the $100-per-barrel mark many expected. Oakley attributes this suppression to a massive short position in the market—approximately 480 million barrels—placing it in the top 10% of shorts in history.
+Despite the ongoing tensions in the Middle East, including Iranian threats to close the Strait of Hormuz and attacks on tankers, oil prices have not reached $100 a barrel. Oakley attributes this to massive short positions by traders who believe oil will return to $50 or $60. According to CFTC data, shorts on oil are at historically high levels, putting significant downward pressure on prices. Oakley warns that if sentiment flips, a short squeeze could cause prices to spike rapidly.
 
-Oakley warns that this crowded short position is unsustainable. "Somebody has drank the Kool-Aid here," he noted, suggesting that the moment sentiment flips, the market could see a violent correction. He points out that the US and other nations are depleting their strategic petroleum reserves. Furthermore, the US is losing influence in the Middle East, with regional powers forming tighter alliances. For investors, this means energy remains undervalued. Oakley’s firm owns a broad spectrum of energy assets, including producers like Chevron and Matador, midstream pipelines, and service companies like Schlumberger and Transocean, believing they are cheap relative to their earnings.
+Furthermore, the U.S. and other nations are depleting strategic petroleum reserves to keep prices low, but this is a temporary fix. Oakley notes that the U.S. is losing influence in the Middle East, with countries forming their own alliances. He believes that as refiners face tighter supplies and geopolitical risks mount, oil prices are poised to rise, making energy stocks an attractive investment.
 
-### The Yield Curve and the Trust Deficit
+## Energy Stocks: A Value Opportunity
 
-A central theme of Oakley’s analysis is the behavior of the US Treasury market. The 30-year Treasury yield has spent months above 5%, a level Oakley believes could impact the broader stock market negatively if it breaches 5.5%. At that threshold, the cost of leverage and mortgages could become prohibitive for many market participants.
+Oakley remains bullish on the energy sector, particularly at current WTI levels around $83. He argues that many oil and natural gas companies are undervalued, trading at seven or eight times earnings compared to the S&P 500's much higher multiples. He recommends owning the entire spectrum of the energy industry, including:
+*   **Producers:** Companies like Chevron and Matador.
+*   **Midstream:** Pipelines and transport infrastructure.
+*   **Service Companies:** Drillers and equipment providers like Schlumberger and Transocean.
+*   **Natural Gas:** Companies such as Antero and Apache.
 
-Why is the long end of the yield curve rising? Oakley suggests a fundamental "trust deficit." Investors are reacting to US fiscal policy and the Treasury’s financing strategies. "If you were doing a major financing, would you do a major financing with the US government today for 30 years? I doubt it," Oakley stated. This sentiment has led Oxbow to avoid long-duration bonds entirely, preferring the short end of the curve where yields are more attractive relative to risk.
+He believes that ESG-focused investors avoiding fossil fuels are missing out on significant value and strong dividends.
 
-### The Danger of "Buy the Dip" Mentality
+## Yield Curve and Bond Vigilantes
 
-The S&P 500’s recent V-shaped recovery following the July tech sell-off has fueled optimism, but Oakley sees danger in this behavior. Margin debt has hit record highs, indicating that investors are borrowing heavily to buy the dip. While this behavior is typical of a maturing bull market, it increases vulnerability.
+The long end of the yield curve has been rising, with the 30-year Treasury yield spending many sessions above 5%. Oakley suggests that the bond market is reacting to a lack of trust in U.S. fiscal policy. He questions whether anyone would finance a 30-year project with the U.S. government given current deficits and political uncertainty.
 
-"The next time one of these times you buy the dip and it doesn't work... you buy and then a month later you wish you hadn't," Oakley cautioned. He notes that the CAPE ratio (Shiller PE) is at 42, historically a level where investors often see zero real returns over the subsequent five years. Despite strong earnings reports, Oakley remains skeptical, pointing out that many big tech companies are booking one-time gains from tariff refunds and carrying private investments that may not reflect sustainable profitability.
+He warns that if the 30-year yield reaches 5.5%, it could negatively impact the broader economy by increasing borrowing costs for mortgages and leveraged entities. Consequently, Oakley advises against buying long-term Treasury paper, preferring the short end of the curve where the Fed has more control.
 
-### What to Avoid: Big Tech and Mega-Banks
+## Market Sentiment and Valuations
 
-Oakley is explicitly bearish on certain segments of the market. He identifies large-cap semiconductors and hyperscalers as high-risk assets due to their cyclical, "feast or famine" nature. He also advises against mega-banks, which he views as too complex and expensive, often trading at three times book value. Instead, for those interested in financials, he favors regional banks that focus on traditional banking activities.
+With the S&P 500 approaching 8,000 and the Shiller CAPE ratio at 42, Oakley expresses caution about current valuations. He notes that margin debt has hit record highs, a sign of mature bull markets where investors are overconfident. While the recent V-shaped recovery in tech stocks shows strong momentum, he warns that "buying the dip" can eventually fail, leading to significant losses.
 
-### What to Own: Commodities, Uranium, and Value Stocks
+Oakley advises investors to be wary of the "feast or famine" nature of semiconductor stocks. He believes many investors are overexposed to big tech and hyperscalers like Microsoft, Amazon, and Apple, ignoring the risks of a potential correction. He suggests taking profits and reducing exposure to these highly valued sectors.
 
-Conversely, Oakley is bullish on hard assets and value-oriented stocks. He emphasizes the importance of commodities in a portfolio, predicting a long-term commodity cycle driven by a multipolar world where nations hoard resources. Key areas of focus include:
+## Commodities and Critical Minerals
 
-*   **Critical Minerals:** Oakley highlights the US’s dependency on imports for materials like copper, aluminum, tungsten, and especially uranium. Oxbow is heavily invested in uranium and other critical minerals, anticipating long-term supply shortages.
-*   **Precious Metals:** After selling off gains in gold and silver miners earlier in the year to lock in profits, Oxbow has re-entered the market at lower levels. Oakley recommends taking profits during massive rallies to avoid tax-induced paralysis, noting that holding onto winners indefinitely often leads to lost opportunities.
-*   **Value Stocks:** Oakley points to undervalued sectors and companies like Visa, Mastercard, Bristol Myers Squibb, and Lioncor Chemical as attractive options offering solid dividends and turnaround potential.
+Oakley emphasizes the importance of commodities in a portfolio, predicting a commodity cycle over the next decade due to a shift toward a multipolar world where nations hoard critical resources. He highlights several key areas:
+*   **Gold and Silver:** After selling near peaks, Oxbow has re-entered these markets at lower prices, buying gold miners like Franco-Nevada and Hecla.
+*   **Uranium:** With the U.S. producing only a fraction of its needs, Oakley sees uranium as a critical investment.
+*   **Base Metals:** Copper, aluminum, tungsten, and iron are essential for construction and infrastructure, particularly for data centers and energy projects.
 
-### Final Thoughts
+He notes that the U.S. is behind in securing many critical minerals, making these assets strategically important and potentially valuable.
 
-Ted Oakley’s message is clear: the current market environment is fraught with hidden risks, from geopolitical shocks to fiscal instability and excessive leverage. While the "buy the dip" mentality prevails, Oakley urges investors to prioritize valuation, diversify into hard assets, and avoid complacency in overhyped sectors. As he puts it, ignoring commodities and critical resources in the next decade would be a significant mistake.
+## Investment Strategy and Profit Taking
 
-For those interested in following his strategies, Oakley directs viewers to Oxbow Advisors’ website and YouTube channel for transparent updates on their positions and market outlook.
+Oakley advocates for a disciplined approach to profit-taking. He criticizes the common retail investor mindset of holding stocks indefinitely to avoid capital gains taxes, citing the example of drug stocks in the late 1980s that took decades to recover their peak values. He recommends selling portions of winning positions to recoup costs and protect gains, especially when valuations become stretched.
+
+For financials, Oakley prefers regional banks over large money center banks like Citibank, which he views as too complex and overvalued. He believes regional banks offer better value and are more focused on traditional banking activities.
+
+## Conclusion
+
+Ted Oakley's outlook is one of cautious optimism, with a clear preference for value over growth. He urges investors to diversify into energy, commodities, and undervalued sectors while reducing exposure to overhyped tech stocks and long-term bonds. By focusing on earnings, dividends, and geopolitical realities, investors can better position themselves for the market shifts ahead. For more insights, Oakley directs viewers to Oxbow Advisors' website and YouTube channel.
 
 ---
 *Article generated using qwen3.6-27b (asrock backend)*
