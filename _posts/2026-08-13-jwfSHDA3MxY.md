@@ -5,7 +5,7 @@ date: 2026-08-13
 category: finance
 excerpt: "In a wide-ranging interview with Angelo Robas, veteran macro strategist David Hunter laid out a stark contrarian forecast: the markets are in the final parabolic stage of a 44-year secular bull market..."
 word_count: 984
-video_url: "unknown"
+video_url: "jwfSHDA3MxY"
 original_title: "WHAT IF HE'S RIGHT?"
 channel_name: "FamilyOffice"
 transcription_time: 81.7s
