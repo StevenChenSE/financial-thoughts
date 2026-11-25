@@ -1,0 +1,1257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simon Dixon: $150 Oil, Supply Chain Crisis, and the Recession Ahead</title>
+  <meta name="description" content="The world has shifted dramatically since the last time Simon Dixon appeared on Capital Cosm. What began as a geopolitical confrontation has evolved into something far more complex—a carefully orchestr...">
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #fafbfc;
+      --bg-secondary: #ffffff;
+      --bg-tertiary: #f0f2f5;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-tertiary: #94a3b8;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --accent-glow: rgba(37, 99, 235, 0.15);
+      --border: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --header-bg: rgba(255, 255, 255, 0.8);
+      --header-border: rgba(226, 232, 240, 0.6);
+      --footer-bg: #0f172a;
+      --footer-text: #94a3b8;
+      --code-bg: #f1f5f9;
+      --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1e40af 100%);
+      --gradient-accent: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+      --category-finance: #2563eb;
+      --category-finance-bg: #eff6ff;
+      --category-investing: #059669;
+      --category-investing-bg: #ecfdf5;
+      --category-economy: #d97706;
+      --category-economy-bg: #fffbeb;
+      --category-crypto: #7c3aed;
+      --category-crypto-bg: #f5f3ff;
+      --category-default: #64748b;
+      --category-default-bg: #f1f5f9;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-tertiary: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-tertiary: #64748b;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-light: #1e3a5f;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --border: #1e293b;
+      --border-hover: #334155;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(11, 17, 32, 0.85);
+      --header-border: rgba(30, 41, 59, 0.6);
+      --footer-bg: #050a15;
+      --footer-text: #64748b;
+      --code-bg: #1e293b;
+      --gradient-hero: linear-gradient(135deg, #050a15 0%, #0f172a 50%, #1e293b 100%);
+      --category-finance-bg: #1e3a5f;
+      --category-investing-bg: #064e3b;
+      --category-economy-bg: #78350f;
+      --category-crypto-bg: #4c1d95;
+      --category-default-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-primary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+    /* ── Reading Progress Bar ── */
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: var(--gradient-accent);
+      z-index: 1000;
+      transition: width 0.1s ease;
+    }
+
+    /* ── Header ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--header-bg);
+      backdrop-filter: blur(20px) saturate(180%);
+      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--header-border);
+      transition: all 0.3s ease;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: var(--gradient-accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 16px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav { display: flex; align-items: center; gap: 8px; }
+
+    .nav-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--text-primary);
+      background: var(--bg-tertiary);
+    }
+
+    .nav-link.active {
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .theme-toggle {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      margin-left: 8px;
+    }
+
+    .theme-toggle:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      transform: scale(1.05);
+    }
+
+    /* ── Main Content ── */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Hero Section ── */
+    .hero-section {
+      background: var(--gradient-hero);
+      border-radius: var(--radius-xl);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(124, 58, 237, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 680px;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 24px;
+    }
+
+    .hero-badge-dot {
+      width: 6px;
+      height: 6px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 540px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+    }
+
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .hero-stat-label {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.5);
+      font-weight: 500;
+    }
+
+    /* ── Section Header ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .section-filter {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Article Grid ── */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient-accent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .article-card:hover {
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+    }
+
+    .article-card:hover::before {
+      opacity: 1;
+    }
+
+    .article-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .article-category {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 100px;
+    }
+
+    .category-finance { color: var(--category-finance); background: var(--category-finance-bg); }
+    .category-investing { color: var(--category-investing); background: var(--category-investing-bg); }
+    .category-economy { color: var(--category-economy); background: var(--category-economy-bg); }
+    .category-crypto { color: var(--category-crypto); background: var(--category-crypto-bg); }
+    .category-default { color: var(--category-default); background: var(--category-default-bg); }
+
+    .article-video-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-excerpt {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 18px;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* ── Featured Article ── */
+    .featured-card {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+
+    .featured-card .article-title {
+      font-size: 26px;
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-card .article-excerpt {
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .page-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .page-link.nav-link-btn {
+      font-weight: 600;
+    }
+
+    /* ── Article Detail ── */
+    .article-detail {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 0;
+      margin-bottom: 24px;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover { color: var(--accent); }
+
+    .article-header {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article-header .article-category {
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .article-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: var(--text-tertiary);
+    }
+
+    .meta-separator {
+      width: 4px;
+      height: 4px;
+      background: var(--text-tertiary);
+      border-radius: 50%;
+    }
+
+    /* ── Video Link Card ── */
+    .video-link-card {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+
+    .video-link-card:hover {
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .video-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .video-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: #fff;
+    }
+
+    .video-info { flex: 1; }
+
+    .video-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .video-link:hover { text-decoration: underline; }
+
+    .video-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* ── Content / Markdown ── */
+    .article-content {
+      font-size: 17px;
+      line-height: 1.8;
+      color: var(--text-primary);
+    }
+
+    .article-content h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      margin: 48px 0 20px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .article-content h3 {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 36px 0 16px;
+      color: var(--text-primary);
+    }
+
+    .article-content p { margin-bottom: 20px; }
+
+    .article-content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .article-content strong { font-weight: 600; }
+
+    .article-content ul, .article-content ol {
+      margin-bottom: 20px;
+      padding-left: 24px;
+    }
+
+    .article-content li { margin-bottom: 8px; }
+
+    .article-content blockquote {
+      border-left: 4px solid var(--accent);
+      padding: 16px 24px;
+      margin: 24px 0;
+      background: var(--bg-tertiary);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .article-content code {
+      background: var(--code-bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .article-content pre {
+      background: var(--code-bg);
+      padding: 20px;
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+
+    .article-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+    }
+
+    .article-content th,
+    .article-content td {
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      text-align: left;
+    }
+
+    .article-content th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+    }
+
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--footer-bg);
+      padding: 48px 24px;
+      margin-top: 80px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .footer-copy {
+      font-size: 14px;
+      color: var(--footer-text);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--footer-text);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover { color: #fff; }
+
+    /* ── Animations ── */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .article-card { animation: fadeInUp 0.5s ease forwards; }
+    .article-card:nth-child(1) { animation-delay: 0.05s; }
+    .article-card:nth-child(2) { animation-delay: 0.1s; }
+    .article-card:nth-child(3) { animation-delay: 0.15s; }
+    .article-card:nth-child(4) { animation-delay: 0.2s; }
+    .article-card:nth-child(5) { animation-delay: 0.25s; }
+    .article-card:nth-child(6) { animation-delay: 0.3s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .header-inner { padding: 0 16px; height: 56px; }
+      .logo-text { font-size: 17px; }
+      .nav-link { padding: 6px 10px; font-size: 13px; }
+      .main-content { padding: 20px 16px 48px; }
+      .hero-section { padding: 40px 24px; border-radius: var(--radius-lg); }
+      .hero-title { font-size: 32px; }
+      .hero-subtitle { font-size: 16px; }
+      .hero-stats { gap: 24px; }
+      .hero-stat-value { font-size: 24px; }
+      .article-grid { grid-template-columns: 1fr; gap: 16px; }
+      .featured-card { grid-template-columns: 1fr; gap: 20px; padding: 24px; }
+      .featured-card .article-title { font-size: 22px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+      .section-title { font-size: 24px; }
+      .article-header h1 { font-size: 28px; }
+      .article-content { font-size: 16px; }
+      .article-content h2 { font-size: 24px; }
+      .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+      .video-link-card { flex-direction: column; text-align: center; }
+    }
+
+    @media (max-width: 480px) {
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .section-filter { flex-wrap: wrap; }
+      .article-header-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .meta-separator { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="/financial-thoughts/" class="logo">
+        <div class="logo-icon">F</div>
+        <span class="logo-text">Financial Thoughts</span>
+      </a>
+      <nav class="nav">
+        <a href="/financial-thoughts/" class="nav-link">Home</a>
+        <a href="/financial-thoughts/#articles" class="nav-link">Articles</a>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle theme">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+    Back to Articles
+  </a>
+
+  <div class="article-header">
+    
+    <span class="article-category category-finance">finance</span>
+    <h1>Simon Dixon: $150 Oil, Supply Chain Crisis, and the Recession Ahead</h1>
+    <div class="article-header-meta">
+      <span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        April 18, 2026
+      </span>
+      <span class="meta-separator"></span>
+      
+        <span>3014 words</span>
+        <span class="meta-separator"></span>
+      
+      
+      
+    </div>
+  </div>
+
+  
+  <div class="video-link-card">
+    <div class="video-icon">
+      <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+    </div>
+    <div class="video-info">
+      <a href="https://www.youtube.com/watch?v=4cQ5qx37F60" target="_blank" class="video-link">
+        Watch Source Video
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      <div class="video-meta">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="article-content">
+    <h2 id="the-view-from-capital-cosm--april-13-2026">The View from Capital Cosm – April 13, 2026</h2>
+
+<p>The world has shifted dramatically since the last time Simon Dixon appeared on Capital Cosm. What began as a geopolitical confrontation has evolved into something far more complex—a carefully orchestrated realignment of power, economics, and influence that may reshape the global order for generations.</p>
+
+<p>“This is the biggest acceleration of everything we saw during COVID on a bigger scale,” Dixon told host Danny during an extensive interview covering the current state of global markets, the Middle East conflict, and what ordinary people can do to protect themselves. “With supply shocks, with financial shocks, the only people that survive this are the asset owners.”</p>
+
+<hr />
+
+<h2 id="the-strait-of-hormuz-a-modern-day-chokepoint">The Strait of Hormuz: A Modern-Day Chokepoint</h2>
+
+<p>The interview began with immediate focus on the naval blockade of Iran and its implications. Just 24-48 hours prior, negotiations in Islamabad had collapsed amid reports that a Chinese-bound ship had been turned back by U.S. forces in the Strait of Hormuz.</p>
+
+<p>Dixon had predicted something similar to the 12-day war. What unfolded was considerably more.</p>
+
+<p>“We’re condensing down into one final war what may have taken two years,” he explained. “The parameters of the game right now is that I don’t think the market can have the Strait of Hormuz closed and blockaded for more than another month from now until we start to really see destruction in financial markets.”</p>
+
+<p>The implications extend far beyond military considerations. WTI crude oil, which had climbed to $105 earlier in the trading day, was already showing signs of retracement as markets absorbed the reality of the blockade. Dixon noted significant dislocations between Dubai, Oman, WTI, and Brent crude pricing—evidence that markets are struggling to find equilibrium.</p>
+
+<p>“The game in my mind is bounded,” Dixon said. “We’re dealing with a bounded escalation cycle where both Iran and America understand the terms of engagement in terms of what it means for markets.”</p>
+
+<hr />
+
+<h2 id="the-115-ceiling-where-markets-break">The $115 Ceiling: Where Markets Break</h2>
+
+<p>Throughout the conflict, Dixon identified a critical threshold: whenever oil approaches $115 and the 10-year Treasury hits approximately 4.5% (with the 30-year approaching 5%), Trump introduces what Dixon calls “a new rabbit out of the bag”—some new escalation or de-escalation move designed to calm markets.</p>
+
+<p>“Once you get oil prices above $150, we’ve already started to see CPI on Friday around three and a half percent,” Dixon noted. “That doesn’t really factor in anything from here yet. So we are back to an inflationary cycle.”</p>
+
+<p>The Trump administration had promised the opposite—a resolution to the Middle East situation that would bring rates down. Instead, they face a perfect storm:</p>
+
+<ul>
+  <li><strong>Higher energy prices</strong> when relief was expected</li>
+  <li><strong>Private credit seizing up</strong>, a major funding source for the AI and robotics trades</li>
+  <li><strong>Gulf sovereign wealth funds facing financial stress</strong>, limiting their investment capacity</li>
+  <li><strong>AI infrastructure guzzling capital</strong> at precisely the wrong moment</li>
+</ul>
+
+<p>“We were meant to get lower rates. We’re not getting those. We were meant to get AI productivity increases to tampen inflation. We’re not getting those. So what’s left? Lower oil and energy prices. I don’t think we’re getting those.”</p>
+
+<p>The only mechanism remaining for taming inflation, Dixon argues, is demand destruction—oil prices rising high enough to trigger recession and potentially depression.</p>
+
+<hr />
+
+<h2 id="the-islamabad-negotiations-china-pakistan-and-the-shadow-war">The Islamabad Negotiations: China, Pakistan, and the Shadow War</h2>
+
+<p>The peace talks in Islamabad weren’t simply about Iran and America. According to Dixon, Pakistan served as a proxy for China, given its complex web of financial obligations and alliances.</p>
+
+<p>“Pakistan from COVID has been in severe structural shortage of dollars and almost went bankrupt and had to default on their dollar debt,” Dixon explained. “They got bailed out by UAE and China. UAE called the loan and demanded repayment, and Qatar and Saudi stepped in to prevent China from having all the leverage.”</p>
+
+<p>This financial chess board has direct implications for the Iran situation. China has a clear vision for the region: normalization with Gulf countries and the gradual expulsion of U.S. influence. Pakistan, historically a U.S. ally that shifted toward China’s Belt and Road Initiative, sits at the intersection of these competing visions.</p>
+
+<p>Dixon believes the negotiations have never truly stopped, even during active combat. The military operations, decapitation strikes, and theatrical escalations serve multiple purposes:</p>
+
+<ol>
+  <li><strong>Decapitation campaigns</strong> against hardliner IRGC members who resist normalization</li>
+  <li><strong>Infrastructure destruction</strong> to weaken Iran’s military capacity</li>
+  <li><strong>A parallel energy war</strong> targeting LNG and oil infrastructure</li>
+  <li><strong>Creating conditions for a massive rebuild project</strong></li>
+</ol>
+
+<p>“The only reason that Israel is able to justify its military existence is based upon a ‘death to Israel, death to America’ narrative, two weeks away from a nuclear bomb,” Dixon said. “All of that’s BS to a certain degree.”</p>
+
+<hr />
+
+<h2 id="the-propaganda-battle-winning-hearts-and-minds">The Propaganda Battle: Winning Hearts and Minds</h2>
+
+<p>Perhaps the most surprising development has been the information warfare dimension. Iran and the IRGC have launched sophisticated propaganda campaigns targeting American youth—and according to Dixon, they’re succeeding.</p>
+
+<p>“We’ve had most of the youth in America consider their government illegitimate in an Epstein class,” he observed. “They consider Israel a pariah state that controls their government and is forcing them into war. And they’ve been rebranded the IRGC into these heroes that are effectively fighting against the Epstein class.”</p>
+
+<p>The messaging is remarkably effective. Young Americans who once viewed Iran as a terrorist threat now see IRGC fighters as people “taking on the Epstein class” and potentially expelling Israel from the region.</p>
+
+<p>“Many people in America… want Iran to win so that they can expel Israel and America can be America first. The PR battle is game-changing in terms of how that has actually played out.”</p>
+
+<p>Meanwhile, Iran has been systematically destroying U.S. bases and infrastructure while targeting Israeli energy facilities. The Iron Dome, Dixon notes, is struggling to intercept the volleys.</p>
+
+<hr />
+
+<h2 id="the-three-way-victory-a-delicate-operation">The Three-Way Victory: A Delicate Operation</h2>
+
+<p>Dixon sees the entire conflict as a “three-way operation” where different factions are simultaneously being weakened and repositioned:</p>
+
+<ul>
+  <li><strong>Hardliner IRGC leadership</strong> is being decapitated</li>
+  <li><strong>Iranian military infrastructure</strong> is being degraded</li>
+  <li><strong>U.S. bases and assets</strong> are being targeted</li>
+  <li><strong>Israeli military capacity</strong> is being tested</li>
+</ul>
+
+<p>The endgame, he believes, is a massive infrastructure rebuild that will be dominated by Chinese contractors, with all parties declaring some form of victory.</p>
+
+<p>“Around that, there’s going to be a ginormous rebuild infrastructure project,” Dixon said. “China is going to rebuild all of the infrastructure. The defense contracts are going to be renegotiated from attack contracts and forever war contracts to effectively genuine surveillance technology contracts. We’re going to transition from the Middle East being the forever war model.”</p>
+
+<p>The question of Hezbollah and Lebanon remains unresolved. Dixon expects them to be reintegrated into the Lebanese army and political process, similar to what he’s predicting for other regional resistance movements.</p>
+
+<hr />
+
+<h2 id="the-technical-industrial-complex-the-real-winners">The Technical Industrial Complex: The Real Winners</h2>
+
+<p>While the world watches the military and financial dimensions of this crisis, Dixon identifies another power center gaining influence: the technical industrial complex.</p>
+
+<p>“Jared Kushner is managing… a multi-billion dollar fund that Trump is effectively bribed into,” Dixon explained. “JD Vance is being groomed as the next leader of America right now by a faction of the technical industrial complex.”</p>
+
+<p>Vance, who was groomed by Peter Thiel and funded by Silicon Valley, is being positioned as the “anti-war” candidate despite his earlier pro-war stance. Meanwhile, Tucker Carlson and Candace Owens have pushed anti-Zionism into the mainstream—a narrative shift that would have been unthinkable just years ago.</p>
+
+<p>“Anti Zionism is a mainstream narrative in America,” Dixon noted. “It’s only the most extreme of Fox News listeners that still stand by Israel, represented by people like Lindsey Graham—cartoon characters that everyone hates.”</p>
+
+<p>The endgame, Dixon believes, involves a massive money printing operation.</p>
+
+<p>“I believe at the end of this we get a $7 to $10 trillion bigger than COVID, bigger than global financial crisis print,” he said. “That would be to bail out the AI infrastructure under national security and big data. That’s the police and surveillance state.”</p>
+
+<hr />
+
+<h2 id="the-115-threshold-treasury-intervention">The $115 Threshold: Treasury Intervention</h2>
+
+<p>The Federal Reserve and Treasury face an impossible situation. Oil prices above $115 combined with yields at 4.5% on the 10-year and 5% on the 30-year threaten to break multiple markets simultaneously:</p>
+
+<ul>
+  <li>The mortgage market</li>
+  <li>Private credit</li>
+  <li>The bond market</li>
+  <li>The stock market</li>
+  <li>Energy markets</li>
+</ul>
+
+<p>“I believe that the Treasury has structurally short oil in order to try and manage these prices,” Dixon revealed. “The only choice is to crash the price of oil and reach a deal. The only way to reach a deal is to effectively complete the mission.”</p>
+
+<p>A ground invasion of Iran, however, remains unrealistic. Military experts Dixon has consulted estimate it would require two million troops—the current U.S. military simply cannot sustain such an operation.</p>
+
+<p>“You’re sending a bunch of people into a death box,” Dixon said bluntly. “You need millions.”</p>
+
+<hr />
+
+<h2 id="taiwan-and-the-semiconductor-crisis">Taiwan and the Semiconductor Crisis</h2>
+
+<p>The Strait of Hormuz closure has immediate implications for Taiwan, South Korea, and the Netherlands—all critical nodes in the semiconductor supply chain that depend on helium and energy resources currently trapped behind the blockade.</p>
+
+<p>“Taiwan is in an energy crisis,” Dixon said. “It, South Korea, Netherlands, which are all part of the semiconductor chip ecosystem that all need helium that is stuck behind the Strait of Hormuz.”</p>
+
+<p>China now has significant leverage. Xi Jinping and Trump are scheduled to meet, with all parties understanding that something must be resolved by May 15th or markets face potential collapse.</p>
+
+<p>“China can just say, ‘We’ll stop the rare earth minerals,’” Dixon noted, referencing what happened during the tariff war when China threatened export restrictions and Trump had to capitulate. “There’s no way China and America can go to war.”</p>
+
+<p>Taiwan, in this analysis, will likely negotiate its position—either with America, which can’t protect it militarily without Chinese components, or with China, which can solve its energy problems.</p>
+
+<hr />
+
+<h2 id="the-multipolar-world-what-the-strait-means-for-the-century">The Multipolar World: What the Strait Means for the Century</h2>
+
+<p>Dixon sees the Strait of Hormuz crisis as potentially the defining geopolitical event of the 21st century.</p>
+
+<p>“This is what whatever happens in the Strait of Hormuz dictates the next century of what the world looks like,” he argued. “I believe it’s a multipolar world.”</p>
+
+<p>If the current trajectory holds, the implications are profound:</p>
+
+<ul>
+  <li><strong>The Strait becomes a toll booth</strong> under international agreement, ending the concept of U.S.-protected international waters</li>
+  <li><strong>Naval fleets come home</strong> and America becomes a regional power</li>
+  <li><strong>A new Bretton Woods system</strong> emerges with competing currencies and spheres of influence</li>
+  <li><strong>China executes its regional integration plan</strong> with Iran and the GCC normalized</li>
+</ul>
+
+<p>This isn’t World War III, Dixon insists—it’s managed transition.</p>
+
+<p>“Even if you look at who’s Iran’s second largest trading partner after China: UAE. UAE provided the infrastructure for Iran to circumvent sanctions. We’re told UAE is in line with the Zionists and Israel right now. Who else got oil? India. So Iran and their trade partners—China, India, UAE—have all been flowing throughout this whole thing.”</p>
+
+<p>The blockade, in his view, is theater—orchestrated to create conditions for a negotiated settlement that benefits all the major powers while extracting maximum value from the American public.</p>
+
+<hr />
+
+<h2 id="trumps-empty-tankers-5d-chess-or-wealth-extraction">Trump’s Empty Tankers: 5D Chess or Wealth Extraction?</h2>
+
+<p>The interview touched on breaking news: 121 empty oil tankers heading to the United States as Trump urges countries affected by the Strait disruption to buy American energy. Normally, around 27 tankers visit American ports. This represents nearly a fivefold increase.</p>
+
+<p>Dixon’s assessment cuts through the nationalist framing: “Who Trump’s works for is the financial industrial complex. The financial institutions that control big oil—his job is to give them a win. It’s not to give Americans a win. It’s not to give America a win. It’s to give big oil a win.”</p>
+
+<p>The oil being delivered isn’t American oil—it’s transnational capital’s oil: Qatari infrastructure, Saudi Aramco, Chevron, Exxon, Sempra Energy’s Golden Pass (70% owned by Qatar).</p>
+
+<p>“All of those people are making an absolute fortune or taking a hit on one side and making up for it on another side,” Dixon explained. “While the Americans are paying the bill because there’s going to be probably a $7 to $10 trillion big print.”</p>
+
+<p>Trump, in this analysis, is executing perfectly for global capital while extracting personal wealth and maintaining the illusion of American strength.</p>
+
+<hr />
+
+<h2 id="preparing-for-the-storm-asset-ownership-and-community">Preparing for the Storm: Asset Ownership and Community</h2>
+
+<p>For ordinary Americans watching this crisis unfold, Dixon’s advice is direct and sobering:</p>
+
+<p>“The only way to beat this game is to own the fixed assets. Anyone that’s in debt without fixed assets is going to eventually be on a universal basic income.”</p>
+
+<p>He paints a picture of accelerated “global reset” dynamics, where wealth concentrates in the hands of those who already own assets while everyone else faces higher energy prices, inflation, and ultimately recession or depression.</p>
+
+<p>“And we know who wins in those scenarios: socialize the losses, privatize the gains. This is ginormous concentration of power, ginormous wealth extraction. This is wiping out of the middle class. This is World Economic Forum, global reset, wealth extraction—socialize the loss, privatize the game, ‘you will own nothing and be happy’ 101. This is operation chokepoint 2.0.”</p>
+
+<p>For those without significant assets, Dixon recommends building community infrastructure and supply chains—working with family and neighbors to create resilience outside the formal economy.</p>
+
+<p>“You’ve got to be building your own community infrastructure, your own supply chains, and you need to be working with your family and your neighbors to build those. That’s the reality of where we’re going now. This accelerates everything.”</p>
+
+<hr />
+
+<h2 id="falsifiability-what-would-prove-dixon-wrong">Falsifiability: What Would Prove Dixon Wrong?</h2>
+
+<p>Host Danny pressed Dixon on what would falsify his model—distinguishing his analysis from unfalsifiable “5D chess” theories where everything becomes evidence for the conspiracy.</p>
+
+<p>“If America did a ground invasion, took over Iran, took control of the oil like they did in Venezuela and forced Iran to price it in dollars—that would mean America is still fighting to be the empire,” Dixon replied. “If that then leads to China genuinely fighting back and some kind of escalation, then I’m wrong.”</p>
+
+<p>His falsifiable predictions:</p>
+
+<ol>
+  <li><strong>America abandons the global empire model</strong> and accepts regional power status</li>
+  <li><strong>China and America don’t engage in direct military conflict</strong></li>
+  <li><strong>Israel transitions to a “radically different” state</strong> outside the military-industrial complex framework</li>
+</ol>
+
+<p>“If any of those happen, I’ll come back on here and say my analysis was wrong or it got derailed into somebody else’s plan and spiraled out of control.”</p>
+
+<hr />
+
+<h2 id="hungarys-political-shift-implications-for-ukraine-and-israel">Hungary’s Political Shift: Implications for Ukraine and Israel</h2>
+
+<p>The conversation shifted to Hungary’s dramatic political change, where Viktor Orbán’s 16-year dominance ended in a sweeping electoral defeat.</p>
+
+<p>“The European Union always needed Hungary’s vote to prevent unanimity,” Dixon explained. “Russia was able to use Hungary to block EU military funding for Ukraine. That’s gone now.”</p>
+
+<p>The implications are significant:</p>
+
+<ul>
+  <li><strong>Ukraine gets more weapons</strong> but Russia continues its grinding advance</li>
+  <li><strong>Norway’s sovereign wealth fund</strong> (the world’s largest) divested from Israeli-linked investments</li>
+  <li><strong>The EU may move toward broader boycotts</strong> of Israeli goods</li>
+</ul>
+
+<p>“Strategically, this is a mechanism for weakening Israel economically and pushing it into transnational capital away from military [spending],” Dixon said. “It’s also compensation for the military-industrial complex to get another trillion dollars—to basically get rid of Ukraine and replace it with [states] fully owned and vassalized into the financial industrial complex.”</p>
+
+<p>For Ukraine itself, the outlook is grim: “The more money you give, the more land is given up. BlackRock’s happy. Russia’s gets what they want, and Ukraine gets another three years in the meat grinder. If I was a Ukrainian, I’d be out of there. There is no chance they win no matter what money they get.”</p>
+
+<hr />
+
+<h2 id="symbolic-warfare-jesus-ramadan-and-the-epstein-narrative">Symbolic Warfare: Jesus, Ramadan, and the Epstein Narrative</h2>
+
+<p>In closing, Dixon noted symbolic dimensions that he finds “very interesting to watch.”</p>
+
+<p>Trump posted an image of himself disrespectfully depicting Jesus Christ during a period significant to both Christians and Muslims. The Pope, Islamic religious leaders, and IRGC representatives all protested. Meanwhile, Iran has been distributing propaganda videos portraying the conflict as a fight against the “Epstein class.”</p>
+
+<p>“You’ve got a scenario where Trump threatens nuclear escalations during a Christian holiday, started a war during Ramadan, and then puts out a picture of himself as Jesus Christ—which is offensive to both Christians and Muslims.”</p>
+
+<p>The simultaneous messaging from both sides, Dixon suggests, represents either sophisticated psychological operations or deliberate attempts to tear down old narratives and replace them with new frameworks for understanding global power.</p>
+
+<p>“What is being fed into our algorithms, why are these changes happening—are these psyops or are they deliberate taking down of old narratives and replacing with new narratives which to me sets the next world order?”</p>
+
+<hr />
+
+<h2 id="conclusion-reading-the-map">Conclusion: Reading the Map</h2>
+
+<p>Despite the complexity and uncertainty, Dixon maintains his analytical framework remains directionally sound, even if specific timelines have proven wrong.</p>
+
+<p>“I did say we would have something similar to the 12-day war. I got the war part right, I got the transitionary part right, but no, this is way bigger than I predicted,” he admitted. “My model was adjusted to what we presented today. Anytime I get things wrong, I’ll share. And when I think things are still going in the direction, I think directionally we’re still moving in the same direction.”</p>
+
+<p>For those seeking to understand the rapidly shifting world order, Dixon offers his analysis through regular YouTube broadcasts, X (Twitter) updates, and condensed AI summaries on his website.</p>
+
+<p>As for ordinary citizens: the message is clear. In an era of supply shocks, financial crises, and managed transitions between world orders, asset ownership and community resilience may be the only true hedges against forces far larger than any individual.</p>
+
+<hr />
+
+<p><em>Simon Dixon is an OG Bitcoin investor who provides real-time geopolitical and market analysis. His updates are available on X and his YouTube channel, with condensed analysis at simonixon.com.</em></p>
+
+  </div>
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo">Financial Thoughts</span>
+        <span class="footer-copy">© 2026 Financial Thoughts. All rights reserved.</span>
+      </div>
+      <div class="footer-links">
+        <a href="/financial-thoughts/">Home</a>
+        <a href="/financial-thoughts/#articles">Articles</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme management
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      const icon = document.getElementById('themeIcon');
+      if (icon) icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+
+    // Reading progress bar
+    window.addEventListener('scroll', () => {
+      const bar = document.getElementById('progressBar');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = progress + '%';
+    });
+  </script>
+</body>
+</html>

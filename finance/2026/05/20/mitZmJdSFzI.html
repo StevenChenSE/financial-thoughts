@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>George Noble Warns: Stock Market Rally Ending as Inflation Spikes</title>
+  <meta name="description" content="The euphoria that has fueled stock market gains over the past six weeks—one of the best half-year runs in market history—is about to end. That's the blunt assessment from George Noble, managing partne...">
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #fafbfc;
+      --bg-secondary: #ffffff;
+      --bg-tertiary: #f0f2f5;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-tertiary: #94a3b8;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --accent-glow: rgba(37, 99, 235, 0.15);
+      --border: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --header-bg: rgba(255, 255, 255, 0.8);
+      --header-border: rgba(226, 232, 240, 0.6);
+      --footer-bg: #0f172a;
+      --footer-text: #94a3b8;
+      --code-bg: #f1f5f9;
+      --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1e40af 100%);
+      --gradient-accent: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+      --category-finance: #2563eb;
+      --category-finance-bg: #eff6ff;
+      --category-investing: #059669;
+      --category-investing-bg: #ecfdf5;
+      --category-economy: #d97706;
+      --category-economy-bg: #fffbeb;
+      --category-crypto: #7c3aed;
+      --category-crypto-bg: #f5f3ff;
+      --category-default: #64748b;
+      --category-default-bg: #f1f5f9;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-tertiary: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-tertiary: #64748b;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-light: #1e3a5f;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --border: #1e293b;
+      --border-hover: #334155;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(11, 17, 32, 0.85);
+      --header-border: rgba(30, 41, 59, 0.6);
+      --footer-bg: #050a15;
+      --footer-text: #64748b;
+      --code-bg: #1e293b;
+      --gradient-hero: linear-gradient(135deg, #050a15 0%, #0f172a 50%, #1e293b 100%);
+      --category-finance-bg: #1e3a5f;
+      --category-investing-bg: #064e3b;
+      --category-economy-bg: #78350f;
+      --category-crypto-bg: #4c1d95;
+      --category-default-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-primary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+    /* ── Reading Progress Bar ── */
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: var(--gradient-accent);
+      z-index: 1000;
+      transition: width 0.1s ease;
+    }
+
+    /* ── Header ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--header-bg);
+      backdrop-filter: blur(20px) saturate(180%);
+      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--header-border);
+      transition: all 0.3s ease;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: var(--gradient-accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 16px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav { display: flex; align-items: center; gap: 8px; }
+
+    .nav-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--text-primary);
+      background: var(--bg-tertiary);
+    }
+
+    .nav-link.active {
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .theme-toggle {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      margin-left: 8px;
+    }
+
+    .theme-toggle:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      transform: scale(1.05);
+    }
+
+    /* ── Main Content ── */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Hero Section ── */
+    .hero-section {
+      background: var(--gradient-hero);
+      border-radius: var(--radius-xl);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(124, 58, 237, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 680px;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 24px;
+    }
+
+    .hero-badge-dot {
+      width: 6px;
+      height: 6px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 540px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+    }
+
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .hero-stat-label {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.5);
+      font-weight: 500;
+    }
+
+    /* ── Section Header ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .section-filter {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Article Grid ── */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient-accent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .article-card:hover {
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+    }
+
+    .article-card:hover::before {
+      opacity: 1;
+    }
+
+    .article-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .article-category {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 100px;
+    }
+
+    .category-finance { color: var(--category-finance); background: var(--category-finance-bg); }
+    .category-investing { color: var(--category-investing); background: var(--category-investing-bg); }
+    .category-economy { color: var(--category-economy); background: var(--category-economy-bg); }
+    .category-crypto { color: var(--category-crypto); background: var(--category-crypto-bg); }
+    .category-default { color: var(--category-default); background: var(--category-default-bg); }
+
+    .article-video-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-excerpt {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 18px;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* ── Featured Article ── */
+    .featured-card {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+
+    .featured-card .article-title {
+      font-size: 26px;
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-card .article-excerpt {
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .page-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .page-link.nav-link-btn {
+      font-weight: 600;
+    }
+
+    /* ── Article Detail ── */
+    .article-detail {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 0;
+      margin-bottom: 24px;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover { color: var(--accent); }
+
+    .article-header {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article-header .article-category {
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .article-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: var(--text-tertiary);
+    }
+
+    .meta-separator {
+      width: 4px;
+      height: 4px;
+      background: var(--text-tertiary);
+      border-radius: 50%;
+    }
+
+    /* ── Video Link Card ── */
+    .video-link-card {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+
+    .video-link-card:hover {
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .video-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .video-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: #fff;
+    }
+
+    .video-info { flex: 1; }
+
+    .video-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .video-link:hover { text-decoration: underline; }
+
+    .video-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* ── Content / Markdown ── */
+    .article-content {
+      font-size: 17px;
+      line-height: 1.8;
+      color: var(--text-primary);
+    }
+
+    .article-content h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      margin: 48px 0 20px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .article-content h3 {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 36px 0 16px;
+      color: var(--text-primary);
+    }
+
+    .article-content p { margin-bottom: 20px; }
+
+    .article-content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .article-content strong { font-weight: 600; }
+
+    .article-content ul, .article-content ol {
+      margin-bottom: 20px;
+      padding-left: 24px;
+    }
+
+    .article-content li { margin-bottom: 8px; }
+
+    .article-content blockquote {
+      border-left: 4px solid var(--accent);
+      padding: 16px 24px;
+      margin: 24px 0;
+      background: var(--bg-tertiary);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .article-content code {
+      background: var(--code-bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .article-content pre {
+      background: var(--code-bg);
+      padding: 20px;
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+
+    .article-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+    }
+
+    .article-content th,
+    .article-content td {
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      text-align: left;
+    }
+
+    .article-content th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+    }
+
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--footer-bg);
+      padding: 48px 24px;
+      margin-top: 80px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .footer-copy {
+      font-size: 14px;
+      color: var(--footer-text);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--footer-text);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover { color: #fff; }
+
+    /* ── Animations ── */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .article-card { animation: fadeInUp 0.5s ease forwards; }
+    .article-card:nth-child(1) { animation-delay: 0.05s; }
+    .article-card:nth-child(2) { animation-delay: 0.1s; }
+    .article-card:nth-child(3) { animation-delay: 0.15s; }
+    .article-card:nth-child(4) { animation-delay: 0.2s; }
+    .article-card:nth-child(5) { animation-delay: 0.25s; }
+    .article-card:nth-child(6) { animation-delay: 0.3s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .header-inner { padding: 0 16px; height: 56px; }
+      .logo-text { font-size: 17px; }
+      .nav-link { padding: 6px 10px; font-size: 13px; }
+      .main-content { padding: 20px 16px 48px; }
+      .hero-section { padding: 40px 24px; border-radius: var(--radius-lg); }
+      .hero-title { font-size: 32px; }
+      .hero-subtitle { font-size: 16px; }
+      .hero-stats { gap: 24px; }
+      .hero-stat-value { font-size: 24px; }
+      .article-grid { grid-template-columns: 1fr; gap: 16px; }
+      .featured-card { grid-template-columns: 1fr; gap: 20px; padding: 24px; }
+      .featured-card .article-title { font-size: 22px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+      .section-title { font-size: 24px; }
+      .article-header h1 { font-size: 28px; }
+      .article-content { font-size: 16px; }
+      .article-content h2 { font-size: 24px; }
+      .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+      .video-link-card { flex-direction: column; text-align: center; }
+    }
+
+    @media (max-width: 480px) {
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .section-filter { flex-wrap: wrap; }
+      .article-header-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .meta-separator { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="/financial-thoughts/" class="logo">
+        <div class="logo-icon">F</div>
+        <span class="logo-text">Financial Thoughts</span>
+      </a>
+      <nav class="nav">
+        <a href="/financial-thoughts/" class="nav-link">Home</a>
+        <a href="/financial-thoughts/#articles" class="nav-link">Articles</a>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle theme">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+    Back to Articles
+  </a>
+
+  <div class="article-header">
+    
+    <span class="article-category category-finance">finance</span>
+    <h1>George Noble Warns: Stock Market Rally Ending as Inflation Spikes</h1>
+    <div class="article-header-meta">
+      <span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        May 20, 2026
+      </span>
+      <span class="meta-separator"></span>
+      
+        <span>2839 words</span>
+        <span class="meta-separator"></span>
+      
+      
+      
+    </div>
+  </div>
+
+  
+  <div class="video-link-card">
+    <div class="video-icon">
+      <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+    </div>
+    <div class="video-info">
+      <a href="https://www.youtube.com/watch?v=mitZmJdSFzI" target="_blank" class="video-link">
+        Watch Source Video
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      <div class="video-meta">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="article-content">
+    <h2 id="the-warning-signs-are-unmistakable">The Warning Signs Are Unmistakable</h2>
+
+<p>The euphoria that has fueled stock market gains over the past six weeks—one of the best half-year runs in market history—is about to end. That’s the blunt assessment from George Noble, managing partner of Noble Capital Advisors, who appeared on a recent financial program to sound the alarm on what he sees as a dangerously frothy market environment.</p>
+
+<p>On May 13th, the S&amp;P 500 dropped nearly 2% following higher inflation data, with headline CPI reaching its highest level in nearly three years. The NASDAQ fell 1.5%, and oil prices continued their ascent as hopes for an Iran-US nuclear deal faded. For Noble, this is just the beginning of a much larger correction.</p>
+
+<p>“The market is no secret over the last six weeks has had an amazing run,” Noble said. “Things are just incredibly stretched. The inflation number you asked about—I think there’s more where that came from. We’re just starting to see the impact of rising energy prices.”</p>
+
+<p>His message is clear: investors should prepare for turbulence as inflation expectations become unanchored, bond yields drift higher, and the speculative froth that has dominated markets begins to dissipate.</p>
+
+<hr />
+
+<h2 id="breaking-down-the-cpi-data-more-than-meets-the-eye">Breaking Down the CPI Data: More Than Meets the Eye</h2>
+
+<p>The latest Consumer Price Index report showed headline inflation jumping to its highest level in nearly three years. Most of the increase came from gasoline prices, which Noble describes as expected but potentially just the opening act.</p>
+
+<h3 id="core-inflation-remains-sticky">Core Inflation Remains Sticky</h3>
+
+<p>When stripping away food and energy prices, core CPI remained at 2.8%—but Noble argues this number is more concerning than it appears:</p>
+
+<ul>
+  <li><strong>Services inflation has bottomed in the low threes</strong> and is adding up steadily</li>
+  <li><strong>Airline fares</strong> jumped significantly alongside gasoline</li>
+  <li><strong>Energy costs filter into production</strong> of countless consumer goods, creating indirect inflationary pressure that consumers don’t immediately feel</li>
+</ul>
+
+<p>“Strip away food and energy, and you can argue this is transitory,” Noble noted. “But with sticky inflation above three and rising, combined with higher oil prices, it kind of doesn’t paint a pretty picture.”</p>
+
+<h3 id="why-the-fed-cannot-ease-right-now">Why the Fed Cannot Ease Right Now</h3>
+
+<p>Noble is adamant that Federal Reserve easing would be a “huge mistake” at this juncture. The reasoning is straightforward:</p>
+
+<ol>
+  <li>Emerging inflationary pressures are already present</li>
+  <li>Fiscal expansion continues with large tax cuts driving deficits</li>
+  <li>Oil prices rising while the Fed sits idle becomes deflationary through forced economic contraction</li>
+  <li>Any Fed easing would only amplify inflationary pressures</li>
+</ol>
+
+<p>“We’re not in Kansas anymore,” Noble said. “You can’t have any Goldilocks back. That’s not good for markets.”</p>
+
+<hr />
+
+<h2 id="the-bond-markets-dangerous-disconnect">The Bond Market’s Dangerous Disconnect</h2>
+
+<p>Perhaps the most concerning element of the current macroeconomic landscape is what Noble sees as a fundamental mispricing of US government bonds.</p>
+
+<h3 id="the-numbers-dont-add-up">The Numbers Don’t Add Up</h3>
+
+<p>Noble paints a stark picture: “Imagine you go into the bank, you’re making $5 trillion, you’re spending $7 trillion, you’ve got $40 trillion in debt, and you’ve got $125 trillion in off-balance-sheet liabilities. And you ask the bank to lend you money for 10 years at 4.4%. I don’t think they would.”</p>
+
+<p>Yet this is precisely what the US bond market has been doing—selling 10-year Treasuries at yields around 4.4-4.45% despite:</p>
+
+<ul>
+  <li>Inflation running at 3%+ and rising</li>
+  <li>Budget deficits exceeding 7-8% of GDP</li>
+  <li>Global bond yields hitting multi-decade highs (Japanese 10-year yields at 29-year highs, European yields at 20-year highs)</li>
+</ul>
+
+<p>“US bond yields have been remarkably quiescent in comparison,” Noble observed. “I’m not calling for Zimbabwe-type inflation, but let’s think about it.”</p>
+
+<h3 id="oil-and-interest-rates-a-dangerous-correlation">Oil and Interest Rates: A Dangerous Correlation</h3>
+
+<p>When overlaying US 10-year Treasury yields with WTI crude oil prices, the correlation is nearly perfect. For Noble, this reveals that the traditional 60/40 portfolio (60% stocks, 40% bonds) is now critically dependent on oil price direction—and oil is heading higher.</p>
+
+<p>The Middle East situation has reached a stalemate that Noble believes will last far longer than markets anticipate:</p>
+
+<ul>
+  <li><strong>Iranian leverage has never been greater</strong></li>
+  <li><strong>1,600 vessels are trapped in the Strait of Hormuz</strong></li>
+  <li><strong>Iran controls approximately 20% of world oil supply</strong></li>
+  <li><strong>Neither side has incentive to blink first</strong></li>
+</ul>
+
+<p>“This is a giant game of chicken,” Noble explained. “For every day you have this impasse, it’s going to take three days to resolve it. We’ve got higher oil prices baked in the cake.”</p>
+
+<hr />
+
+<h2 id="the-case-for-gold-and-gold-mining-stocks">The Case for Gold and Gold Mining Stocks</h2>
+
+<p>Despite gold and silver experiencing a recent pullback, Noble remains emphatically bullish on the precious metals complex—and particularly on gold mining stocks.</p>
+
+<h3 id="central-banks-are-buying-relentlessly">Central Banks Are Buying Relentlessly</h3>
+
+<p>The most important indicator for gold, according to Noble, is the behavior of global central banks:</p>
+
+<ul>
+  <li><strong>The People’s Bank of China continues purchasing gold aggressively</strong></li>
+  <li><strong>Most foreign central banks are buying gold, not Bitcoin</strong></li>
+  <li><strong>Bank of China added more than eight tons in a single month recently</strong></li>
+  <li><strong>ETF holdings (GLD) are lower now than 10 years ago when gold was much cheaper</strong></li>
+</ul>
+
+<p>“This has not been fueled by widespread public buying,” Noble noted. “The Western investor has not been the one leading this parade. The price of gold has been led by central bank purchasing. I don’t think this is going to end until the public’s all in.”</p>
+
+<h3 id="why-gold-miners-will-outperform">Why Gold Miners Will Outperform</h3>
+
+<p>Noble highlights several factors that make gold mining stocks particularly attractive right now:</p>
+
+<p><strong>Valuation:</strong></p>
+<ul>
+  <li>GDX up approximately 94% over the past year—nearly triple the NASDAQ’s 34% gain</li>
+  <li>Yet gold miners remain massively underowned</li>
+  <li>Mining stocks have massively underperformed tech stocks over the past decade</li>
+</ul>
+
+<p><strong>Cash Flow Generation:</strong></p>
+<ul>
+  <li>Mining companies are generating “copious amounts of cash”</li>
+  <li>Margins at companies like SSR Mining (SSRM) are around 70%</li>
+  <li>Companies are using cash flows for aggressive stock buybacks and dividend increases</li>
+</ul>
+
+<p>“SSR Mining sold their Turkish asset for $1.3 billion,” Noble highlighted. “They’ve got three billion in cash. They’re buying back a ridiculous amount of the float. Stocks like this at seven or eight times earnings, with 70% margins, buying back stock—what’s not to like? The stock could easily double in the next year.”</p>
+
+<p><strong>The De-Equitization Story:</strong></p>
+<ul>
+  <li>Unlike the Mag 7 tech companies, mining companies are actively reducing their share counts</li>
+  <li>This creates structural supply-demand dynamics that favor remaining shareholders</li>
+  <li>The sector is generating superior cash flow relative to historical norms</li>
+</ul>
+
+<h3 id="when-would-noble-turn-bearish-on-gold">When Would Noble Turn Bearish on Gold?</h3>
+
+<p>Noble was definitive about his threshold for becoming negative on gold:</p>
+
+<ul>
+  <li>He will become negative on gold when he becomes “positive on fiat currency”</li>
+  <li>He will become negative on gold when the US implements “sensible fiscal policy”</li>
+  <li>He will become negative on gold when “they stop printing money”</li>
+</ul>
+
+<p>“Right now, we’re just getting more and more of all that,” he said.</p>
+
+<h3 id="tech-vs-gold-miners-the-valuation-reality">Tech vs. Gold Miners: The Valuation Reality</h3>
+
+<p>Noble challenges the notion that gold miners are overbought while tech stocks are not. When examining the 10-year ratio of GDX to QQQ, the chart tells a starkly different story:</p>
+
+<ul>
+  <li><strong>Over the past year:</strong> Gold miners have dramatically outperformed</li>
+  <li><strong>Over the past decade:</strong> Tech stocks have massively outpaced miners</li>
+  <li><strong>The justification:</strong> Tech companies had far superior earnings—until recently</li>
+</ul>
+
+<p>“But now what’s happened because the gold price has gone up so much, gold mining earnings are coming on like crazy,” Noble explained. “The valuation funnily enough has contracted. PEs have gone down. Earnings are accelerating. The valuation is cheap.”</p>
+
+<hr />
+
+<h2 id="the-tech-sectors-fatal-flaw-one-trade-one-dependency">The Tech Sector’s Fatal Flaw: One Trade, One Dependency</h2>
+
+<p>Noble is particularly critical of the technology sector, which he describes as far more homogeneous and risky than most investors realize.</p>
+
+<h3 id="the-data-center-buildout-is-the-only-story">The Data Center Buildout Is the Only Story</h3>
+
+<p>“Going back to this line about Soros—try to figure out what is it the market believes that’s not true and when will they be had,” Noble said. “I think the numbers on these data centers just do not add up.”</p>
+
+<p>His concerns are specific:</p>
+
+<ul>
+  <li><strong>Fully half of data center announcements</strong> for this year have either been cancelled or delayed</li>
+  <li><strong>All hyperscalers are essentially the same trade</strong>—all dependent on data center buildout</li>
+  <li><strong>AI chips are being bought speculatively</strong> in anticipation of future deployment</li>
+</ul>
+
+<p>“This is like buying semiconductors right here, right now,” Noble said. “It’s like taking a three-point shot 10 feet behind the line. It might go in, but you take that shot 10 times and tell me how many times it’s going in.”</p>
+
+<h3 id="the-monetization-question-nobody-wants-to-answer">The Monetization Question Nobody Wants to Answer</h3>
+
+<p>Noble directly challenges the AI investment thesis:</p>
+
+<ul>
+  <li>AI has real applications—he uses it, the hosts use it</li>
+  <li>But <strong>will these companies monetize AI to justify trillions in investment?</strong></li>
+  <li>Companies are taking “all their cash flow and pouring into something which is a commodity”</li>
+</ul>
+
+<p>“You want to talk about a company like Oracle where the stock is lower now than it was prior to that incredible backlog announcement,” Noble noted. “The Oracle CDS are going through the roof. There are real questions about the viability of what they’re doing.”</p>
+
+<h3 id="semiconductors-a-valuation-problem">Semiconductors: A Valuation Problem</h3>
+
+<p>When examining semiconductor stocks through the lens of price-to-earnings ratios, Noble sees a fundamentally flawed approach:</p>
+
+<ul>
+  <li>PEs are “a very myopic, theoretically incorrect way of looking at stocks”</li>
+  <li>A PE is shorthand for discounted cash flow—what matters is earnings years into the future</li>
+  <li><strong>PEs look low because current earnings are high</strong>—but this ignores inevitable supply additions</li>
+  <li>“The way capitalism works, it’s inevitably going to get a lot more supply”</li>
+</ul>
+
+<p>Noble predicts that semiconductor earnings will be “a lot lower three or four years out”—but markets aren’t pricing that risk today.</p>
+
+<hr />
+
+<h2 id="tesla-and-spacex-the-epitome-of-market-dysfunction">Tesla and SpaceX: The Epitome of Market Dysfunction</h2>
+
+<p>Perhaps no topic generated more passion from Noble than his criticism of Tesla and SpaceX, which he characterizes as the “biggest misallocation of capital in the history of markets.”</p>
+
+<h3 id="tesla-capital-destruction-masquerading-as-innovation">Tesla: Capital Destruction Masquerading as Innovation</h3>
+
+<p>Noble’s analysis of Tesla is scathing:</p>
+
+<ul>
+  <li><strong>Market cap:</strong> Approximately $1.5 trillion</li>
+  <li><strong>Total profits ever generated:</strong> Only $38 billion in Tesla’s entire existence</li>
+  <li><strong>Government subsidies received:</strong> Over $20 billion in emission credits and other support</li>
+  <li><strong>Revenue trajectory:</strong> Third consecutive year of declining revenues</li>
+  <li><strong>Earnings estimates collapsed</strong> from $8 to $2 over the past three to four years</li>
+  <li><strong>Stock price unchanged</strong> over four years despite peak valuations</li>
+</ul>
+
+<p>“Tesla lost money for 18 consecutive years from its founding in 2003 until it finally recorded its first year net profit in 2020,” the host interjected.</p>
+
+<p>Noble’s verdict: “The product is the stock. He’s selling hopeium. The fact the stock is where it is has nothing to do with the profits of the car. It’s all about dreams.”</p>
+
+<h3 id="the-self-driving-car-deception">The Self-Driving Car Deception</h3>
+
+<p>“Elon Musk admitted three weeks ago on the call, it ain’t happening,” Noble said flatly. “The robots is a make-believe pretend thing.”</p>
+
+<p>The self-driving car fantasy has been dangled before investors for years:</p>
+
+<ul>
+  <li>Musk promised self-driving cars “by the end of the year” annually for over a decade</li>
+  <li>When extrapolated to its logical conclusion, even if self-driving technology works, <strong>it will become a commodity</strong> like GPS—just another feature on every vehicle</li>
+  <li><strong>Nobody will make money from it</strong> once it becomes ubiquitous</li>
+</ul>
+
+<h3 id="spacex-an-even-more-dangerous-proposition">SpaceX: An Even More Dangerous Proposition</h3>
+
+<p>SpaceX’s proposed IPO values the company at $1.7 trillion—a valuation that defies rational analysis:</p>
+
+<ul>
+  <li><strong>Revenue:</strong> Approximately $15 billion</li>
+  <li><strong>Profits:</strong> Negative (losing money)</li>
+  <li><strong>Valuation multiple:</strong> 120 times sales</li>
+  <li><strong>Private market valuation escalation:</strong> $200 billion → $400 billion → $800 billion → $1.7 trillion</li>
+</ul>
+
+<p>“SpaceX must be stopped,” Noble declared with unusual intensity. “This is about corrupting the integrity of our financial system. This is about David as an American. I don’t think most viewers are probably American—but the idea that you’re going to have some percentage of your net worth in your pension fund invested in a piece of garbage like SpaceX, which is 120 times revenues, put in an index. What are we doing here? Is that in society’s best interest? I don’t think so.”</p>
+
+<h3 id="the-greater-fool-theory-wont-save-you">The Greater Fool Theory Won’t Save You</h3>
+
+<p>When challenged that investors have made money following momentum in Tesla, Noble’s response was sharp:</p>
+
+<p>“Look at the Hall of Fame of greatest investors of all time. Show me one who made his fortune chasing hype. Because at the end of the day, if the hype does not translate into profits and cash flow, it’s a big circle jerk.”</p>
+
+<p>He named his sources: Peter Lynch, Julian Robertson, Stanley Drucker Miller, George Soros, Ken Griffin, Steve Cohen.</p>
+
+<p>“No serious investor manages money that way,” Noble said. “It’s only idiotic Redditors on X who thinks that’s the way you invest. And Elon Musk is exploiting those people.”</p>
+
+<h3 id="why-tesla-remains-at-peak-valuation">Why Tesla Remains at Peak Valuation</h3>
+
+<p>Noble acknowledged that even he has been “run over” shorting Tesla and lost money on the position. But he remains convinced:</p>
+
+<ul>
+  <li>Tesla will likely be “seriously cash flow negative” this year</li>
+  <li>Massive capex spending ($25 billion) outpaces depreciation ($8-10 billion)</li>
+  <li>May be forced to issue equity to cover cash needs</li>
+  <li>If SpaceX IPO happens, attention and capital will flow away from Tesla</li>
+  <li>Rising interest rates and bond yields will disproportionately hit long-duration, high-PE assets</li>
+</ul>
+
+<p>“Stock prices follow earnings,” Noble said. “That’s the way it works. With Tesla, there’s been this unbelievable disconnect. Maybe Tesla’s the exception that proves the rule. I will bet my bottom dollar that this robot thing, this self-driving thing—not happening. Not happening.”</p>
+
+<hr />
+
+<h2 id="finding-income-in-a-broken-bond-market">Finding Income in a Broken Bond Market</h2>
+
+<p>With bond markets challenged and inflation rising, Noble has pivoted his focus toward the “Best Income Ideas Online Summit” scheduled for May 20th—a follow-up to a previous conference that attracted over 800 participants.</p>
+
+<h3 id="the-problem-with-traditional-6040-portfolios">The Problem with Traditional 60/40 Portfolios</h3>
+
+<p>“Bonds have been going down for four consecutive years,” Noble noted. “And the outlook is not particularly promising for bond markets.”</p>
+
+<p>Historically, bonds served as a hedge against economic slowdown and recession. But that risk profile has inverted:</p>
+
+<ul>
+  <li><strong>The biggest risk now is inflation, not recession</strong></li>
+  <li><strong>Government spending is out of control</strong></li>
+  <li><strong>Bonds are not the right hedging instrument</strong> for the current environment</li>
+</ul>
+
+<p>Some analysts have proposed modifications:</p>
+
+<ul>
+  <li><strong>Michael Wilson of Morgan Stanley</strong> advocates for a 60-20-20 portfolio (replace half bonds with gold)</li>
+  <li>Others suggest buying oil (leveraged to rising energy prices)</li>
+</ul>
+
+<h3 id="what-the-summit-will-cover">What the Summit Will Cover</h3>
+
+<p>The Best Income Ideas Summit brings together what Noble calls “the varsity team” of income-focused investors:</p>
+
+<p><strong>Macro Strategists:</strong></p>
+<ul>
+  <li>Michael Howell (global macro expert)</li>
+  <li>Luke Groman (bond market specialist)</li>
+  <li>David Hay (macro themes)</li>
+  <li>Jay Polawski (strategist)</li>
+  <li>John McClellan (technical analysis)</li>
+</ul>
+
+<p><strong>Income Specialists:</strong></p>
+<ul>
+  <li>Steve Cerst of Alpha Pix (income generator with 400% returns since inception vs. 90% for S&amp;P 500)</li>
+  <li>Various Seeking Alpha contributors covering specific sectors</li>
+</ul>
+
+<h3 id="the-uncorrelated-income-opportunity">The Uncorrelated Income Opportunity</h3>
+
+<p>Instead of owning US Treasuries yielding 4-5%, Noble proposes alternatives that offer:</p>
+
+<ul>
+  <li><strong>Higher yields</strong> (e.g., Brazilian bonds yielding 14%)</li>
+  <li><strong>Currency appreciation potential</strong> (e.g., Brazilian real strengthening)</li>
+  <li><strong>Better fiscal situations</strong> in certain emerging markets</li>
+  <li><strong>Leveraged positioning</strong> to rising commodity prices (e.g., Petrobras)</li>
+</ul>
+
+<p>“And maybe there’s a REIT with a well-covered dividend, a rock-solid balance sheet, that can make 8-9%,” Noble added. “The whole idea is how can we enhance yield in uncorrelated sources of income to replace your bond allocation.”</p>
+
+<h3 id="performance-track-records">Performance Track Records</h3>
+
+<p>The speakers at the summit have delivered exceptional results:</p>
+
+<ul>
+  <li><strong>Sam Smith:</strong> Up 19% annualized</li>
+  <li><strong>James Minchimer:</strong> Up 34-35% annualized</li>
+  <li><strong>Alpha Pix:</strong> 400% total return since inception</li>
+</ul>
+
+<p>“For $99, you’re never going to find a better conference,” Noble said.</p>
+
+<hr />
+
+<h2 id="the-societal-cost-of-suppressed-interest-rates">The Societal Cost of Suppressed Interest Rates</h2>
+
+<p>Noble offers a contrarian perspective on higher interest rates—arguing that they might actually be healthier for the economy than the alternative.</p>
+
+<h3 id="hyperfinancialization-is-the-real-problem">Hyperfinancialization Is the Real Problem</h3>
+
+<p>When interest rates are suppressed below “neutral” levels:</p>
+
+<ul>
+  <li>It encourages speculation over productive investment</li>
+  <li>Companies engage in leverage, M&amp;A, and stock buybacks rather than building productive assets</li>
+  <li>Wealth inequality widens between asset owners and non-owners</li>
+  <li>The K-shaped economy disadvantages those without substantial portfolios</li>
+</ul>
+
+<p>“The guys who own the assets are doing just great,” Noble observed. “But if you’re one of those who doesn’t have a big portfolio, you’re on the wrong side of this because you can’t afford stocks, real estate assets too high, the cost of housing is too high.”</p>
+
+<h3 id="higher-rates-would-rebalance-the-economy">Higher Rates Would Rebalance the Economy</h3>
+
+<p>“Higher interest rates rather than being feared, they’re actually the pro,” Noble argued. “Lower rates are the problem. Higher interest rates would lead to a better rebalancing of the economy.”</p>
+
+<p>The challenge, of course, is that transitioning to higher rates causes dislocation—highly valued assets will “take it on the head.” But Noble sees this as a necessary correction.</p>
+
+<hr />
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+
+<h3 id="1-the-market-rally-is-built-on-fragile-foundations">1. The Market Rally Is Built on Fragile Foundations</h3>
+<p>The six-week rally has created “incredibly</p>
+
+  </div>
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo">Financial Thoughts</span>
+        <span class="footer-copy">© 2026 Financial Thoughts. All rights reserved.</span>
+      </div>
+      <div class="footer-links">
+        <a href="/financial-thoughts/">Home</a>
+        <a href="/financial-thoughts/#articles">Articles</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme management
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      const icon = document.getElementById('themeIcon');
+      if (icon) icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+
+    // Reading progress bar
+    window.addEventListener('scroll', () => {
+      const bar = document.getElementById('progressBar');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = progress + '%';
+    });
+  </script>
+</body>
+</html>

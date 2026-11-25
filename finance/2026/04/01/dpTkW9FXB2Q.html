@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interview with Danielle T. Martino Booth: Consumer Squeeze & Fed Policy Amid Oil Shock</title>
+  <meta name="description" content="**Source:** *Fed Pivot* (YouTube: https://youtu.be/dpTkW9FXB2Q)">
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #fafbfc;
+      --bg-secondary: #ffffff;
+      --bg-tertiary: #f0f2f5;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-tertiary: #94a3b8;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --accent-glow: rgba(37, 99, 235, 0.15);
+      --border: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --header-bg: rgba(255, 255, 255, 0.8);
+      --header-border: rgba(226, 232, 240, 0.6);
+      --footer-bg: #0f172a;
+      --footer-text: #94a3b8;
+      --code-bg: #f1f5f9;
+      --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1e40af 100%);
+      --gradient-accent: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+      --category-finance: #2563eb;
+      --category-finance-bg: #eff6ff;
+      --category-investing: #059669;
+      --category-investing-bg: #ecfdf5;
+      --category-economy: #d97706;
+      --category-economy-bg: #fffbeb;
+      --category-crypto: #7c3aed;
+      --category-crypto-bg: #f5f3ff;
+      --category-default: #64748b;
+      --category-default-bg: #f1f5f9;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-tertiary: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-tertiary: #64748b;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-light: #1e3a5f;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --border: #1e293b;
+      --border-hover: #334155;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(11, 17, 32, 0.85);
+      --header-border: rgba(30, 41, 59, 0.6);
+      --footer-bg: #050a15;
+      --footer-text: #64748b;
+      --code-bg: #1e293b;
+      --gradient-hero: linear-gradient(135deg, #050a15 0%, #0f172a 50%, #1e293b 100%);
+      --category-finance-bg: #1e3a5f;
+      --category-investing-bg: #064e3b;
+      --category-economy-bg: #78350f;
+      --category-crypto-bg: #4c1d95;
+      --category-default-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-primary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+    /* ── Reading Progress Bar ── */
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: var(--gradient-accent);
+      z-index: 1000;
+      transition: width 0.1s ease;
+    }
+
+    /* ── Header ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--header-bg);
+      backdrop-filter: blur(20px) saturate(180%);
+      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--header-border);
+      transition: all 0.3s ease;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: var(--gradient-accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 16px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav { display: flex; align-items: center; gap: 8px; }
+
+    .nav-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--text-primary);
+      background: var(--bg-tertiary);
+    }
+
+    .nav-link.active {
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .theme-toggle {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      margin-left: 8px;
+    }
+
+    .theme-toggle:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      transform: scale(1.05);
+    }
+
+    /* ── Main Content ── */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Hero Section ── */
+    .hero-section {
+      background: var(--gradient-hero);
+      border-radius: var(--radius-xl);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(124, 58, 237, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 680px;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 24px;
+    }
+
+    .hero-badge-dot {
+      width: 6px;
+      height: 6px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 540px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+    }
+
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .hero-stat-label {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.5);
+      font-weight: 500;
+    }
+
+    /* ── Section Header ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .section-filter {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Article Grid ── */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient-accent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .article-card:hover {
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+    }
+
+    .article-card:hover::before {
+      opacity: 1;
+    }
+
+    .article-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .article-category {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 100px;
+    }
+
+    .category-finance { color: var(--category-finance); background: var(--category-finance-bg); }
+    .category-investing { color: var(--category-investing); background: var(--category-investing-bg); }
+    .category-economy { color: var(--category-economy); background: var(--category-economy-bg); }
+    .category-crypto { color: var(--category-crypto); background: var(--category-crypto-bg); }
+    .category-default { color: var(--category-default); background: var(--category-default-bg); }
+
+    .article-video-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-excerpt {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 18px;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* ── Featured Article ── */
+    .featured-card {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+
+    .featured-card .article-title {
+      font-size: 26px;
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-card .article-excerpt {
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .page-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .page-link.nav-link-btn {
+      font-weight: 600;
+    }
+
+    /* ── Article Detail ── */
+    .article-detail {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 0;
+      margin-bottom: 24px;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover { color: var(--accent); }
+
+    .article-header {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article-header .article-category {
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .article-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: var(--text-tertiary);
+    }
+
+    .meta-separator {
+      width: 4px;
+      height: 4px;
+      background: var(--text-tertiary);
+      border-radius: 50%;
+    }
+
+    /* ── Video Link Card ── */
+    .video-link-card {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+
+    .video-link-card:hover {
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .video-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .video-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: #fff;
+    }
+
+    .video-info { flex: 1; }
+
+    .video-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .video-link:hover { text-decoration: underline; }
+
+    .video-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* ── Content / Markdown ── */
+    .article-content {
+      font-size: 17px;
+      line-height: 1.8;
+      color: var(--text-primary);
+    }
+
+    .article-content h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      margin: 48px 0 20px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .article-content h3 {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 36px 0 16px;
+      color: var(--text-primary);
+    }
+
+    .article-content p { margin-bottom: 20px; }
+
+    .article-content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .article-content strong { font-weight: 600; }
+
+    .article-content ul, .article-content ol {
+      margin-bottom: 20px;
+      padding-left: 24px;
+    }
+
+    .article-content li { margin-bottom: 8px; }
+
+    .article-content blockquote {
+      border-left: 4px solid var(--accent);
+      padding: 16px 24px;
+      margin: 24px 0;
+      background: var(--bg-tertiary);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .article-content code {
+      background: var(--code-bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .article-content pre {
+      background: var(--code-bg);
+      padding: 20px;
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+
+    .article-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+    }
+
+    .article-content th,
+    .article-content td {
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      text-align: left;
+    }
+
+    .article-content th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+    }
+
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--footer-bg);
+      padding: 48px 24px;
+      margin-top: 80px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .footer-copy {
+      font-size: 14px;
+      color: var(--footer-text);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--footer-text);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover { color: #fff; }
+
+    /* ── Animations ── */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .article-card { animation: fadeInUp 0.5s ease forwards; }
+    .article-card:nth-child(1) { animation-delay: 0.05s; }
+    .article-card:nth-child(2) { animation-delay: 0.1s; }
+    .article-card:nth-child(3) { animation-delay: 0.15s; }
+    .article-card:nth-child(4) { animation-delay: 0.2s; }
+    .article-card:nth-child(5) { animation-delay: 0.25s; }
+    .article-card:nth-child(6) { animation-delay: 0.3s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .header-inner { padding: 0 16px; height: 56px; }
+      .logo-text { font-size: 17px; }
+      .nav-link { padding: 6px 10px; font-size: 13px; }
+      .main-content { padding: 20px 16px 48px; }
+      .hero-section { padding: 40px 24px; border-radius: var(--radius-lg); }
+      .hero-title { font-size: 32px; }
+      .hero-subtitle { font-size: 16px; }
+      .hero-stats { gap: 24px; }
+      .hero-stat-value { font-size: 24px; }
+      .article-grid { grid-template-columns: 1fr; gap: 16px; }
+      .featured-card { grid-template-columns: 1fr; gap: 20px; padding: 24px; }
+      .featured-card .article-title { font-size: 22px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+      .section-title { font-size: 24px; }
+      .article-header h1 { font-size: 28px; }
+      .article-content { font-size: 16px; }
+      .article-content h2 { font-size: 24px; }
+      .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+      .video-link-card { flex-direction: column; text-align: center; }
+    }
+
+    @media (max-width: 480px) {
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .section-filter { flex-wrap: wrap; }
+      .article-header-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .meta-separator { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="/financial-thoughts/" class="logo">
+        <div class="logo-icon">F</div>
+        <span class="logo-text">Financial Thoughts</span>
+      </a>
+      <nav class="nav">
+        <a href="/financial-thoughts/" class="nav-link">Home</a>
+        <a href="/financial-thoughts/#articles" class="nav-link">Articles</a>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle theme">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+    Back to Articles
+  </a>
+
+  <div class="article-header">
+    
+    <span class="article-category category-finance">finance</span>
+    <h1>Interview with Danielle T. Martino Booth: Consumer Squeeze & Fed Policy Amid Oil Shock</h1>
+    <div class="article-header-meta">
+      <span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        April 01, 2026
+      </span>
+      <span class="meta-separator"></span>
+      
+        <span>2760 words</span>
+        <span class="meta-separator"></span>
+      
+      
+      
+    </div>
+  </div>
+
+  
+  <div class="video-link-card">
+    <div class="video-icon">
+      <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+    </div>
+    <div class="video-info">
+      <a href="https://www.youtube.com/watch?v=dpTkW9FXB2Q" target="_blank" class="video-link">
+        Watch Source Video
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      <div class="video-meta">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="article-content">
+    <p><strong>Source:</strong> <em>Fed Pivot</em> (YouTube: https://youtu.be/dpTkW9FXB2Q)<br />
+<strong>Guest:</strong> Danielle T. Martino Booth, CEO of QI Research<br />
+<strong>Topic:</strong> The intersection of the Strait of Hormuz closure, labor market deterioration, inflation expectations, and Federal Reserve policy.</p>
+
+<hr />
+
+<h2 id="introduction-a-labor-market-like-never-before">Introduction: A Labor Market Like Never Before</h2>
+
+<p>The current economic landscape is defined by volatility. In a recent interview on <em>Fed Pivot</em>, host David discussed the profound implications of the potential closure of the Strait of Hormuz on capital markets, consumers, and Federal Reserve (Fed) policy.</p>
+
+<p>Danielle T. Martino Booth, CEO of QI Research, joined the conversation to dissect what’s next for inflation, the broader economy, and how long consumers can remain afloat before oil prices consume their entire disposable income.</p>
+
+<h3 id="the-unprecedented-labor-market-deterioration">The Unprecedented Labor Market Deterioration</h3>
+
+<p>The discussion began with a stark observation regarding the U.S. labor market. Danielle noted that the current trajectory is unlike any previous economic downturn.</p>
+
+<blockquote>
+  <p>“We’ve never seen anything like this. Even during the Great Recession, the most we’d seen was 11 consecutive [months of downward revisions]. Now we’ve seen 13.”</p>
+</blockquote>
+
+<p>This refers to 13 consecutive months of downward revisions in real-time employment data. Danielle clarified that the situation is not merely stagnant; it is actively negative:</p>
+
+<blockquote>
+  <p>“It’s not actually no jobs that were created in 2025, but actually jobs were destroyed.”</p>
+</blockquote>
+
+<p>While initial jobless claims data released every Thursday morning often appears benign, Danielle points out a critical flaw in how this data is interpreted:</p>
+
+<blockquote>
+  <p>“Well, that’s not when you consider that that again only a quarter of unemployed Americans are actually collecting are actually even filing for unemployment.”</p>
+</blockquote>
+
+<p>Only about <strong>25%</strong> of unemployed Americans are currently collecting unemployment benefits. This low participation rate stems from structural changes in the labor market over the last 50 years.</p>
+
+<blockquote>
+  <p>“You know 50 years ago when you applied for unemployment benefits it covered about 2/3 of what your living needs were. Today that’s been cut in half. They only cover about onethird. So that’s why we’ve seen so many people not applying for initial jobless claims and working in the gig economy.”</p>
+</blockquote>
+
+<p>Consequently, millions of workers have migrated into the gig economy (e.g., Uber, Lift, Door Dash). For these workers, high gasoline prices hit harder than for traditional employees, as they must pay for fuel to work.</p>
+
+<blockquote>
+  <p>“Think about the effect that high gasoline prices are having on these particular kinds of workers. They’ve got to fill up their gas tanks to work in addition to having to pay more to begin with. So, you know, if I could throw something out there, David, that I think will surprise you… of all of the unemployed workers in the United States right now, only about one in four is collecting unemployment insurance.”</p>
+</blockquote>
+
+<p>Furthermore, the cost burden is significant. Danielle highlighted that households are spending an average of <strong>$75 a week</strong> (or <strong>$75 a month</strong> at the margin, as clarified later in the transcript) just to fill up their gas tanks.</p>
+
+<blockquote>
+  <p>“That’s going to eat up a lot of emergency cushions very quickly.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="inflation-dynamics-headline-vs-core">Inflation Dynamics: Headline vs. Core</h2>
+
+<p>A key indicator of consumer behavior is the divergence between headline and core inflation.</p>
+
+<ul>
+  <li><strong>Headline Inflation:</strong> Around <strong>1.75%</strong>.</li>
+  <li><strong>Core Inflation:</strong> Around <strong>1.3%</strong>.</li>
+</ul>
+
+<p>Both figures remain below the Fed’s 2% target, but the divergence tells a story of shifting consumer behavior.</p>
+
+<blockquote>
+  <p>“Now that it’s on the Bloomberg terminal, we can follow it more closely, track it with other series. Um, you’re seeing core trueflation uh running appreciably below uh that of headline trueflation. Headline trueflation is around call it 1.75% core is around 1.3% both still below the Fed’s 2% target. But when you’re seeing core run below headline, that’s telling you that consumers are already cutting back on um discretionary purchases and that’s going to hurt companies that were already hurting uh to an even greater extent.”</p>
+</blockquote>
+
+<p>This “consumer squeeze” suggests that as oil prices rise, households are prioritizing essentials over discretionary goods, directly impacting corporate revenue.</p>
+
+<hr />
+
+<h2 id="the-tax-refund-buffer-expectations-vs-reality">The Tax Refund Buffer: Expectations vs. Reality</h2>
+
+<p>Before the oil shock escalated, there were high hopes for a robust economic buffer. A “big beautiful bill” had led to expectations that the average tax refund in 2026 would be <strong>$1,000 higher</strong> than in 2025.</p>
+
+<blockquote>
+  <p>“We were skeptical of that at QI. And as things turn out with the latest week in hand, the marginal increase is about <strong>$350 yearover-year</strong>.”</p>
+</blockquote>
+
+<p>This smaller-than-expected increase significantly impacts sectors like automobile dealers and household spending buffers. For those without tax refunds—particularly gig workers—the higher oil prices hit directly.</p>
+
+<blockquote>
+  <p>“And that had that will have ripple effects. And that’s just for for households that received a tax refund. uh for those who don’t, especially these gig workers, 1099 workers who don’t even um get tax refunds, uh those higher oil prices are coming straight out of their wallets.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="federal-reserve-policy-responding-to-supply-vs-demand-shocks">Federal Reserve Policy: Responding to Supply vs. Demand Shocks</h2>
+
+<p>The interview also delved into how the Fed should respond to the energy shock, referencing a clip of Fed Chair Jerome Powell speaking at Harvard University.</p>
+
+<h3 id="jerome-powells-framework">Jerome Powell’s Framework</h3>
+
+<p>Powell explained the trade-offs the Fed faces when dealing with energy shocks:</p>
+
+<blockquote>
+  <p>“In the Middle East and the effect on energy prices. Indeed, this classroom is familiar with that question from the last problem set where we asked, ‘How would you advise the Fed to respond to the rising price of oil?’ And we teach that when there’s a demand shock, it’s a pretty natural set of recommendations that emerge for the Fed. But when there’s a supply shock like this energy price shock, there’s trade-offs that the Fed has to juggle.”</p>
+</blockquote>
+
+<p>Powell noted that monetary policy tools work primarily on demand:</p>
+<ul>
+  <li><strong>Higher rates</strong> moderate demand.</li>
+  <li><strong>Lower rates</strong> stimulate demand.</li>
+  <li><strong>Supply shocks</strong> (like oil) do not respond meaningfully to short-term rate changes.</li>
+</ul>
+
+<blockquote>
+  <p>“So, uh, so when you have a supply shock, the first question is, do you respond to it? And the the classic question has been around energy, uh, just in general. I’m not really speaking about the current situation, although I’ll get to that, I guess, but uh, you know, energy shocks have tended to come and go pretty quickly. Monetary policy works with long and variable lags, famously. And so by the time the effects of of a tightening in monetary policy take effect, uh, you know, the the oil price shock is probably long gone and you’re, you know, you’re you’re weighing on the economy at a time when it’s not appropriate. So the tendency is to look through any kind of a supply shock.”</p>
+</blockquote>
+
+<p>However, Powell emphasized the importance of monitoring inflation expectations:</p>
+
+<blockquote>
+  <p>“But a critical essential aspect of that is you have to have to carefully monitor inflation expectations because you can have a series of these supply shocks and that can lead you know the public generally businesses price setters households lead them to start expecting higher inflation over time.”</p>
+</blockquote>
+
+<h3 id="market-reaction-the-yield-curve-flattening">Market Reaction: The Yield Curve Flattening</h3>
+
+<p>The bond market’s reaction reflects this debate. The Tangent yield (US 10-year yield) has been rising since early March, suggesting higher inflation. However, major banks like JP Morgan and Goldman Sachs are now cautious, fearing the shock could turn into a demand shock.</p>
+
+<blockquote>
+  <p>“Well, what what Cher Powell is saying is we don’t want for inflation expectations to become ingrained in household psyches uh because that can permanently raise what their anticipation is going to be for inflation going forward. Um you know, I I would continue on his thoughts by saying if that is the case, then you’re going to uh further impair household spending on anything but essentials. Again, with the caveat that so many households are already only spending what they have on essentials because we’re in the process of wages disinflating.”</p>
+</blockquote>
+
+<p>This fear of an adverse feedback loop—where higher gas prices lead to lower spending, which leads to more layoffs and higher unemployment—has caused a dramatic reversal in yields, leading to a flattening of the yield curve.</p>
+
+<blockquote>
+  <p>“So you could really end up setting up for a a you know an adverse feedback loop which is which is what economists call it in which higher gas prices anticipation that they’re going to stay high feed through to other areas of the economy perpetuating the cycle of layoffs and an increasing unemployment rate.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="the-dollar-dxy-and-safe-haven-status">The Dollar (DXY) and Safe Haven Status</h2>
+
+<p>With global distress, the U.S. dollar (DXY) has trended upward, currently around <strong>100</strong>, with some speculating it could reach <strong>120</strong> this year.</p>
+
+<blockquote>
+  <p>“I’d like to play for you um this clip of uh Fed Chair Jerome Powell um at a talk at Harvard University out just today. This is from CNBC. Take a listen… Do you see a scenario in which the DXY and I’ll just pull up the DXY here for you. Uh the DXY has also been trending up ever since the Iran war broke out as uh investors globally sought the US dollar as a safe haven. Do you see a scenario in which the DXY reaches 120 this year? It’s currently at 100.”</p>
+</blockquote>
+
+<p>Danielle noted that in times of global distress, the dollar tends to be treated as a safe haven, especially by countries borrowing in dollars.</p>
+
+<blockquote>
+  <p>“In times of global distress, we do tend to see the dollar treated as the safe haven. If this is going to be a prolonged um situation in Iran, then I you would think that the dollar would find continue to find support here um as people flock to it, especially a lot of the countries that borrow in dollars.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="fed-chair-transition-powell-vs-wors">Fed Chair Transition: Powell vs. Wors</h2>
+
+<p>The interview touched on the potential replacement of Jerome Powell. Betting markets suggest:</p>
+<ul>
+  <li><strong>29%</strong> chance Powell leaves by June.</li>
+  <li><strong>51%</strong> chance Powell leaves by August.</li>
+</ul>
+
+<p>This is linked to the administration’s efforts to drop criminal charges against Powell, paving the way for Kevin Wors (a placeholder name in the transcript, likely referring to a specific successor candidate) to be confirmed.</p>
+
+<blockquote>
+  <p>“So, I’m going to go with the betting markets here. And right now there’s a 29% chance that Powell will uh will be out by June. There’s a 51% chance that he’ll be out by August.”</p>
+</blockquote>
+
+<p>Danielle believes any successor will be more dovish than Powell, as Powell has little incentive to favor the administration going into midterms.</p>
+
+<blockquote>
+  <p>“So, I think anybody uh any central banker worth their salt will certainly see that in inflation expectations further out are falling. Um, so no, I think it’s critical when Kevin Wors takes office because as Tre Powell has no incentive at all, regardless of what the data says to throw any favors to this administration going into the midterm elections.”</p>
+</blockquote>
+
+<p>Even if a successor is confirmed, the current inflation expectations make their hands tied:</p>
+
+<blockquote>
+  <p>“In other words, whoever is next after Powell is going to have his hands tied because of higher inflation expectations from what’s currently happening, not even what’s about to happen.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="corporate-margins-ai-and-the-right-sizing-of-workforces">Corporate Margins, AI, and the “Right-Sizing” of Workforces</h2>
+
+<p>As oil prices remain high, companies face rising input costs (e.g., fertilizer, gasoline). To protect margins, they may cut labor costs further.</p>
+
+<blockquote>
+  <p>“Fertilizer is the most obvious example. Um, so to the extent that that companies are getting their margins squeezed again, think of what happened with tariffs and what companies did to protect their margins in the face of higher input costs due to tariffs. Now they’re higher input costs due to gasoline prices, energy prices, that filtering through to other input costs. It’s the same exact backdrop. It’s the same exact setup that will cause companies to then cut another layer of costs.”</p>
+</blockquote>
+
+<p>AI and automation are often cited as reasons for layoffs, but Danielle views this partly as a “red herring.”</p>
+
+<blockquote>
+  <p>“Well, as we’re learning quickly that’s becoming that that’s become a red herring. There was overhiring done in the immediate aftermath of the pandemic and I think right now a lot of companies are right sizing um their workforces.”</p>
+</blockquote>
+
+<p>The risk lies in cutting beyond pre-pandemic levels, especially as energy costs rise.</p>
+
+<blockquote>
+  <p>“The risk is if they go beyond that point and start to reduce workforces beyond where they were in 2020. Um and again I I I think that the possibility of going that way I is increasing as a factor of time especially given this latest energy shock that’s filtering through to other costs rising.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="the-debt-crisis-and-asset-allocation">The Debt Crisis and Asset Allocation</h2>
+
+<p>The interview concluded with a look at the broader debt crisis, which Jerome Powell himself has acknowledged as a looming threat.</p>
+
+<blockquote>
+  <p>“So basically what you’re saying is more layoffs will happen before this gets better unless something dramatic changes because again we’re not seeing the benefits that we were supposed to be seeing at this point from one big beautiful bill. M do you think corporate margins will actually increase or improve from here on because of higher layoffs um especially if people are companies are claiming to lay people off because of AI and automation taking over?”</p>
+</blockquote>
+
+<p>Powell noted:</p>
+<blockquote>
+  <p>“So to the extent that the United States fiscal authorities are being inefficient with taxpayer revenues and servicing debt is by definition inefficient. Um there is less in the way of fiscal latitude to invest in growth opportunities for the US economy that would come from fiscal authorities such as expanding vocational training, increasing incentives for uh for individuals to get trade type of skills. Um these are all things that can be done when your fiscal house is in order. uh they’re procluded from being done. However, when you’re concerned about all the money that you need to take in from taxpayers just in order to service that debt.”</p>
+</blockquote>
+
+<h3 id="key-data-points-on-debt">Key Data Points on Debt:</h3>
+<ul>
+  <li><strong>Net Interest on Debt:</strong> The Congressional Budget Office (CBO) projects net interest on the debt alone to be <strong>$2.1 trillion by 2036</strong>, which is double the current level.</li>
+  <li><strong>Total National Debt:</strong> As of March 17, the national debt was <strong>$13.39 trillion</strong>.</li>
+</ul>
+
+<blockquote>
+  <p>“Uh, he’s certainly not talking about that. And that’s exactly what the Fed did in the immediate aftermath of the pandemic hitting. They monetized trillions of dollars of debt.”</p>
+</blockquote>
+
+<p>Given this, asset allocation priorities are shifting toward survival rather than aggressive growth.</p>
+
+<blockquote>
+  <p>“So, when it comes to asset allocation, the priorities right now are to survive what is looking at looking like no resolution so far to this oil crisis. We’re looking at a weaker labor market as we talked about and rising debt that isn’t going to be resolved.”</p>
+</blockquote>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>The economic outlook is challenging, characterized by:</p>
+<ol>
+  <li><strong>13 consecutive months</strong> of downward revisions in employment data (vs. 11 in the Great Recession).</li>
+  <li><strong>Core inflation</strong> running below headline inflation, signaling reduced discretionary spending.</li>
+  <li><strong>Tax refunds</strong> growing slower than expected ($350 vs. $1,000 YoY).</li>
+  <li><strong>Gig economy workers</strong> bearing the brunt of rising fuel costs.</li>
+  <li><strong>Fed policy</strong> balancing between supply shocks and potential demand slowdowns.</li>
+  <li><strong>Rising debt</strong> ($13.39T) creating fiscal constraints that limit investment in growth.</li>
+</ol>
+
+<p>As Danielle summarized:</p>
+<blockquote>
+  <p>“Well, everyone’s also watching who is going to be the next Fed chair and when… So, the last FOMC meeting a couple weeks ago was dominated by questions regarding inflation expectations that the Fed has and how they will respond to higher oil prices.”</p>
+</blockquote>
+
+<p>The consensus is that clarity from leadership—whether from the Fed, the administration, or Congress—is needed to reverse the trend of hiring freezes and cost-cutting. Until then, the focus remains on survival.</p>
+
+<blockquote>
+  <p>“This has to reverse. This has to shift and the shift has to come from on high from leadership… So basically what you’re saying is more layoffs will happen before this gets better unless something dramatic changes.”</p>
+</blockquote>
+
+<hr />
+
+<h3 id="sponsor-mention-monetary-metals">Sponsor Mention: Monetary Metals</h3>
+<p><em>Before the deep dive into labor markets, the interview highlighted the sponsor, <strong>Monetary Metals</strong>, which offers a unique approach to gold investment. Instead of just holding gold, investors can earn a yield (up to 4% annually) paid in physical ounces through their leasing platform. This allows the metal to generate income rather than sitting idle while paying storage costs.</em></p>
+
+<blockquote>
+  <p>“Visit monetary-medals.com/link in the description down below or scan the QR code here to learn more.”</p>
+</blockquote>
+
+<hr />
+
+<p><em>Article prepared based on the transcript from “Fed Pivot” featuring Danielle T. Martino Booth.</em></p>
+
+  </div>
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo">Financial Thoughts</span>
+        <span class="footer-copy">© 2026 Financial Thoughts. All rights reserved.</span>
+      </div>
+      <div class="footer-links">
+        <a href="/financial-thoughts/">Home</a>
+        <a href="/financial-thoughts/#articles">Articles</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme management
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      const icon = document.getElementById('themeIcon');
+      if (icon) icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+
+    // Reading progress bar
+    window.addEventListener('scroll', () => {
+      const bar = document.getElementById('progressBar');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = progress + '%';
+    });
+  </script>
+</body>
+</html>

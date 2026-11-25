@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Housing Market Has Quietly Broken: What This Means for the Economy</title>
+  <meta name="description" content="*Two central arguments reveal where the business cycle is headed—and why the stock market may not be the leading indicator most investors believe it is.*">
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #fafbfc;
+      --bg-secondary: #ffffff;
+      --bg-tertiary: #f0f2f5;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-tertiary: #94a3b8;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --accent-glow: rgba(37, 99, 235, 0.15);
+      --border: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --header-bg: rgba(255, 255, 255, 0.8);
+      --header-border: rgba(226, 232, 240, 0.6);
+      --footer-bg: #0f172a;
+      --footer-text: #94a3b8;
+      --code-bg: #f1f5f9;
+      --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1e40af 100%);
+      --gradient-accent: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+      --category-finance: #2563eb;
+      --category-finance-bg: #eff6ff;
+      --category-investing: #059669;
+      --category-investing-bg: #ecfdf5;
+      --category-economy: #d97706;
+      --category-economy-bg: #fffbeb;
+      --category-crypto: #7c3aed;
+      --category-crypto-bg: #f5f3ff;
+      --category-default: #64748b;
+      --category-default-bg: #f1f5f9;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-tertiary: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-tertiary: #64748b;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-light: #1e3a5f;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --border: #1e293b;
+      --border-hover: #334155;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(11, 17, 32, 0.85);
+      --header-border: rgba(30, 41, 59, 0.6);
+      --footer-bg: #050a15;
+      --footer-text: #64748b;
+      --code-bg: #1e293b;
+      --gradient-hero: linear-gradient(135deg, #050a15 0%, #0f172a 50%, #1e293b 100%);
+      --category-finance-bg: #1e3a5f;
+      --category-investing-bg: #064e3b;
+      --category-economy-bg: #78350f;
+      --category-crypto-bg: #4c1d95;
+      --category-default-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-primary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+    /* ── Reading Progress Bar ── */
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: var(--gradient-accent);
+      z-index: 1000;
+      transition: width 0.1s ease;
+    }
+
+    /* ── Header ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--header-bg);
+      backdrop-filter: blur(20px) saturate(180%);
+      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--header-border);
+      transition: all 0.3s ease;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: var(--gradient-accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 16px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav { display: flex; align-items: center; gap: 8px; }
+
+    .nav-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--text-primary);
+      background: var(--bg-tertiary);
+    }
+
+    .nav-link.active {
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .theme-toggle {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      margin-left: 8px;
+    }
+
+    .theme-toggle:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      transform: scale(1.05);
+    }
+
+    /* ── Main Content ── */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Hero Section ── */
+    .hero-section {
+      background: var(--gradient-hero);
+      border-radius: var(--radius-xl);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(124, 58, 237, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 680px;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 24px;
+    }
+
+    .hero-badge-dot {
+      width: 6px;
+      height: 6px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 540px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+    }
+
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .hero-stat-label {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.5);
+      font-weight: 500;
+    }
+
+    /* ── Section Header ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .section-filter {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Article Grid ── */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient-accent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .article-card:hover {
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+    }
+
+    .article-card:hover::before {
+      opacity: 1;
+    }
+
+    .article-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .article-category {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 100px;
+    }
+
+    .category-finance { color: var(--category-finance); background: var(--category-finance-bg); }
+    .category-investing { color: var(--category-investing); background: var(--category-investing-bg); }
+    .category-economy { color: var(--category-economy); background: var(--category-economy-bg); }
+    .category-crypto { color: var(--category-crypto); background: var(--category-crypto-bg); }
+    .category-default { color: var(--category-default); background: var(--category-default-bg); }
+
+    .article-video-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-excerpt {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 18px;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* ── Featured Article ── */
+    .featured-card {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+
+    .featured-card .article-title {
+      font-size: 26px;
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-card .article-excerpt {
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .page-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .page-link.nav-link-btn {
+      font-weight: 600;
+    }
+
+    /* ── Article Detail ── */
+    .article-detail {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 0;
+      margin-bottom: 24px;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover { color: var(--accent); }
+
+    .article-header {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article-header .article-category {
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .article-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: var(--text-tertiary);
+    }
+
+    .meta-separator {
+      width: 4px;
+      height: 4px;
+      background: var(--text-tertiary);
+      border-radius: 50%;
+    }
+
+    /* ── Video Link Card ── */
+    .video-link-card {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+
+    .video-link-card:hover {
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .video-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .video-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: #fff;
+    }
+
+    .video-info { flex: 1; }
+
+    .video-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .video-link:hover { text-decoration: underline; }
+
+    .video-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* ── Content / Markdown ── */
+    .article-content {
+      font-size: 17px;
+      line-height: 1.8;
+      color: var(--text-primary);
+    }
+
+    .article-content h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      margin: 48px 0 20px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .article-content h3 {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 36px 0 16px;
+      color: var(--text-primary);
+    }
+
+    .article-content p { margin-bottom: 20px; }
+
+    .article-content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .article-content strong { font-weight: 600; }
+
+    .article-content ul, .article-content ol {
+      margin-bottom: 20px;
+      padding-left: 24px;
+    }
+
+    .article-content li { margin-bottom: 8px; }
+
+    .article-content blockquote {
+      border-left: 4px solid var(--accent);
+      padding: 16px 24px;
+      margin: 24px 0;
+      background: var(--bg-tertiary);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .article-content code {
+      background: var(--code-bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .article-content pre {
+      background: var(--code-bg);
+      padding: 20px;
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+
+    .article-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+    }
+
+    .article-content th,
+    .article-content td {
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      text-align: left;
+    }
+
+    .article-content th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+    }
+
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--footer-bg);
+      padding: 48px 24px;
+      margin-top: 80px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .footer-copy {
+      font-size: 14px;
+      color: var(--footer-text);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--footer-text);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover { color: #fff; }
+
+    /* ── Animations ── */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .article-card { animation: fadeInUp 0.5s ease forwards; }
+    .article-card:nth-child(1) { animation-delay: 0.05s; }
+    .article-card:nth-child(2) { animation-delay: 0.1s; }
+    .article-card:nth-child(3) { animation-delay: 0.15s; }
+    .article-card:nth-child(4) { animation-delay: 0.2s; }
+    .article-card:nth-child(5) { animation-delay: 0.25s; }
+    .article-card:nth-child(6) { animation-delay: 0.3s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .header-inner { padding: 0 16px; height: 56px; }
+      .logo-text { font-size: 17px; }
+      .nav-link { padding: 6px 10px; font-size: 13px; }
+      .main-content { padding: 20px 16px 48px; }
+      .hero-section { padding: 40px 24px; border-radius: var(--radius-lg); }
+      .hero-title { font-size: 32px; }
+      .hero-subtitle { font-size: 16px; }
+      .hero-stats { gap: 24px; }
+      .hero-stat-value { font-size: 24px; }
+      .article-grid { grid-template-columns: 1fr; gap: 16px; }
+      .featured-card { grid-template-columns: 1fr; gap: 20px; padding: 24px; }
+      .featured-card .article-title { font-size: 22px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+      .section-title { font-size: 24px; }
+      .article-header h1 { font-size: 28px; }
+      .article-content { font-size: 16px; }
+      .article-content h2 { font-size: 24px; }
+      .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+      .video-link-card { flex-direction: column; text-align: center; }
+    }
+
+    @media (max-width: 480px) {
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .section-filter { flex-wrap: wrap; }
+      .article-header-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .meta-separator { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="/financial-thoughts/" class="logo">
+        <div class="logo-icon">F</div>
+        <span class="logo-text">Financial Thoughts</span>
+      </a>
+      <nav class="nav">
+        <a href="/financial-thoughts/" class="nav-link">Home</a>
+        <a href="/financial-thoughts/#articles" class="nav-link">Articles</a>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle theme">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+    Back to Articles
+  </a>
+
+  <div class="article-header">
+    
+    <span class="article-category category-finance">finance</span>
+    <h1>The Housing Market Has Quietly Broken: What This Means for the Economy</h1>
+    <div class="article-header-meta">
+      <span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        July 03, 2026
+      </span>
+      <span class="meta-separator"></span>
+      
+        <span>3365 words</span>
+        <span class="meta-separator"></span>
+      
+      
+      
+    </div>
+  </div>
+
+  
+  <div class="video-link-card">
+    <div class="video-icon">
+      <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+    </div>
+    <div class="video-info">
+      <a href="https://www.youtube.com/watch?v=YHWw-UDPo4w" target="_blank" class="video-link">
+        Watch Source Video
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      <div class="video-meta">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="article-content">
+    <p><em>Two central arguments reveal where the business cycle is headed—and why the stock market may not be the leading indicator most investors believe it is.</em></p>
+
+<hr />
+
+<h2 id="introduction">Introduction</h2>
+
+<p>The American housing market has quietly broken, and families across the country are paying more for less. While record-setting stock market highs dominate financial headlines, a deeper examination of the economic data reveals a more troubling picture—one where the country funds almost none of its own investments and leans heavily on foreign capital to bridge a growing savings gap.</p>
+
+<p>Eric Basmajian, founder of EPB Research and one of the sharpest voices on the business cycle today, recently joined a financial show to walk through two central arguments that illuminate where the economy is ultimately headed. His analysis challenges conventional wisdom about what drives economic cycles and offers a framework for understanding the vulnerabilities that lie beneath the surface of seemingly strong market performance.</p>
+
+<p>This article synthesizes Basmajian’s key insights on the broken housing market, the misunderstood role of the stock market as an economic indicator, and the structural forces reshaping the American economy.</p>
+
+<hr />
+
+<h2 id="the-stock-market-myth-why-its-not-a-leading-indicator">The Stock Market Myth: Why It’s Not a Leading Indicator</h2>
+
+<p>One of the most persistent beliefs among investors is that the stock market serves as a reliable leading indicator for the broader economy. Basmajian’s research challenges this assumption directly.</p>
+
+<h3 id="historical-evidence">Historical Evidence</h3>
+
+<p>When examining historical data, stocks do perform as a leading indicator in some contexts—but with crucial caveats. The stock market leads the economy at business cycle <em>bottoms</em>, but fails to do so consistently at <em>peaks</em>.</p>
+
+<p>“The stock market peaked in October 2007, which was just two months before the start of the recession,” Basmajian explained. “The official end date of the recession was June 2009. So there was a three-month lead time of stocks compared to the economy at the bottom, but at the peak, stocks were essentially coincident.”</p>
+
+<p>This pattern repeated during the COVID-19 pandemic, where the stock market was not at the forefront of what was going on either. The market bottomed in March 2009 while the recession officially ended in June 2009, but by March 2008—during the recession—the market was still near its all-time highs.</p>
+
+<h3 id="the-real-leading-indicator">The Real Leading Indicator</h3>
+
+<p>So if stocks don’t reliably lead at peaks, what does? According to Basmajian, the answer lies in what he calls the “cyclical part of the economy”—specifically construction and manufacturing.</p>
+
+<p>“What we find is that the cyclical economy is what really is the leading indicator,” Basmajian said. “The cyclical economy being construction and manufacturing, both the growth and the employment of those two categories.”</p>
+
+<p>This makes intuitive sense when examining the transmission mechanism. When the Federal Reserve tightens monetary policy, the tightening of credit and interest rates impacts construction and manufacturing first—these are the most interest-rate-sensitive sectors. The slowdown and job losses that occur in these industries then begin to drag down corporate earnings, prompting the stock market to respond, and finally the aggregate economy shows visible weakness.</p>
+
+<p><strong>The Chain of Economic Contraction:</strong></p>
+
+<ol>
+  <li>Federal Reserve tightens monetary policy</li>
+  <li>Construction and manufacturing slow first (most interest-rate sensitive)</li>
+  <li>Job losses in cyclical sectors spread</li>
+  <li>Corporate earnings decline</li>
+  <li>Stock market responds</li>
+  <li>Gray bars (recession indicators) appear</li>
+</ol>
+
+<p>“It’s somewhat of a circular argument for people that use the stock market to predict where the economy’s going and then tell them what the stock market’s going to do,” Basmajian noted. “It really amounts to a trend-following strategy—not economic analysis.”</p>
+
+<hr />
+
+<h2 id="the-housing-market-breakdown">The Housing Market Breakdown</h2>
+
+<p>While manufacturing has shown signs of improvement—partially driven by AI-related investment in computer equipment production—housing remains the economy’s weak point. The residential construction sector has experienced a structural breakdown that threatens to cascade through the broader economy.</p>
+
+<h3 id="production-versus-employment-divergence">Production Versus Employment Divergence</h3>
+
+<p>One of the most striking aspects of the current housing situation is the divergence between production and employment metrics.</p>
+
+<p>“The number of housing units under construction has dropped 20 or 30 percent,” Basmajian explained. “Building permits have come down, new home sales have come down. That’s really measuring the production element to the housing sector.”</p>
+
+<p>Yet employment in home building has declined only marginally—a few percentage points against the 20-30 percent production decline. This creates an unsustainable situation where home builders are maintaining their workforce despite dramatically reduced activity levels.</p>
+
+<p>“The difference must be coming out of profit margins,” Basmajian said. “The home building sector in aggregate has seen profit margins fall from 20 percent in 2022 down to 11 percent now. That’s a 900 basis point drop.”</p>
+
+<h3 id="the-profit-margin-buffer">The Profit Margin Buffer</h3>
+
+<p>Why haven’t massive layoffs followed this profit margin compression? Because home builder profit margins, boosted by pandemic-era stimulus, reached historically elevated levels—double the long-term average of around 10 percent.</p>
+
+<p>“At any other point in history, if there was a 900 basis point decline in profit margins for home builders, that would have led to a massive layoff cycle,” Basmajian noted. “But because of the stimulus and so many things that happened during the pandemic, profit margins were pushed all the way to 20 percent. So that compression has pushed margins to 11 percent, which is still slightly above where they’ve been over the course of their history.”</p>
+
+<p>The critical question becomes: what happens when those margins compress further?</p>
+
+<p>“If mortgage rates stay elevated, and they do stay where the markets are somewhat projecting—high 6 percent range—that will continue to pressure home builder profit margins, and we’ll see those numbers go from 11 to 10 to 9 to 8,” Basmajian warned. “And the lower you get, the larger the probability that those companies will have to start engaging in more aggressive layoffs, and that’s what will start to propel the downside through the rest of the cycle.”</p>
+
+<h3 id="the-affordability-crisis-deepens">The Affordability Crisis Deepens</h3>
+
+<p>Beyond production metrics, the cost of homeownership has exploded in ways that extend far beyond purchase prices.</p>
+
+<p>“Home prices are elevated relative to income,” Basmajian explained. “You have the combination of high prices and high interest rates that’s causing a high monthly payment relative to people’s income.”</p>
+
+<p>But the pain doesn’t end at the mortgage payment. The costs of home ownership have increased dramatically:</p>
+
+<ul>
+  <li><strong>Maintenance costs</strong>: Up almost 80 percent since the start of COVID in 2020</li>
+  <li><strong>Overall CPI inflation</strong>: Approximately 30 percent since COVID began</li>
+  <li><strong>Various homeownership costs</strong>: Rising twice as fast as overall CPI</li>
+</ul>
+
+<p>“People may have locked themselves into mortgages that are higher than what would be advised as a percentage of income, and then they’re getting squeezed by increased homeownership costs as well,” Basmajian said.</p>
+
+<h3 id="the-real-net-investment-collapse">The Real Net Investment Collapse</h3>
+
+<p>Perhaps most concerning is the long-term structural underinvestment in residential construction. Basmajian’s analysis of national investment accounts reveals a dramatic decline.</p>
+
+<p>“We used to invest something like 5 percent of our GDP on a real net basis in residential structures,” Basmajian explained. “Now it’s down to 1 percent.”</p>
+
+<p>This represents a real reduction—after inflation and depreciation—in the amount being invested in new housing. The implications extend beyond economics to quality of life.</p>
+
+<p>“What people feel on a day-to-day basis is real net investment, and that’s suffered quite dramatically in the residential sector,” Basmajian said. “That’s going to just put secular pressure, cost pressures on that entire sector.”</p>
+
+<hr />
+
+<h2 id="the-savings-gap-americas-hidden-vulnerability">The Savings Gap: America’s Hidden Vulnerability</h2>
+
+<p>One of the most significant structural issues facing the American economy is the collapse in national savings and the corresponding reliance on foreign capital.</p>
+
+<h3 id="the-mathematics-of-savings-and-investment">The Mathematics of Savings and Investment</h3>
+
+<p>Economic theory tells us that savings must equal investment. When the United States examines its investment accounts—measuring how much of GDP is being invested in structures, equipment, and intellectual property on a real net basis—the picture is troubling.</p>
+
+<p>“If you go back to the ’60s and ’70s, you can see that our domestic savings rate was very high,” Basmajian explained. “We were able to fund our own investment. The blue line in that chart has grinded down from 10-11 percent to virtually zero.”</p>
+
+<p>Net national savings has fallen from approximately 11.5 percent of GDP in the 1960s to roughly 0.7 percent today. Yet net investment still runs near 5 percent of GDP.</p>
+
+<h3 id="the-foreign-capital-dependence">The Foreign Capital Dependence</h3>
+
+<p>The difference is made up by foreign capital inflows, enabled by America’s large trade deficit. This creates a structural vulnerability.</p>
+
+<p>“If we have zero net national savings, that means we cannot fund any of our own investment,” Basmajian said. “We’re still able to invest because we run a large trade deficit. So we have a lot of capital coming in from overseas that’s able to fund that savings gap.”</p>
+
+<p>At the moment, this arrangement remains stable—but it represents a form of economic dependency that could prove problematic.</p>
+
+<p>“If for any reason in the future foreigners decide that they don’t want to fund the United States anymore, we’ll have a savings shortfall that we’ll have to make up either through higher domestic savings or much lower domestic investment,” Basmajian warned. “And that would be a painful adjustment.”</p>
+
+<h3 id="the-government-deficit-role">The Government Deficit Role</h3>
+
+<p>What’s driving the savings collapse? Primarily the government budget deficit, which has consumed household and corporate savings.</p>
+
+<p>“The government budget deficit has increased to such an extent that it’s eating up all the savings of households and corporations domestically,” Basmajian explained. “We’re still able to invest because we run a large trade deficit—but this means we’re really relying on the foreign sector to fund our savings.”</p>
+
+<hr />
+
+<h2 id="the-k-shaped-economy-labor-profits-and-concentration">The K-Shaped Economy: Labor, Profits, and Concentration</h2>
+
+<p>Beneath the surface of aggregate economic statistics lies a more troubling story about how gains from productivity have been distributed—and who has captured them.</p>
+
+<h3 id="the-diverging-paths-of-wages-and-productivity">The Diverging Paths of Wages and Productivity</h3>
+
+<p>For decades before the 1970s, real wages and productivity tracked each other closely. As productivity increased, so did workers’ living standards through higher real wages. This correlation has broken down dramatically.</p>
+
+<p>“Over the last four to five decades, this divergence has become wider and wider,” Basmajian noted. “As productivity increased dramatically, the pace of growth of real wages has slowed considerably.”</p>
+
+<p>The result is a K-shaped economy where some segments of the population thrive while others see declining standards of living.</p>
+
+<h3 id="the-labor-share-collapse">The Labor Share Collapse</h3>
+
+<p>The decline in labor’s share of national income tells the story quantitatively. American workers are taking home a smaller share of the nation’s income, capturing less of what the economy produces.</p>
+
+<p>“You’re right,” Basmajian confirmed. “The inverse of this chart is corporate profit margins. Corporate profit margins from 1990 till today have gone straight up—from 8 percent pre-tax to 20 percent pre-tax.”</p>
+
+<p>This shift represents a fundamental change in how economic gains are distributed. Workers who create value receive a shrinking portion while corporations capture an ever-larger share.</p>
+
+<p>“Of course, that’s really been a driver of why there’s been such a decades-long strong bull market,” Basmajian explained. “You’re buying companies that used to have on average 8 percent profit margins, now they have on average 20 percent profit margins. Their earnings are increasing faster than the economy.”</p>
+
+<h3 id="industry-concentration-the-real-driver">Industry Concentration: The Real Driver</h3>
+
+<p>What’s caused this shift? Basmajian points to a factor often overlooked in standard explanations: industry concentration.</p>
+
+<p>“Everyone will immediately say it’s globalization because the line starts to go down around 2000 when China came into the WTO,” Basmajian noted. “But there was a paper written on this called ‘The Rise and Fall of Superstar Firms,’ and it really went to great lengths to understand why this is happening. That drop in 2000 was more related to the internet and network effects as opposed to globalization.”</p>
+
+<p>The research shows that the median firm didn’t see much increase in profit margin. Instead, the aggregate increase came from a larger shift to fewer companies capturing a greater share of markets.</p>
+
+<p>“If it was globalization, you’d see the impact across all firms that were importing and exporting,” Basmajian explained. “But it was more of a concentration story and an internet story.”</p>
+
+<p>The data on home building illustrates the scale of this consolidation:</p>
+
+<ul>
+  <li><strong>1990s</strong>: Top 10 percent of home builders constructed approximately 8 percent of all homes</li>
+  <li><strong>Today</strong>: Top 10 percent of home builders construct approximately 50 percent of all homes</li>
+</ul>
+
+<p>This pattern repeats across industries—from healthcare to technology. With industries dominated by three or four major players, workers have less bargaining power, and companies can maintain higher profit margins.</p>
+
+<p>“Companies have an incentive to regulate for new competitors to have a difficult time coming into the market,” Basmajian said. “This hyper concentration across sectors is one of the large reasons for why this is occurring.”</p>
+
+<h3 id="the-physical-economy-versus-the-digital-economy">The Physical Economy Versus the Digital Economy</h3>
+
+<p>Part of the divergence reflects a structural shift in investment patterns. While investment in computer equipment and intellectual property has surged, investment in physical infrastructure—residential housing, non-residential structures, hospitals, power grids, water systems—has declined.</p>
+
+<p>“The gains in the economy or what’s absorbing all of the investment is computer equipment, IP, and software,” Basmajian explained. “And those gains are accruing to a smaller share of the population, as well as really towards the companies that own the IP.”</p>
+
+<p>Meanwhile, the lion’s share of the population interacts daily with a physical economy that has an eroding capital base.</p>
+
+<p>“That capital base is really the source of their productivity, and that’s becoming increasingly expensive because of the lack of investment, and it’s functioning much worse, which is hindering their productivity,” Basmajian said.</p>
+
+<p>The result is a bifurcated economy where certain segments of the population—those heavily invested in or using technology—generate most of the gains, while others who depend on physical infrastructure see declining standards of living.</p>
+
+<hr />
+
+<h2 id="the-federal-reserves-role">The Federal Reserve’s Role</h2>
+
+<p>What has the Federal Reserve’s role been in these developments? Basmajian is critical of specific policies, particularly the Fed’s involvement in the mortgage market.</p>
+
+<p>“They really should not be in the business of allocating credit,” Basmajian said bluntly. “You can make the case that engaging in the Treasury market is part of their purview, but mortgages are a tough case to make.”</p>
+
+<h3 id="mortgage-market-interventions">Mortgage Market Interventions</h3>
+
+<p>The Fed’s post-2008 engagement in mortgage markets has been particularly problematic, in Basmajian’s view.</p>
+
+<p>“Wandering into the mortgage market after 2008 was a mistake,” he argued. “If they had quickly corrected it maybe after the mortgage industry stabilized in 2010, 2011, we wouldn’t have had the problems we have today.”</p>
+
+<p>During the COVID-19 pandemic, the Fed purchased trillions of dollars in mortgages despite the housing market not experiencing a single month of declining home prices.</p>
+
+<p>“We didn’t even have one month of declining home prices during COVID, and they reflexed to buying trillions of dollars in mortgages, which caused large increases in home prices,” Basmajian said. “It was really unfounded.”</p>
+
+<h3 id="the-incentive-structure">The Incentive Structure</h3>
+
+<p>The Fed’s incentive structure, Basmajian suggests, predisposes it toward policies that support asset prices.</p>
+
+<p>“The incentives really are for them to create conditions that are positive for asset prices,” he explained. “Engineering declines in asset prices are not politically popular, and they can overlap with big increases in unemployment.”</p>
+
+<p>This tendency to favor the employment side of their mandate over the inflation side has fueled more speculative asset environments. Meanwhile, the Fed’s balance sheet policy—buying long-term securities, primarily mortgages—has artificially supported certain asset classes at the expense of real physical investment.</p>
+
+<hr />
+
+<h2 id="investment-implications-positioning-for-the-future">Investment Implications: Positioning for the Future</h2>
+
+<p>What does all this mean for investors trying to position their portfolios? Basmajian offers a nuanced framework for thinking about market risks and opportunities.</p>
+
+<h3 id="the-secular-case-for-stocks">The Secular Case for Stocks</h3>
+
+<p>“As long as you have that secular increase in profit margins, then with or without the Fed, the market will continue to do well,” Basmajian said. “It’s good for the stock market because a larger share of GDP will be flowing to corporations.”</p>
+
+<p>But this comes with a caveat that extends beyond pure investment returns.</p>
+
+<p>“Taken to an extreme, it’s bad for society because all of the income pie is going to corporations and not to households,” Basmajian noted. “It will perpetuate the K-shaped economy, and people that are not owners of assets will do disproportionately worse.”</p>
+
+<h3 id="the-cyclical-risk">The Cyclical Risk</h3>
+
+<p>On a cyclical basis, the key question is what happens in the cyclical part of the economy. If construction and manufacturing continue to decline, that would trigger a cyclical decline in the market.</p>
+
+<p>“The only thing that disrupts that secular trend on a cyclical basis is what’s happening in the cyclical part of the economy,” Basmajian explained.</p>
+
+<h3 id="the-current-vulnerability">The Current Vulnerability</h3>
+
+<p>The critical vulnerability lies in housing. The housing construction market is expected to remain under pressure, and the question is whether it will decline enough to drag the rest of the economy down.</p>
+
+<p>“Right now we’re just seeing declines in residential housing,” Basmajian said. “It hasn’t even spilled over to large declines in residential construction employment. There’s been some mild declines there.”</p>
+
+<p>But the path from high rates to weak employment to economic contraction follows a predictable pattern:</p>
+
+<ol>
+  <li>Interest rate increases cause slowdown in housing activity</li>
+  <li>Production collapses while employment remains elevated due to high profit margins</li>
+  <li>Margins compress as rates remain high</li>
+  <li>When margins approach historical averages, companies face acute pressure</li>
+  <li>Layoffs begin in earnest</li>
+  <li>Unemployed workers create downstream stress on the rest of the economy</li>
+</ol>
+
+<p>“The X factor or the linchpin of the whole cycle is how do the mortgage rates interplay with the profit margins of the home builders, and do they compress margins enough that it triggers a layoff cycle?” Basmajian asked. “That’s really the way a downturn evolves, and where we’ve been stuck in this process is that the interest rate increases have caused a slowdown in housing activity, but it hasn’t caused a drop in housing construction employment because it’s still been buffered by really high profit margins. And we’ll have to see if that game ends towards the end of this year.”</p>
+
+<h3 id="volatility-and-tail-risk">Volatility and Tail Risk</h3>
+
+<p>The distinction between recessionary and non-recessionary environments matters enormously for investors.</p>
+
+<p>“If the economy is moving towards a recession, assets are going to have more volatility and a higher probability of those left tail—or really bad—months,” Basmajian explained. “If the economy is not moving towards a recession, markets tend to be really one-directional, low volatility, and almost no probability of those left tail events.”</p>
+
+<p>The core analytical question, then, is whether the economy is moving closer to recession or further away. This requires monitoring:</p>
+
+<ul>
+  <li>Construction and manufacturing employment trends</li>
+  <li>Home builder profit margins</li>
+  <li>Housing starts and building permits</li>
+  <li>ISM manufacturing and industrial production data</li>
+  <li>The progression from production declines to employment declines</li>
+</ul>
+
+<hr />
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+
+<p>As the analysis reveals, the American economy faces interconnected challenges that extend well beyond surface-level market performance:</p>
+
+<p><strong>1. The Stock Market Lags at Peaks:</strong> Historical evidence shows the stock market doesn’t reliably predict economic peaks—construction and manufacturing employment does.</p>
+
+<p><strong>2. Housing Remains the Weak Point:</strong> The housing sector shows production declines of 20-30 percent while employment has barely budged, sustained only by temporarily elevated profit margins that are now compressing.</p>
+
+<p><strong>3. The Savings Gap Creates Vulnerability:</strong> With net national savings near zero, America depends on foreign capital to fund domestic investment—a structural dependency with potential consequences.</p>
+
+<p><strong>4. Profit Margins Drive Long-Term Market Performance:</strong> The secular rise in corporate profit margins has powered decades of stock market gains, but this has come at the expense of workers and contributed to a K-shaped economy.</p>
+
+<p><strong>5. Industry Concentration Matters:</strong> Rather than globalization, increasing industry concentration and network effects explain much of the shift from labor to capital.</p>
+
+<p><strong>6. The Fed’s Mortgage Market Involvement Has Been Harmful:</strong> Fed policies in the mortgage market have artificially inflated home prices and created structural distortions.</p>
+
+<p><strong>7. Watch the Cyclical Economy:</strong> The path to potential recession runs through construction and manufacturing employment—and particularly through whether housing layoffs trigger broader economic stress.</p>
+
+<p>Understanding these dynamics provides a framework for navigating an economy where the surface indicators may look strong while structural vulnerabilities accumulate beneath. The question for investors is whether the cycle continues to extend—or whether the broken housing market finally triggers the downstream stress that brings the expansion to an end.</p>
+
+  </div>
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo">Financial Thoughts</span>
+        <span class="footer-copy">© 2026 Financial Thoughts. All rights reserved.</span>
+      </div>
+      <div class="footer-links">
+        <a href="/financial-thoughts/">Home</a>
+        <a href="/financial-thoughts/#articles">Articles</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme management
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      const icon = document.getElementById('themeIcon');
+      if (icon) icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+
+    // Reading progress bar
+    window.addEventListener('scroll', () => {
+      const bar = document.getElementById('progressBar');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = progress + '%';
+    });
+  </script>
+</body>
+</html>

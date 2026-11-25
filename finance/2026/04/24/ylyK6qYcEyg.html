@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Will Trade Wars Cause Another Great Depression? George Seljin Explains</title>
+  <meta name="description" content="The specter of another Great Depression looms over today's global economic discourse. With tariff barriers rising across nations and trade tensions escalating, many wonder whether we're heading toward...">
+  <link rel="icon" type="image/svg+xml" href="/financial-thoughts/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #fafbfc;
+      --bg-secondary: #ffffff;
+      --bg-tertiary: #f0f2f5;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-tertiary: #94a3b8;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --accent-glow: rgba(37, 99, 235, 0.15);
+      --border: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --header-bg: rgba(255, 255, 255, 0.8);
+      --header-border: rgba(226, 232, 240, 0.6);
+      --footer-bg: #0f172a;
+      --footer-text: #94a3b8;
+      --code-bg: #f1f5f9;
+      --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1e40af 100%);
+      --gradient-accent: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+      --category-finance: #2563eb;
+      --category-finance-bg: #eff6ff;
+      --category-investing: #059669;
+      --category-investing-bg: #ecfdf5;
+      --category-economy: #d97706;
+      --category-economy-bg: #fffbeb;
+      --category-crypto: #7c3aed;
+      --category-crypto-bg: #f5f3ff;
+      --category-default: #64748b;
+      --category-default-bg: #f1f5f9;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-tertiary: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-tertiary: #64748b;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-light: #1e3a5f;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --border: #1e293b;
+      --border-hover: #334155;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+      --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      --header-bg: rgba(11, 17, 32, 0.85);
+      --header-border: rgba(30, 41, 59, 0.6);
+      --footer-bg: #050a15;
+      --footer-text: #64748b;
+      --code-bg: #1e293b;
+      --gradient-hero: linear-gradient(135deg, #050a15 0%, #0f172a 50%, #1e293b 100%);
+      --category-finance-bg: #1e3a5f;
+      --category-investing-bg: #064e3b;
+      --category-economy-bg: #78350f;
+      --category-crypto-bg: #4c1d95;
+      --category-default-bg: #1e293b;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-primary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+    /* ── Reading Progress Bar ── */
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: var(--gradient-accent);
+      z-index: 1000;
+      transition: width 0.1s ease;
+    }
+
+    /* ── Header ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--header-bg);
+      backdrop-filter: blur(20px) saturate(180%);
+      -webkit-backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--header-border);
+      transition: all 0.3s ease;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: var(--gradient-accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      font-size: 16px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .nav { display: flex; align-items: center; gap: 8px; }
+
+    .nav-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--text-primary);
+      background: var(--bg-tertiary);
+    }
+
+    .nav-link.active {
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .theme-toggle {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      margin-left: 8px;
+    }
+
+    .theme-toggle:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      transform: scale(1.05);
+    }
+
+    /* ── Main Content ── */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Hero Section ── */
+    .hero-section {
+      background: var(--gradient-hero);
+      border-radius: var(--radius-xl);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(124, 58, 237, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 680px;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 24px;
+    }
+
+    .hero-badge-dot {
+      width: 6px;
+      height: 6px;
+      background: #34d399;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 540px;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 32px;
+    }
+
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-stat-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .hero-stat-label {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.5);
+      font-weight: 500;
+    }
+
+    /* ── Section Header ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .section-filter {
+      display: flex;
+      gap: 6px;
+    }
+
+    .filter-btn {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Article Grid ── */
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+
+    .article-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .article-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient-accent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .article-card:hover {
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-2px);
+    }
+
+    .article-card:hover::before {
+      opacity: 1;
+    }
+
+    .article-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .article-category {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 100px;
+    }
+
+    .category-finance { color: var(--category-finance); background: var(--category-finance-bg); }
+    .category-investing { color: var(--category-investing); background: var(--category-investing-bg); }
+    .category-economy { color: var(--category-economy); background: var(--category-economy-bg); }
+    .category-crypto { color: var(--category-crypto); background: var(--category-crypto-bg); }
+    .category-default { color: var(--category-default); background: var(--category-default-bg); }
+
+    .article-video-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+      font-weight: 500;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-excerpt {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      margin-bottom: 18px;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* ── Featured Article ── */
+    .featured-card {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      padding: 32px;
+    }
+
+    .featured-card .article-title {
+      font-size: 26px;
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-card .article-excerpt {
+      -webkit-line-clamp: 4;
+    }
+
+    .featured-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .page-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-light);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .page-link.nav-link-btn {
+      font-weight: 600;
+    }
+
+    /* ── Article Detail ── */
+    .article-detail {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      padding: 8px 0;
+      margin-bottom: 24px;
+      transition: color 0.2s ease;
+    }
+
+    .back-link:hover { color: var(--accent); }
+
+    .article-header {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .article-header .article-category {
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 40px;
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .article-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: var(--text-tertiary);
+    }
+
+    .meta-separator {
+      width: 4px;
+      height: 4px;
+      background: var(--text-tertiary);
+      border-radius: 50%;
+    }
+
+    /* ── Video Link Card ── */
+    .video-link-card {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius-md);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+
+    .video-link-card:hover {
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .video-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--accent);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .video-icon svg {
+      width: 24px;
+      height: 24px;
+      fill: #fff;
+    }
+
+    .video-info { flex: 1; }
+
+    .video-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .video-link:hover { text-decoration: underline; }
+
+    .video-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    /* ── Content / Markdown ── */
+    .article-content {
+      font-size: 17px;
+      line-height: 1.8;
+      color: var(--text-primary);
+    }
+
+    .article-content h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 700;
+      margin: 48px 0 20px;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .article-content h3 {
+      font-size: 22px;
+      font-weight: 600;
+      margin: 36px 0 16px;
+      color: var(--text-primary);
+    }
+
+    .article-content p { margin-bottom: 20px; }
+
+    .article-content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .article-content strong { font-weight: 600; }
+
+    .article-content ul, .article-content ol {
+      margin-bottom: 20px;
+      padding-left: 24px;
+    }
+
+    .article-content li { margin-bottom: 8px; }
+
+    .article-content blockquote {
+      border-left: 4px solid var(--accent);
+      padding: 16px 24px;
+      margin: 24px 0;
+      background: var(--bg-tertiary);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+
+    .article-content code {
+      background: var(--code-bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    .article-content pre {
+      background: var(--code-bg);
+      padding: 20px;
+      border-radius: var(--radius-md);
+      overflow-x: auto;
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+
+    .article-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      margin: 24px 0;
+    }
+
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+    }
+
+    .article-content th,
+    .article-content td {
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      text-align: left;
+    }
+
+    .article-content th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+    }
+
+    .article-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      background: var(--footer-bg);
+      padding: 48px 24px;
+      margin-top: 80px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .footer-copy {
+      font-size: 14px;
+      color: var(--footer-text);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--footer-text);
+      text-decoration: none;
+      font-size: 14px;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover { color: #fff; }
+
+    /* ── Animations ── */
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .animate-in {
+      animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .article-card { animation: fadeInUp 0.5s ease forwards; }
+    .article-card:nth-child(1) { animation-delay: 0.05s; }
+    .article-card:nth-child(2) { animation-delay: 0.1s; }
+    .article-card:nth-child(3) { animation-delay: 0.15s; }
+    .article-card:nth-child(4) { animation-delay: 0.2s; }
+    .article-card:nth-child(5) { animation-delay: 0.25s; }
+    .article-card:nth-child(6) { animation-delay: 0.3s; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .header-inner { padding: 0 16px; height: 56px; }
+      .logo-text { font-size: 17px; }
+      .nav-link { padding: 6px 10px; font-size: 13px; }
+      .main-content { padding: 20px 16px 48px; }
+      .hero-section { padding: 40px 24px; border-radius: var(--radius-lg); }
+      .hero-title { font-size: 32px; }
+      .hero-subtitle { font-size: 16px; }
+      .hero-stats { gap: 24px; }
+      .hero-stat-value { font-size: 24px; }
+      .article-grid { grid-template-columns: 1fr; gap: 16px; }
+      .featured-card { grid-template-columns: 1fr; gap: 20px; padding: 24px; }
+      .featured-card .article-title { font-size: 22px; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+      .section-title { font-size: 24px; }
+      .article-header h1 { font-size: 28px; }
+      .article-content { font-size: 16px; }
+      .article-content h2 { font-size: 24px; }
+      .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+      .video-link-card { flex-direction: column; text-align: center; }
+    }
+
+    @media (max-width: 480px) {
+      .hero-stats { flex-direction: column; gap: 16px; }
+      .section-filter { flex-wrap: wrap; }
+      .article-header-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .meta-separator { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar" id="progressBar"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="/financial-thoughts/" class="logo">
+        <div class="logo-icon">F</div>
+        <span class="logo-text">Financial Thoughts</span>
+      </a>
+      <nav class="nav">
+        <a href="/financial-thoughts/" class="nav-link">Home</a>
+        <a href="/financial-thoughts/#articles" class="nav-link">Articles</a>
+        <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn" aria-label="Toggle theme">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <article class="article-detail">
+  <a href="/financial-thoughts/" class="back-link">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+    Back to Articles
+  </a>
+
+  <div class="article-header">
+    
+    <span class="article-category category-finance">finance</span>
+    <h1>Will Trade Wars Cause Another Great Depression? George Seljin Explains</h1>
+    <div class="article-header-meta">
+      <span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: -2px; margin-right: 4px;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        April 24, 2026
+      </span>
+      <span class="meta-separator"></span>
+      
+        <span>1467 words</span>
+        <span class="meta-separator"></span>
+      
+      
+      
+    </div>
+  </div>
+
+  
+  <div class="video-link-card">
+    <div class="video-icon">
+      <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+    </div>
+    <div class="video-info">
+      <a href="https://www.youtube.com/watch?v=ylyK6qYcEyg" target="_blank" class="video-link">
+        Watch Source Video
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      <div class="video-meta">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="article-content">
+    <p>The specter of another Great Depression looms over today’s global economic discourse. With tariff barriers rising across nations and trade tensions escalating, many wonder whether we’re heading toward a similar catastrophe. But according to George Seljin, former senior fellow at the Ko Institute and author of <em>False Dawn: The New Deal and the Promise of Recovery</em>, the answer is more nuanced than most assume—and the lessons from the 1930s may surprise you.</p>
+
+<hr />
+
+<h2 id="what-actually-caused-the-great-depression">What Actually Caused the Great Depression</h2>
+
+<p>The popular narrative pins the Great Depression squarely on the Smoot-Hawley Tariffs, and while they played a role, the reality was far more complex. According to Seljin, the Depression was “something of a perfect storm”—a convergence of multiple catastrophic factors rather than a single cause.</p>
+
+<h3 id="the-three-pillars-of-the-collapse">The Three Pillars of the Collapse</h3>
+
+<p><strong>1. The Gold Standard’s Fragile Architecture</strong></p>
+
+<p>The post-WWI gold standard wasn’t the robust system that existed before the war. It was a fragile arrangement designed to let central banks economize on gold reserves. When international cooperation began breaking down in the late 1920s, the entire system unraveled, causing a worldwide collapse of money supplies, spending, and credit.</p>
+
+<p><strong>2. America’s Banking System in Crisis</strong></p>
+
+<p>Even before the 1929 stock market crash, thousands of banks were failing annually throughout the 1920s. With approximately 32,000 banks operating in the US at the time, the banking system was chronically unstable. When the crash hit, bank failures accelerated dramatically, compounding the monetary collapse.</p>
+
+<p><strong>3. Policy Responses That Made Things Worse</strong></p>
+
+<p>The Smoot-Hawley Tariff, implemented after these problems had already taken root, aggravated an already deteriorating situation. But perhaps most damaging were the policies enacted in response to the Depression—including the National Recovery Administration, which essentially organized industry cartels to raise prices and wages through government controls.</p>
+
+<p>“The main thing that was driving what recovery did take place in the United States in the 30s was massive amounts of gold flowing into the United States after 1933,” Seljin explains. Yet the Roosevelt administration actually took steps to prevent this gold inflow from stimulating the economy, viewing it as a threat rather than an opportunity.</p>
+
+<hr />
+
+<h2 id="why-another-great-depression-is-unlikely">Why Another Great Depression Is Unlikely</h2>
+
+<p>Despite tariffs being raised globally in ways reminiscent of the 1930s, Seljin doesn’t believe we’re headed for a repeat catastrophe. Several factors differentiate today from that era:</p>
+
+<h3 id="the-lesson-learned">The Lesson Learned</h3>
+
+<p>The Great Depression taught policymakers two critical lessons:</p>
+
+<ul>
+  <li>
+    <p><strong>The Positive Lesson</strong>: When banking systems collapse, monetary and fiscal stimulus can help prop up demand and restore economic activity.</p>
+  </li>
+  <li>
+    <p><strong>The Negative Lesson</strong>: Some policy approaches—like government-imposed price controls and cartel formation—are fundamentally counterproductive and should be avoided.</p>
+  </li>
+</ul>
+
+<p>“We’re less likely to have a Great Depression,” Seljin states. “We could certainly have another recession. It could certainly be serious, but not that serious.”</p>
+
+<p>However, Seljin cautions against complacency. The modern banking system, while more robust than in the 1930s, isn’t invulnerable, as recent financial crises have demonstrated.</p>
+
+<hr />
+
+<h2 id="what-actually-ended-the-great-depression">What Actually Ended the Great Depression</h2>
+
+<p>The two most commonly cited explanations—the New Deal and World War II—don’t tell the whole story, according to Seljin.</p>
+
+<h3 id="the-myth-of-the-new-deal">The Myth of the New Deal</h3>
+
+<p>Roosevelt did take important steps early in his administration: stabilizing the banking system, implementing the famous bank holiday, and loosening gold standard constraints. However, the monetary system did nothing to deliberately recover from the collapse that had occurred during the three years leading up to his inauguration.</p>
+
+<p>“The Roosevelt administration didn’t take much advantage of either of them,” Seljin notes. “There’s very little fiscal stimulus despite what people think.”</p>
+
+<p>More damaging, the administration implemented the National Recovery Administration, which Seljin calls “the most counterproductive” policy of the era. By encouraging industries to form cartels and set high prices and wages through government mandates, the NRA actually worsened unemployment and deepened the downturn.</p>
+
+<h3 id="the-myth-of-world-war-ii">The Myth of World War II</h3>
+
+<p>While WWII temporarily solved unemployment problems—by conscripting millions into military service and converting factories to wartime production—the fix was temporary and fundamentally unstable.</p>
+
+<p>“Those troops come back home looking for jobs very quickly,” Seljin explains. “The factories that the government was giving orders to stop getting the orders. So that source of demand dries up, military spending goes down as a percent of GDP to almost where it was in 1939.”</p>
+
+<p>The Keynesian prediction that the Depression would return after the war never materialized. Why? Because something fundamental had changed during the war: the relationship between business and government shifted from hostility to cooperation.</p>
+
+<h3 id="the-real-answer-private-investments-return">The Real Answer: Private Investment’s Return</h3>
+
+<p>During the war,Seljin explains, businessmen “felt that they could invest.” The NRA had been repealed, communist threats seemed manageable, and the regulatory environment had stabilized. After the war ended, “private investment takes off like a rocket. It had been almost dead for a decade.”</p>
+
+<p>This investment surge—not government spending—sustained the post-war economic boom and ensured the Depression didn’t return.</p>
+
+<hr />
+
+<h2 id="regime-uncertainty-the-hidden-economic-drag">Regime Uncertainty: The Hidden Economic Drag</h2>
+
+<p>Seljin identifies “regime uncertainty” as a critical factor in both the New Deal’s failure and today’s economic challenges.</p>
+
+<p>“What the war did was to end that uncertainty, create a more certain environment for the going forward,” he notes. This certainty enabled the investment boom that followed.</p>
+
+<p>Today’s trade wars, combined with geopolitical instability, have created “a period of very high regime uncertainty again,” which acts as a drag on the economy. When businesses can’t predict future policies, taxes, and regulatory environments, they hesitate to invest and hire.</p>
+
+<p>“The exact causes of the uncertainty are different [from the 1930s], there’s some similarities like the tariff policies, but the uncertainty is high, and as a result, you don’t have the investment and you don’t have the robust job demand that you would have in an economy that was really feeling confident about the future.”</p>
+
+<h3 id="what-would-unlock-hiring">What Would Unlock Hiring?</h3>
+
+<p>To incentivize businesses to start hiring again, two things need to happen:</p>
+
+<ul>
+  <li><strong>Policy stability</strong>: Governments need to stop “toying with tariffs” and provide more predictable policy environments.</li>
+  <li><strong>Geopolitical resolution</strong>: The current war situation affecting oil supplies is itself creating massive uncertainty that needs to be addressed.</li>
+</ul>
+
+<hr />
+
+<h2 id="the-inflation-quandary-between-a-rock-and-a-hard-place">The Inflation Quandary: Between a Rock and a Hard Place</h2>
+
+<p>Adding another layer of complexity, inflation concerns are reemerging. Oil prices have surged toward $100 per barrel due to geopolitical tensions, CPI has ticked up to its highest level since 2024, and the Federal Reserve ended quantitative tightening late last year.</p>
+
+<h3 id="why-this-inflation-is-different">Why This Inflation Is Different</h3>
+
+<p>“The role of oil shocks in inflation is one of the more well-established facts of modern economic history,” Seljin states. Unlike demand-driven inflation caused by excessive money supply, oil shocks represent real supply constraints—resources becoming genuinely less available.</p>
+
+<h3 id="the-feds-impossible-choice">The Fed’s Impossible Choice</h3>
+
+<p>“If the Fed tries to fight this sort of inflation, it could very easily create a recessionary environment,” Seljin warns. This isn’t speculation—it’s exactly what happened in 2008, when the Fed’s hawkish stance based on inflation fears contributed significantly to the financial crisis.</p>
+
+<p>The fundamental problem is that Fed policy cannot make supply shocks disappear. “It can just create demand shocks that offset this—that match the supply shocks,” Seljin explains. “Prices don’t go up so much, but we all suffer more as a result of this tightening.”</p>
+
+<h3 id="the-bottom-line-on-inflation">The Bottom Line on Inflation</h3>
+
+<p>“High inflation isn’t enough to cause a Great Depression,” Seljin states definitively. “The most significant fact in the Great Depression was a collapse in spending and demand—about a third collapse of total spending in the economy.”</p>
+
+<p>Supply-driven inflation, while painful, operates through different mechanisms than the demand collapse that defined the Depression era.</p>
+
+<hr />
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+
+<ol>
+  <li>
+    <p><strong>The Great Depression was a perfect storm</strong>—not a single cause. Smoot-Hawley tariffs alone cannot explain it; the gold standard’s collapse and banking system failures were equally critical.</p>
+  </li>
+  <li>
+    <p><strong>Another Great Depression is unlikely today</strong>—but not impossible. We’ve learned from past policy mistakes, though the banking system remains potentially vulnerable.</p>
+  </li>
+  <li>
+    <p><strong>The New Deal didn’t end the Depression</strong>—it often made things worse. Wartime spending provided temporary relief, but the real recovery came from post-war private investment fueled by business-government cooperation.</p>
+  </li>
+  <li>
+    <p><strong>Regime uncertainty is a silent killer</strong> for economic growth. Stable, predictable policy environments enable investment and hiring; constant policy changes create paralysis.</p>
+  </li>
+  <li>
+    <p><strong>Supply-driven inflation creates an impossible dilemma</strong> for central banks. Fighting it risks recession; ignoring it allows inflation to soar—and neither option solves the underlying problem.</p>
+  </li>
+</ol>
+
+<p>The lesson from history isn’t that we should fear trade wars or inflation in isolation—it’s that economic catastrophes emerge from combinations of failures that compound each other. Watch for the cascade, not the single spark.</p>
+
+<hr />
+
+<p><em>George Seljin is the author of “The Theory of Free Banking” and “False Dawn: The New Deal and the Promise of Recovery” (2025).</em></p>
+
+  </div>
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="footer-logo">Financial Thoughts</span>
+        <span class="footer-copy">© 2026 Financial Thoughts. All rights reserved.</span>
+      </div>
+      <div class="footer-links">
+        <a href="/financial-thoughts/">Home</a>
+        <a href="/financial-thoughts/#articles">Articles</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Theme management
+    function getTheme() {
+      return localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      const icon = document.getElementById('themeIcon');
+      if (icon) icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', theme);
+    }
+
+    function toggleTheme() {
+      applyTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+
+    applyTheme(getTheme());
+
+    // Reading progress bar
+    window.addEventListener('scroll', () => {
+      const bar = document.getElementById('progressBar');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = progress + '%';
+    });
+  </script>
+</body>
+</html>
